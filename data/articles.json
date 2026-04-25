@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "a4528a254b981c38929de91ea170f13f",
+    "title": "Recreating Apple’s Vision Pro Animation in CSS",
+    "url": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-23T13:22:57.000Z",
+    "summary": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\nRecreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newslett...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "9b4fe981872e8363bbb86d1c14602868",
+    "title": "Enhancing Astro With a Markdown Component",
+    "url": "https://css-tricks.com/astro-markdown-component/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T13:49:57.000Z",
+    "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\nEnhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsle...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "23a0062c784a081820a759047bb09a7e",
+    "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
+    "url": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T10:00:00.000Z",
+    "summary": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
+    "categories": [
+      "design",
+      "product",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-04-25T09:02:26.069Z"
+  },
+  {
+    "id": "cfa09147965a1a22bea2200830d225c1",
+    "title": "Markdown + Astro = ❤️",
+    "url": "https://css-tricks.com/markdown-astro/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-20T13:55:16.000Z",
+    "summary": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\nMarkdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 22,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "7b1249d6128c0664775497b2b5aa8ad9",
+    "title": "Show HN: I've built a nice home server OS",
+    "url": "https://lightwhale.asklandd.dk/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-24T21:42:26.000Z",
+    "summary": "Comments",
+    "categories": [
+      "design",
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 20,
+    "fetchedAt": "2026-04-25T09:02:26.671Z"
+  },
+  {
+    "id": "930ed173fdf9cb96792d62ae15c65f26",
+    "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
+    "url": "https://css-tricks.com/the-javascript-module-system-architecture/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-16T13:53:58.000Z",
+    "summary": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture D...",
+    "categories": [
+      "design",
+      "frontend",
+      "css",
+      "ui"
+    ],
+    "score": 20,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "f3aaa2cf1c1b5752e28175d6c751ccfa",
+    "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
+    "url": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-20T13:00:00.000Z",
+    "summary": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration,...",
+    "categories": [
+      "design",
+      "accessibility",
+      "ux",
+      "frontend"
+    ],
+    "score": 20,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "8599093d97b418aa441389d1a4a121af",
+    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+    "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T05:56:12.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "a8f77ac6217dd47a9e81c096be0337e5",
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "url": "https://github.com/nex-crm/wuphf",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T08:53:53.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "2957cd2fa1f7155efd0189b1f0824413",
+    "title": "Google plans to invest up to $40B in Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-24T16:04:41.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "fdc9bb4fc1d75bb8fb7d81853b1240c2",
+    "title": "Plain text has been around for decades and it’s here to stay",
+    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T01:03:09.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "382b1878f43808cdd294bf0ab9446b4a",
+    "title": "My audio interface has SSH enabled by default",
+    "url": "https://hhh.hn/rodecaster-duo-fw/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-24T19:30:46.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "e8d77d6887b87625653d6c7fa9cec12b",
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-24T14:28:52.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "7c0efb187d8b9d0806b51f3e1fdc07d8",
+    "title": "Replace IBM Quantum back end with /dev/urandom",
+    "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T00:58:38.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "853b6b4ea682825800acf32c024d4be2",
+    "title": "Turbo Vision 2.0 – a modern port",
+    "url": "https://github.com/magiblot/tvision",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T04:18:01.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "d3ff25d21c931b4d3e9421d2648e3612",
+    "title": "(Blender) Cosmology with Geometry Nodes",
+    "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T01:08:14.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "9328a26c4b5e13e6f2e257385c54ce62",
+    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-24T18:06:05.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "a427bcd80a2a843df375bbdcc1864ac3",
+    "title": "The Classic American Diner",
+    "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-24T19:01:09.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "d0bbed0befaa9ff34a723bac27567917",
+    "title": "Firefox Has Integrated Brave's Adblock Engine",
+    "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T01:47:33.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "effb4170f4a24714cc728448aee49815",
+    "title": "Education must go beyond the mere production of words",
+    "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T00:11:43.000Z",
+    "summary": "Comments",
+    "categories": [
+      "product",
+      "tech",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "77a45e521afee5e9319bac3357327096",
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+    "url": "https://alash3al.github.io/stash?_v01",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-25T01:24:40.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "272b9bcff4f4e3f9c28fbfef8b7ad36b",
+    "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
+    "url": "https://css-tricks.com/whats-important-9/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-17T14:00:41.000Z",
+    "summary": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\nWhat’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "7a70eecab6f313f8f7c84eaf32d460ce",
+    "title": "The Radio State Machine",
+    "url": "https://css-tricks.com/the-radio-state-machine/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-14T13:55:38.000Z",
+    "summary": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should reall...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "95d61e845d01d7c9f81ce01308b6900f",
+    "title": "7 View Transitions Recipes to Try",
+    "url": "https://css-tricks.com/7-view-transitions-recipes-to-try/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-13T14:14:43.000Z",
+    "summary": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "58227fcc3165df9a5c9dee2ed4d05162",
+    "title": "Front-End Fools: Top 10 April Fools’ UI Pranks of All Time",
+    "url": "https://css-tricks.com/front-end-april-fools-top-10/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-01T14:00:26.000Z",
+    "summary": "These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.\nFront-End Fools: Top 10 April Fools’ UI Pranks of All Time originally handwritten and published with love on CSS-Tricks. You should really ge...",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "0baa076d3a8bc18d5f1b9dc2413fcd81",
+    "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
+    "url": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-12T10:00:00.000Z",
+    "summary": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
+    "categories": [
+      "design",
+      "css",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "a9e5c20d0185caf1ec2c323a3845d02f",
+    "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
+    "url": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-02-05T08:00:00.000Z",
+    "summary": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
+    "categories": [
+      "css",
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "539897107d2cdba4dcfe4d36f3ef913f",
+    "title": "Unstacking CSS Stacking Contexts",
+    "url": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-27T10:00:00.000Z",
+    "summary": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of lay...",
+    "categories": [
+      "css",
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "5ee024d3c0eee833ae6ee048b39f584e",
+    "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
+    "url": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-14T10:00:00.000Z",
+    "summary": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
+    "categories": [
+      "design",
+      "css",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "0ef515cc95675bb76c08ee9e3ba9bd09",
+    "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
+    "url": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2025-12-17T10:00:00.000Z",
+    "summary": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
+    "categories": [
+      "design",
+      "css",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 18,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "58a28828682a4c0d08743af0ab7c675d",
+    "title": "Selecting a Date Range in CSS",
+    "url": "https://css-tricks.com/selecting-a-date-range-in-css/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-09T13:52:56.000Z",
+    "summary": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\nSelecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well....",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "2261f908d31a3d577fc5e7a60359d997",
+    "title": "Alternatives to the !important Keyword",
+    "url": "https://css-tricks.com/alternatives-to-the-important-keyword/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-07T13:54:43.000Z",
+    "summary": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally handwritten and published with",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "36fd59b682ad814d347c01699e10197b",
+    "title": "Looking at New CSS Multi-Column Layout Wrapping Features",
+    "url": "https://css-tricks.com/css-multi-column-layout-wrapping-features/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-06T13:55:49.000Z",
+    "summary": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally handwritten and published with love on C...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "7afe09e45ed8de123f02737520a4673e",
+    "title": "Making Complex CSS Shapes Using shape()",
+    "url": "https://css-tricks.com/complex-css-shapes-with-shape-function/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-02T13:58:24.000Z",
+    "summary": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.\nMaking Complex CSS Shapes Using shape() originally handwritten and pu...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "1d2dd64f20d575d9abaa18916dae4211",
+    "title": "Sniffing Out the CSS Olfactive API",
+    "url": "https://css-tricks.com/css-olfactive-api/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-01T13:54:47.000Z",
+    "summary": "A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.\nSniffing Out the CSS Olfactive API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "f52803133395deaf42f4ba6971bd6093",
+    "title": "What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More",
+    "url": "https://css-tricks.com/whats-important-8/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-31T14:14:07.000Z",
+    "summary": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.\nWhat’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally handwritten and published with love on CSS-Tricks. You sh...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "6efb28896d6dac75aac7f144c9f26897",
+    "title": "Form Automation Tips for Happier User and Clients",
+    "url": "https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-30T14:12:14.000Z",
+    "summary": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control\nForm Automation Tips for Happie...",
+    "categories": [
+      "accessibility",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:27.593Z"
+  },
+  {
+    "id": "fe37d581224198eb535eb372c260d7bf",
+    "title": "How To Improve UX In Legacy Systems",
+    "url": "https://smashingmagazine.com/2026/04/legacy-systems/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-10T13:00:00.000Z",
+    "summary": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "7edf38f2312b5eba85d94a7ed8feed46",
+    "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
+    "url": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-07T10:00:00.000Z",
+    "summary": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not no...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "a72077185c9537c32739a724e55d55b7",
+    "title": "A Practical Guide To Design Principles",
+    "url": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-01T10:00:00.000Z",
+    "summary": "Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "6dd98634c78f29d0e7153deed3c031a6",
+    "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-31T11:00:00.000Z",
+    "summary": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "4166d19da6a11746881fd81a2cfec539",
+    "title": "The Site-Search Paradox: Why The Big Box Always Wins",
+    "url": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-26T10:00:00.000Z",
+    "summary": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still w...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "1a1e617613cf6ea119bab7a1ab7d7f83",
+    "title": "Testing Font Scaling For Accessibility With Figma Variables",
+    "url": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-24T13:00:00.000Z",
+    "summary": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost",
+    "categories": [
+      "design",
+      "accessibility",
+      "ux",
+      "frontend"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "5b2f5341388a7fb5861d1473b2631e1a",
+    "title": "Modal vs. Separate Page: UX Decision Tree",
+    "url": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-19T15:00:00.000Z",
+    "summary": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "2aad87c0f7c5156a01e6464e9ae8925a",
+    "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
+    "url": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-17T10:00:00.000Z",
+    "summary": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product de...",
+    "categories": [
+      "design",
+      "product",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "491031002e6663c0158b1ec08dda69d5",
+    "title": "Moving From Moment.js To The JS Temporal API",
+    "url": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-13T13:00:00.000Z",
+    "summary": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-...",
+    "categories": [
+      "design",
+      "frontend",
+      "ux",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "2d70433317bac3fceedd8c64391fc8e7",
+    "title": "Building Dynamic Forms In React And Next.js",
+    "url": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-10T13:00:00.000Z",
+    "summary": "Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.",
+    "categories": [
+      "design",
+      "frontend",
+      "ux",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "605a21bc713c358793c24cec9d833b24",
+    "title": "Persuasive Design: Ten Years Later",
+    "url": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-09T11:00:00.000Z",
+    "summary": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually h...",
+    "categories": [
+      "design",
+      "product",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "d1f3970dae2c9cd813df0cece39c9f05",
+    "title": "Human Strategy In An AI-Accelerated Workflow",
+    "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-06T08:00:00.000Z",
+    "summary": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in sy...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "09c7c832dbb718cf0d7c331cb42d29c2",
+    "title": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams",
+    "url": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-03T15:00:00.000Z",
+    "summary": "Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design proc...",
+    "categories": [
+      "design",
+      "accessibility",
+      "ux",
+      "frontend"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "f933fcc12c2ac8e23c5a071bd71f5c59",
+    "title": "Getting Started With The Popover API",
+    "url": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-03-02T10:00:00.000Z",
+    "summary": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessib...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "d1394076bcea8710a1ddb43d144ce1ed",
+    "title": "Fresh Energy In March (2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-02-28T09:00:00.000Z",
+    "summary": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "ed6e69c24eacead5d7700bc267e655c3",
+    "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
+    "url": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-02-26T11:00:00.000Z",
+    "summary": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "7481c13e0c25e8d5fd8a3a7a17a61b55",
+    "title": "A Designer’s Guide To Eco-Friendly Interfaces",
+    "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-02-23T10:00:00.000Z",
+    "summary": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it re...",
+    "categories": [
+      "design",
+      "frontend",
+      "ux",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "e079328ad1633c91b7d35ed43315b549",
+    "title": "Designing A Streak System: The UX And Psychology Of Streaks",
+    "url": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-02-18T15:00:00.000Z",
+    "summary": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "35461d4375061a98e17730a4c2f7a4e8",
+    "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
+    "url": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-02-13T15:00:00.000Z",
+    "summary": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
+    "categories": [
+      "design",
+      "product",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "9e28dab884d63e3124d8d40d0da3e7ac",
+    "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
+    "url": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-02-11T13:00:00.000Z",
+    "summary": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "22d59e2864989d31c1cc66037cf02fed",
+    "title": "Combobox vs. Multiselect vs. Listbox: How To Choose The Right One",
+    "url": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-02-03T10:00:00.000Z",
+    "summary": "Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "2dd8431e359681e59496a129d768991e",
+    "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-31T09:00:00.000Z",
+    "summary": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "5b0ceda087e5967598c65fb5112f1a03",
+    "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
+    "url": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-30T13:00:00.000Z",
+    "summary": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techn...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "c23d1b3a7e47bf6d05734f4958c133e7",
+    "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
+    "url": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-22T13:00:00.000Z",
+    "summary": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "c68586707d213183cd58653871c0574e",
+    "title": "Rethinking “Pixel Perfect” Web Design",
+    "url": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-20T10:00:00.000Z",
+    "summary": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "c6b9487ee12018a8f4090f8e21e53776",
+    "title": "UX And Product Designer’s Career Paths In 2026",
+    "url": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-12T10:00:00.000Z",
+    "summary": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
+    "categories": [
+      "design",
+      "product",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "2e3ac34a4f0e6aeef925195672af57b0",
+    "title": "Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows",
+    "url": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-08T08:00:00.000Z",
+    "summary": "[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penp...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "5e2689334d90b6d3b228abec6142a4b7",
+    "title": "Pivoting Your Career Without Starting From Scratch",
+    "url": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-01-07T10:00:00.000Z",
+    "summary": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without star...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "0a591deb7b15c7f94666f2cadfcccfb0",
+    "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2025-12-31T09:00:00.000Z",
+    "summary": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "d77e2d959a6e98b89a15555fd2891c27",
+    "title": "How To Design For (And With) Deaf People",
+    "url": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2025-12-30T10:00:00.000Z",
+    "summary": "Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "7899439ebbbe2249292cb40335c2fd71",
+    "title": "Giving Users A Voice Through Virtual Personas",
+    "url": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2025-12-23T10:00:00.000Z",
+    "summary": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "9eaf79d0f4a0e075fd2de1ca2afab819",
+    "title": "How To Measure The Impact Of Features",
+    "url": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2025-12-19T10:00:00.000Z",
+    "summary": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
+    "categories": [
+      "design",
+      "product",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "1813166f553ab9e975ee43a2e632e47b",
+    "title": "Accessible UX Research, eBook Now Available For Download",
+    "url": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2025-12-09T16:00:00.000Z",
+    "summary": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 16,
+    "fetchedAt": "2026-04-25T09:02:26.070Z"
+  },
+  {
+    "id": "4ee1a1ee775d7cf2256ab4e352941443",
+    "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+    "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T12:20:01.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 15,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "a1cacb8fa4afb9208d960a48767c1cb7",
+    "title": "A Powerful New 'QR Code' Untangles Math's Knottiest Knots",
+    "url": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T15:46:12.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 15,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "d52abc55c9ae55600a1b8479c99a0460",
+    "title": "Iliad fragment found in Roman-era mummy",
+    "url": "https://www.thehistoryblog.com/archives/75877",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T14:18:35.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 15,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "4a9d00c90cd6266f59b4234b068fc6fa",
+    "title": "PCR is a surprisingly near-optimal technology",
+    "url": "https://nikomc.com/2026/04/22/pcr/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T16:57:35.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 15,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "895a23325613188a276606c85836f625",
+    "title": "MacBook Neo and how the iPad should be",
+    "url": "https://craigmod.com/essays/ipad_neo/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-23T04:40:31.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 15,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "25f4223bb0190846ed4d1151b271b400",
+    "title": "Email could have been X.400 times better",
+    "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-23T08:10:09.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 15,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "d3ac7e1723be998da1f224ef626d6ffc",
+    "title": "DeepSeek v4",
+    "url": "https://api-docs.deepseek.com/news/news260424",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-24T03:01:21.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 15,
+    "fetchedAt": "2026-04-25T09:02:26.671Z"
+  },
+  {
+    "id": "9b56f5888b97bc562568bca70728e5d4",
+    "title": "Paraloid B-72",
+    "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T04:17:07.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 12,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "1a6ee343ff1f0a4e4d19871d4514fff1",
+    "title": "Humpback whales are forming super-groups",
+    "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T02:55:49.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 12,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "534c578aa18ef441a0fe2b3014ba17ed",
+    "title": "How to Implement an FPS Counter",
+    "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T01:31:17.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 12,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "a3c58ffe8e8a2c699ec1ac79dcfac0d6",
+    "title": "The mail sent to a video game publisher",
+    "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-21T14:39:04.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 12,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "39e030aa89745e3f7938820ea2114ed2",
+    "title": "Work with the garage door up (2024)",
+    "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-21T17:13:29.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 12,
+    "fetchedAt": "2026-04-25T09:02:26.670Z"
+  },
+  {
+    "id": "dd9e37ac17ecfca50157648ad76a733a",
+    "title": "ENIAC's Architects Wove Stories Through Computing",
+    "url": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T00:33:47.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 12,
+    "fetchedAt": "2026-04-25T09:02:26.671Z"
+  },
+  {
+    "id": "5b7b1658a7d56f92a2d6b3e46d0606d7",
+    "title": "You don't want long-lived keys",
+    "url": "https://argemma.com/blog/long-lived-keys/",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-21T16:55:04.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 12,
+    "fetchedAt": "2026-04-25T09:02:26.671Z"
+  },
+  {
+    "id": "14137b0aede637c451531ab377ea412a",
+    "title": "Reverse-engineering infrared-based electronic shelf labels",
+    "url": "https://www.furrtek.org/?a=esl",
+    "source": "Hacker News",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T04:24:32.000Z",
+    "summary": "Comments",
+    "categories": [
+      "tech",
+      "product",
+      "startup"
+    ],
+    "score": 12,
+    "fetchedAt": "2026-04-25T09:02:26.671Z"
+  }
+]

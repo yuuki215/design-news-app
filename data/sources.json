@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hacker-news",
+    "name": "Hacker News",
+    "type": "rss",
+    "feedUrl": "https://news.ycombinator.com/rss",
+    "siteUrl": "https://news.ycombinator.com",
+    "enabled": true,
+    "priority": 8,
+    "categoryHints": ["tech", "product", "startup"]
+  },
+  {
+    "id": "css-tricks",
+    "name": "CSS-Tricks",
+    "type": "rss",
+    "feedUrl": "https://css-tricks.com/feed/",
+    "siteUrl": "https://css-tricks.com",
+    "enabled": true,
+    "priority": 10,
+    "categoryHints": ["css", "frontend", "ui"]
+  },
+  {
+    "id": "smashing-magazine",
+    "name": "Smashing Magazine",
+    "type": "rss",
+    "feedUrl": "https://www.smashingmagazine.com/feed/",
+    "siteUrl": "https://www.smashingmagazine.com",
+    "enabled": true,
+    "priority": 10,
+    "categoryHints": ["design", "ux", "frontend", "accessibility"]
+  },
+  {
+    "id": "designer-news",
+    "name": "Designer News",
+    "type": "rss",
+    "feedUrl": "https://www.designernews.co/?format=rss",
+    "siteUrl": "https://www.designernews.co",
+    "enabled": true,
+    "priority": 9,
+    "categoryHints": ["design", "product", "community"]
+  }
+]

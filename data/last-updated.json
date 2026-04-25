@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-04-25T09:02:27.594Z",
+  "status": "partial",
+  "successfulSources": [
+    "Hacker News",
+    "CSS-Tricks",
+    "Smashing Magazine"
+  ],
+  "failedSources": [
+    "Designer News"
+  ]
+}
