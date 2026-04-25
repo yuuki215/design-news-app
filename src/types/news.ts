@@ -10,6 +10,12 @@ export interface NewsArticle {
   thumbnail?: string;
   score: number;
   fetchedAt: string;
+  // 拡張フィールド
+  region: "jp" | "global";
+  language: "ja" | "en" | "other";
+  isPickup?: boolean;
+  translatedTitle?: string;
+  translatedSummary?: string;
 }
 
 export interface NewsSource {
@@ -21,6 +27,9 @@ export interface NewsSource {
   enabled: boolean;
   priority: number;
   categoryHints: string[];
+  // 拡張フィールド
+  region: "jp" | "global";
+  language: "ja" | "en" | "other";
 }
 
 export interface UpdateMeta {

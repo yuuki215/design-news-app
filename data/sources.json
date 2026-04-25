@@ -1,13 +1,51 @@
 [
   {
-    "id": "hacker-news",
-    "name": "Hacker News",
+    "id": "coliss",
+    "name": "コリス",
     "type": "rss",
-    "feedUrl": "https://news.ycombinator.com/rss",
-    "siteUrl": "https://news.ycombinator.com",
+    "feedUrl": "https://coliss.com/feed/",
+    "siteUrl": "https://coliss.com",
     "enabled": true,
+    "priority": 10,
+    "categoryHints": ["design", "css", "frontend", "ui"],
+    "region": "jp",
+    "language": "ja"
+  },
+  {
+    "id": "lig-blog",
+    "name": "LIG blog",
+    "type": "rss",
+    "feedUrl": "https://liginc.co.jp/feed",
+    "siteUrl": "https://liginc.co.jp",
+    "enabled": true,
+    "priority": 9,
+    "categoryHints": ["design", "web", "frontend", "ux"],
+    "region": "jp",
+    "language": "ja"
+  },
+  {
+    "id": "photoshopvip",
+    "name": "PhotoshopVIP",
+    "type": "rss",
+    "feedUrl": "https://photoshopvip.net/feed",
+    "siteUrl": "https://photoshopvip.net",
+    "enabled": true,
+    "priority": 9,
+    "categoryHints": ["design", "photoshop", "ui", "graphics"],
+    "region": "jp",
+    "language": "ja"
+  },
+  {
+    "id": "webtan",
+    "name": "Web担当者Forum",
+    "type": "rss",
+    "feedUrl": "https://webtan.impress.co.jp/rss",
+    "siteUrl": "https://webtan.impress.co.jp",
+    "enabled": false,
     "priority": 8,
-    "categoryHints": ["tech", "product", "startup"]
+    "categoryHints": ["web", "marketing", "design", "seo"],
+    "region": "jp",
+    "language": "ja"
   },
   {
     "id": "css-tricks",
@@ -16,8 +54,10 @@
     "feedUrl": "https://css-tricks.com/feed/",
     "siteUrl": "https://css-tricks.com",
     "enabled": true,
-    "priority": 10,
-    "categoryHints": ["css", "frontend", "ui"]
+    "priority": 7,
+    "categoryHints": ["css", "frontend", "ui"],
+    "region": "global",
+    "language": "en"
   },
   {
     "id": "smashing-magazine",
@@ -26,17 +66,9 @@
     "feedUrl": "https://www.smashingmagazine.com/feed/",
     "siteUrl": "https://www.smashingmagazine.com",
     "enabled": true,
-    "priority": 10,
-    "categoryHints": ["design", "ux", "frontend", "accessibility"]
-  },
-  {
-    "id": "designer-news",
-    "name": "Designer News",
-    "type": "rss",
-    "feedUrl": "https://www.designernews.co/?format=rss",
-    "siteUrl": "https://www.designernews.co",
-    "enabled": true,
-    "priority": 9,
-    "categoryHints": ["design", "product", "community"]
+    "priority": 7,
+    "categoryHints": ["design", "ux", "frontend", "accessibility"],
+    "region": "global",
+    "language": "en"
   }
 ]

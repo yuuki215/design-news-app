@@ -1,26 +1,34 @@
 # Design News App
 
-毎朝 8:00 JST に自動更新されるデザイン最新ニュースアプリ。完全無料で運用できる静的サイト構成。
+毎朝 8:00 JST に自動更新される日本のデザイン最新ニュースアプリ。完全無料で運用できる静的サイト構成。
 
 ## 🌟 特徴
 
+- **日本中心の配信**: コリス、LIG blog、PhotoshopVIP、Web担当者Forumなど日本のデザインメディアを優先
+- **厳選5〜10本**: スコアリングにより1日あたり5〜10本の質の高い記事に絞り込み
+- **ピックアップ表示**: 上位1〜2本をファーストビューに大きく表示
+- **パステル調UI**: 余白たっぷりのミニマルで読みやすいデザイン
 - **完全無料**: API・ホスティング・ビルドすべて無料枠内で運用
 - **毎朝自動更新**: GitHub Actions により毎朝 8:00 JST に自動でニュース取得＆デプロイ
-- **モダンUI**: Next.js + Tailwind CSS によるミニマルで読みやすいデザイン
-- **多様なソース**: Hacker News, CSS-Tricks, Smashing Magazine などから集約
 
 ## 📰 ニュースソース
 
-- **Hacker News**: テック/プロダクト系ニュース
-- **CSS-Tricks**: CSS/UI実装/フロントエンド
+### 日本メディア（優先）
+- **コリス**: CSS/デザイン/フロントエンド
+- **LIG blog**: デザイン/Web/UX
+- **PhotoshopVIP**: デザイン/グラフィックス
+- **Web担当者Forum**: Web/マーケティング/デザイン
+
+### 海外メディア（補完）
+- **CSS-Tricks**: CSS/フロントエンド
 - **Smashing Magazine**: デザイン/UX/アクセシビリティ
-- **Designer News**: デザインコミュニティ（RSS状態により可変）
 
 ## 🛠 技術スタック
 
 - **フレームワーク**: Next.js 16 (App Router + Static Export)
 - **言語**: TypeScript
 - **スタイリング**: Tailwind CSS 4
+- **フォント**: Noto Sans JP（日本語対応）
 - **フィード取得**: rss-parser
 - **自動更新**: GitHub Actions (cron)
 - **ホスティング**: GitHub Pages
@@ -66,21 +74,21 @@ npm run build
 │  └─ update-news.yml        # 自動更新ワークフロー
 ├─ app/
 │  ├─ layout.tsx
-│  ├─ page.tsx               # メインページ
-│  └─ globals.css
+│  ├─ page.tsx               # メインページ（ピックアップ+一覧）
+│  └─ globals.css            # パステル配色定義
 ├─ data/
-│  ├─ sources.json           # ソース定義
-│  ├─ articles.json          # 取得済み記事
+│  ├─ sources.json           # ソース定義（日本中心）
+│  ├─ articles.json          # 取得済み記事（5〜10本）
 │  └─ last-updated.json      # 更新メタ情報
 ├─ scripts/
-│  └─ fetch-feeds.ts         # フィード取得スクリプト
+│  └─ fetch-feeds.ts         # フィード取得・スコアリング・厳選スクリプト
 ├─ src/
 │  ├─ components/
-│  │  ├─ header.tsx
-│  │  ├─ news-card.tsx
-│  │  └─ filter-bar.tsx
+│  │  ├─ header.tsx          # ヘッダー
+│  │  ├─ news-card.tsx       # 記事カード
+│  │  └─ filter-bar.tsx      # 地域・カテゴリフィルタ
 │  └─ types/
-│     └─ news.ts
+│     └─ news.ts             # 型定義（region/language/isPickup拡張）
 └─ next.config.ts
 ```
 
@@ -99,8 +107,25 @@ npm run build
   "siteUrl": "https://example.com",
   "enabled": true,
   "priority": 8,
-  "categoryHints": ["design", "frontend"]
+  "categoryHints": ["design", "frontend"],
+  "region": "jp",
+  "language": "ja"
 }
+```
+
+### スコアリング調整
+
+`scripts/fetch-feeds.ts` の `calculateScore` 関数で以下を調整可能:
+- 日本記事の優先度（デフォルト: +15点）
+- 新しさによる加点（1日以内: +10点）
+- ソース優先度（priority値）
+- カテゴリ関連度
+
+### 厳選件数変更
+
+`scripts/fetch-feeds.ts` の以下を変更:
+```ts
+const targetCount = Math.max(5, Math.min(10, allArticles.length));
 ```
 
 ### 更新時刻変更
@@ -158,13 +183,27 @@ Actions タブ → "Update News and Deploy" → "Run workflow"
 - **ビルドエラー**: Actions のログを確認
 - **Pages 404**: リポジトリ Settings → Pages で Source が "GitHub Actions" になっているか確認
 
-## 🔮 将来拡張案
+## 🎨 デザインシステム
 
-- [ ] キーワード検索機能
+### パステルカラー定義
+
+`app/globals.css` で定義:
+- 背景: `#faf8f6` (ベージュ系)
+- ピックアップ背景: `#fff4ed` (ピーチ系)
+- 日本記事ラベル: `#ffb5a7` (ピンク系)
+- 海外記事ラベル: `#a8dadc` (ブルー系)
+
+### 日本語フォント
+
+`Noto Sans JP` をGoogle Fontsから読み込み。ウェイト: 400, 500, 700
+
+## 🔮 将来拡張予定
+
+- [ ] 翻訳機能（海外記事を日本語化）
+- [ ] キーワード検索
 - [ ] お気に入り保存（localStorage）
-- [ ] ダークモード切り替え
+- [ ] ダークモード
 - [ ] OG画像自動生成
-- [ ] "News" と "Inspiration" タブ分離
 
 ## 📄 ライセンス
 

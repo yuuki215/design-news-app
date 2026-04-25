@@ -1,12 +1,14 @@
 {
-  "updatedAt": "2026-04-25T09:02:27.594Z",
+  "updatedAt": "2026-04-25T09:44:49.916Z",
   "status": "partial",
   "successfulSources": [
-    "Hacker News",
+    "コリス",
+    "LIG blog",
+    "PhotoshopVIP",
     "CSS-Tricks",
     "Smashing Magazine"
   ],
   "failedSources": [
-    "Designer News"
+    "Web担当者Forum"
   ]
 }

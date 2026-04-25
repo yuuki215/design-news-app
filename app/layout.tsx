@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Noto_Sans_JP } from "next/font/google";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -12,9 +12,15 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const notoSansJP = Noto_Sans_JP({
+  variable: "--font-noto-sans-jp",
+  subsets: ["latin"],
+  weight: ["400", "500", "700"],
+});
+
 export const metadata: Metadata = {
-  title: "Design News - Daily Design & Frontend Updates",
-  description: "Curated design news from Hacker News, CSS-Tricks, Smashing Magazine, and more. Updated daily at 8 AM JST.",
+  title: "Design News - 日本のデザイン最新ニュース",
+  description: "コリス、LIG blog、PhotoshopVIP、Web担当者Forumなど日本のデザインメディアから厳選したニュースを毎日配信。毎朝8時更新。",
 };
 
 export default function RootLayout({
@@ -24,8 +30,8 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      lang="ja"
+      className={`${geistSans.variable} ${geistMono.variable} ${notoSansJP.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>
     </html>

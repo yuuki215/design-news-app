@@ -16,31 +16,41 @@ export function Header({ meta }: HeaderProps) {
 
   const statusColor =
     meta.status === "success"
-      ? "bg-emerald-100 text-emerald-800"
+      ? { bg: "var(--color-accent-green)", color: "var(--color-text-primary)" }
       : meta.status === "partial"
-      ? "bg-amber-100 text-amber-800"
-      : "bg-red-100 text-red-800";
+      ? { bg: "var(--color-accent-peach)", color: "var(--color-text-primary)" }
+      : { bg: "var(--color-accent-pink)", color: "var(--color-text-primary)" };
 
   return (
-    <header className="border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-10">
-      <div className="max-w-6xl mx-auto px-4 py-6">
+    <header
+      className="sticky top-0 z-10 backdrop-blur-sm"
+      style={{
+        borderBottom: "1px solid var(--color-border)",
+        background: "rgba(255, 255, 255, 0.9)",
+      }}
+    >
+      <div className="max-w-7xl mx-auto px-6 py-8">
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
           <div>
-            <h1 className="text-3xl font-bold text-gray-900 tracking-tight">
+            <h1 className="text-4xl font-bold tracking-tight" style={{ color: "var(--color-text-primary)" }}>
               Design News
             </h1>
-            <p className="text-sm text-gray-600 mt-1">
-              Daily design & frontend updates
+            <p className="text-sm mt-2" style={{ color: "var(--color-text-secondary)" }}>
+              日本のデザイン最新ニュース • 厳選5〜10本を毎朝配信
             </p>
           </div>
           <div className="flex items-center gap-3">
             <span
-              className={`inline-flex items-center px-3 py-1 rounded-full text-xs font-medium ${statusColor}`}
+              className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium"
+              style={{
+                background: statusColor.bg,
+                color: statusColor.color,
+              }}
             >
-              {meta.status}
+              {meta.status === "success" ? "✓" : meta.status === "partial" ? "△" : "✗"} {meta.status}
             </span>
-            <span className="text-xs text-gray-500">
-              Updated: {lastUpdated}
+            <span className="text-xs" style={{ color: "var(--color-text-muted)" }}>
+              {lastUpdated}
             </span>
           </div>
         </div>

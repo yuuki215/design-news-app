@@ -57,11 +57,11 @@ function categorizeByKeywords(title: string, summary: string, hints: string[]): 
   const text = `${title} ${summary}`.toLowerCase();
   const categories: string[] = [];
   
-  if (/(design|designer|ui|ux|figma)/i.test(text)) categories.push("design");
+  if (/(design|designer|ui|ux|figma|デザイン)/i.test(text)) categories.push("design");
   if (/(css|tailwind|styling|layout)/i.test(text)) categories.push("css");
-  if (/(react|vue|frontend|javascript|typescript)/i.test(text)) categories.push("frontend");
-  if (/(product|startup|launch)/i.test(text)) categories.push("product");
-  if (/(accessibility|a11y)/i.test(text)) categories.push("accessibility");
+  if (/(react|vue|frontend|javascript|typescript|フロントエンド)/i.test(text)) categories.push("frontend");
+  if (/(product|startup|launch|プロダクト)/i.test(text)) categories.push("product");
+  if (/(accessibility|a11y|アクセシビリティ)/i.test(text)) categories.push("accessibility");
   
   hints.forEach(hint => {
     if (!categories.includes(hint)) {
@@ -99,6 +99,8 @@ async function fetchSource(source: NewsSource): Promise<NewsArticle[]> {
         categories,
         score: 0,
         fetchedAt: new Date().toISOString(),
+        region: source.region,
+        language: source.language,
       });
     }
     
@@ -126,6 +128,13 @@ function deduplicateArticles(articles: NewsArticle[]): NewsArticle[] {
 function calculateScore(article: NewsArticle, sourcePriority: number): number {
   let score = 0;
   
+  // Region priority: 日本記事を優先
+  if (article.region === "jp") {
+    score += 15;
+  } else {
+    score += 5;
+  }
+  
   // Recency score (0-10)
   const ageMs = Date.now() - new Date(article.publishedAt).getTime();
   const ageDays = ageMs / (1000 * 60 * 60 * 24);
@@ -143,6 +152,62 @@ function calculateScore(article: NewsArticle, sourcePriority: number): number {
   score += matchCount * 2;
   
   return score;
+}
+
+// 同一媒体の記事数を制限
+function limitPerSource(articles: NewsArticle[], maxPerSource: number = 3): NewsArticle[] {
+  const sourceCounts = new Map<string, number>();
+  const result: NewsArticle[] = [];
+  
+  for (const article of articles) {
+    const count = sourceCounts.get(article.source) || 0;
+    if (count < maxPerSource) {
+      result.push(article);
+      sourceCounts.set(article.source, count + 1);
+    }
+  }
+  
+  return result;
+}
+
+// タイトル類似度チェック（簡易版）
+function areTitlesSimilar(title1: string, title2: string): boolean {
+  const normalize = (s: string) => s.toLowerCase().replace(/[^\w\sぁ-んァ-ヶー一-龠]/g, "");
+  const t1 = normalize(title1);
+  const t2 = normalize(title2);
+  
+  // 短いタイトルの80%以上が含まれていたら類似と判定
+  const shorter = t1.length < t2.length ? t1 : t2;
+  const longer = t1.length < t2.length ? t2 : t1;
+  
+  if (shorter.length < 10) return false;
+  
+  const threshold = Math.floor(shorter.length * 0.8);
+  let matchCount = 0;
+  for (let i = 0; i < shorter.length - 3; i++) {
+    const chunk = shorter.substring(i, i + 3);
+    if (longer.includes(chunk)) {
+      matchCount += 3;
+    }
+  }
+  
+  return matchCount >= threshold;
+}
+
+function deduplicateSimilarTitles(articles: NewsArticle[]): NewsArticle[] {
+  const result: NewsArticle[] = [];
+  
+  for (const article of articles) {
+    const isDuplicate = result.some(existing => 
+      areTitlesSimilar(article.title, existing.title)
+    );
+    
+    if (!isDuplicate) {
+      result.push(article);
+    }
+  }
+  
+  return result;
 }
 
 async function main() {
@@ -189,8 +254,26 @@ async function main() {
   // Sort by score descending
   allArticles.sort((a, b) => b.score - a.score);
   
-  // Keep top 100
-  allArticles = allArticles.slice(0, 100);
+  // 同一媒体制限
+  allArticles = limitPerSource(allArticles, 3);
+  
+  // 類似タイトル除外
+  allArticles = deduplicateSimilarTitles(allArticles);
+  
+  // 日本記事の件数確認
+  const jpArticles = allArticles.filter(a => a.region === "jp");
+  console.log(`\n📊 Japanese articles: ${jpArticles.length}, Global articles: ${allArticles.length - jpArticles.length}`);
+  
+  // 5〜10本に厳選
+  const targetCount = Math.max(5, Math.min(10, allArticles.length));
+  allArticles = allArticles.slice(0, targetCount);
+  
+  // ピックアップ設定（上位1〜2本）
+  const pickupCount = allArticles.length >= 5 ? 2 : 1;
+  allArticles = allArticles.map((article, index) => ({
+    ...article,
+    isPickup: index < pickupCount,
+  }));
   
   const meta: UpdateMeta = {
     updatedAt: new Date().toISOString(),
@@ -203,7 +286,7 @@ async function main() {
   fs.writeFileSync(articlesPath, JSON.stringify(allArticles, null, 2));
   fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2));
   
-  console.log(`\n✓ Saved ${allArticles.length} articles`);
+  console.log(`\n✓ Saved ${allArticles.length} articles (${pickupCount} pickup)`);
   console.log(`✓ Status: ${meta.status}`);
   console.log(`✓ Successful: ${successfulSources.join(", ")}`);
   if (failedSources.length > 0) {
