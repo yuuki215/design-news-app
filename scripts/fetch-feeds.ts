@@ -4,10 +4,30 @@ import * as fs from "fs";
 import * as path from "path";
 import * as crypto from "crypto";
 
-const parser = new Parser({
+// メディアフィールドの型
+interface MediaField {
+  $?: { url?: string; medium?: string };
+  url?: string;
+}
+
+// カスタムRSSアイテムフィールド
+type CustomItemFields = {
+  mediaContent?: MediaField | MediaField[];
+  mediaThumbnail?: MediaField | MediaField[];
+  contentEncoded?: string;
+};
+
+const parser = new Parser<Record<string, never>, CustomItemFields>({
   timeout: 10000,
   headers: {
     "User-Agent": "Design News App (RSS Reader)",
+  },
+  customFields: {
+    item: [
+      ["media:content", "mediaContent"],
+      ["media:thumbnail", "mediaThumbnail"],
+      ["content:encoded", "contentEncoded"],
+    ],
   },
 });
 
@@ -53,6 +73,55 @@ function extractSummary(item: RawArticle): string {
   return text;
 }
 
+// サムネイル画像を各種フィールドから取得
+function extractThumbnail(item: CustomItemFields & { enclosure?: { url?: string; type?: string }; content?: string }): string | undefined {
+  // 1. enclosure (podcast/media形式)
+  if (item.enclosure?.url) {
+    const type = item.enclosure.type || "";
+    if (!type || type.startsWith("image/")) {
+      return item.enclosure.url;
+    }
+  }
+
+  // 2. media:thumbnail
+  const mediaThumbnail = item.mediaThumbnail;
+  if (mediaThumbnail) {
+    const candidates = Array.isArray(mediaThumbnail) ? mediaThumbnail : [mediaThumbnail];
+    const url = candidates[0]?.$?.url || candidates[0]?.url;
+    if (url) return url;
+  }
+
+  // 3. media:content
+  const mediaContent = item.mediaContent;
+  if (mediaContent) {
+    const candidates = Array.isArray(mediaContent) ? mediaContent : [mediaContent];
+    const url = candidates[0]?.$?.url || candidates[0]?.url;
+    if (url) return url;
+  }
+
+  // 4. content:encoded / content 内の最初のimg src
+  const htmlContent = item.contentEncoded || item.content || "";
+  if (htmlContent) {
+    const imgMatch = htmlContent.match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (imgMatch?.[1]) {
+      const imgUrl = imgMatch[1];
+      // トラッキングピクセルや小アイコンは除外
+      if (
+        !imgUrl.includes("pixel") &&
+        !imgUrl.includes("1x1") &&
+        !imgUrl.includes("tracking") &&
+        !imgUrl.includes("stat.") &&
+        !imgUrl.endsWith(".gif") &&
+        imgUrl.startsWith("http")
+      ) {
+        return imgUrl;
+      }
+    }
+  }
+
+  return undefined;
+}
+
 function categorizeByKeywords(title: string, summary: string, hints: string[]): string[] {
   const text = `${title} ${summary}`.toLowerCase();
   const categories: string[] = [];
@@ -84,11 +153,13 @@ async function fetchSource(source: NewsSource): Promise<NewsArticle[]> {
       
       const url = normalizeUrl(item.link);
       const title = item.title.trim();
-      const summary = extractSummary(item as RawArticle);
+      const rawItem = item as RawArticle;
+      const summary = extractSummary(rawItem);
       const categories = categorizeByKeywords(title, summary, source.categoryHints);
       const publishedAt = item.isoDate || item.pubDate || new Date().toISOString();
+      const thumbnail = extractThumbnail(item as CustomItemFields & { enclosure?: { url?: string; type?: string }; content?: string });
       
-      articles.push({
+      const article: NewsArticle = {
         id: generateId(url, title),
         title,
         url,
@@ -101,10 +172,17 @@ async function fetchSource(source: NewsSource): Promise<NewsArticle[]> {
         fetchedAt: new Date().toISOString(),
         region: source.region,
         language: source.language,
-      });
+      };
+
+      if (thumbnail) {
+        article.thumbnail = thumbnail;
+      }
+
+      articles.push(article);
     }
     
-    console.log(`✓ ${source.name}: ${articles.length} articles`);
+    const withThumb = articles.filter(a => a.thumbnail).length;
+    console.log(`✓ ${source.name}: ${articles.length} articles (${withThumb} with thumbnail)`);
     return articles;
   } catch (error) {
     console.error(`✗ ${source.name}: ${error}`);
@@ -142,6 +220,11 @@ function calculateScore(article: NewsArticle, sourcePriority: number): number {
   else if (ageDays < 3) score += 7;
   else if (ageDays < 7) score += 4;
   else if (ageDays < 14) score += 2;
+
+  // サムネイルありはわずかにスコアアップ
+  if (article.thumbnail) {
+    score += 1;
+  }
   
   // Source priority (0-10)
   score += sourcePriority;
@@ -210,6 +293,13 @@ function deduplicateSimilarTitles(articles: NewsArticle[]): NewsArticle[] {
   return result;
 }
 
+// 鮮度フィルタ: 指定日数以内の記事のみ返す
+function filterByFreshness(articles: NewsArticle[], maxAgeDays: number): NewsArticle[] {
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - maxAgeDays);
+  return articles.filter(a => new Date(a.publishedAt) >= cutoff);
+}
+
 async function main() {
   const sourcesPath = path.join(__dirname, "../data/sources.json");
   const articlesPath = path.join(__dirname, "../data/articles.json");
@@ -240,6 +330,18 @@ async function main() {
   
   // Deduplicate
   allArticles = deduplicateArticles(allArticles);
+
+  // 鮮度フィルタ: まず30日以内に絞る
+  const fresh30 = filterByFreshness(allArticles, 30);
+  if (fresh30.length >= 5) {
+    allArticles = fresh30;
+    console.log(`\n📅 Freshness filter (30d): ${allArticles.length} articles`);
+  } else {
+    // 30日以内が少ない場合は60日まで緩める
+    const fresh60 = filterByFreshness(allArticles, 60);
+    allArticles = fresh60.length >= 3 ? fresh60 : allArticles;
+    console.log(`\n📅 Freshness filter relaxed (60d): ${allArticles.length} articles`);
+  }
   
   // Calculate scores
   allArticles = allArticles.map(article => {
@@ -259,10 +361,14 @@ async function main() {
   
   // 類似タイトル除外
   allArticles = deduplicateSimilarTitles(allArticles);
-  
-  // 日本記事の件数確認
-  const jpArticles = allArticles.filter(a => a.region === "jp");
-  console.log(`\n📊 Japanese articles: ${jpArticles.length}, Global articles: ${allArticles.length - jpArticles.length}`);
+
+  // 日本 / 海外の鮮度統計ログ
+  const twoWeeksAgo = new Date();
+  twoWeeksAgo.setDate(twoWeeksAgo.getDate() - 14);
+  const freshJp = allArticles.filter(a => a.region === "jp" && new Date(a.publishedAt) >= twoWeeksAgo);
+  const freshGlobal = allArticles.filter(a => a.region === "global" && new Date(a.publishedAt) >= twoWeeksAgo);
+  console.log(`\n📊 Fresh (2w): JP=${freshJp.length}, Global=${freshGlobal.length}`);
+  console.log(`📊 Total after filters: ${allArticles.length}`);
   
   // 5〜10本に厳選
   const targetCount = Math.max(5, Math.min(10, allArticles.length));
@@ -286,7 +392,8 @@ async function main() {
   fs.writeFileSync(articlesPath, JSON.stringify(allArticles, null, 2));
   fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2));
   
-  console.log(`\n✓ Saved ${allArticles.length} articles (${pickupCount} pickup)`);
+  const withThumb = allArticles.filter(a => a.thumbnail).length;
+  console.log(`\n✓ Saved ${allArticles.length} articles (${pickupCount} pickup, ${withThumb} with thumbnail)`);
   console.log(`✓ Status: ${meta.status}`);
   console.log(`✓ Successful: ${successfulSources.join(", ")}`);
   if (failedSources.length > 0) {

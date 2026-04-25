@@ -65,6 +65,19 @@ export default function Home() {
                     border: "1px solid var(--color-border-light)",
                   }}
                 >
+                  {article.thumbnail && (
+                    <div className="w-full overflow-hidden" style={{ height: "220px" }}>
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={article.thumbnail}
+                        alt=""
+                        className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                        onError={(e) => {
+                          (e.currentTarget.parentElement as HTMLElement).style.display = "none";
+                        }}
+                      />
+                    </div>
+                  )}
                   <div className="p-8">
                     <div className="flex items-center gap-3 mb-4">
                       <span

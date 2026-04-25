@@ -14,7 +14,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-04-25T09:44:48.309Z",
+    "fetchedAt": "2026-04-25T10:04:20.600Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-04-25T09:44:48.309Z",
+    "fetchedAt": "2026-04-25T10:04:20.600Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -54,7 +54,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-25T09:44:48.309Z",
+    "fetchedAt": "2026-04-25T10:04:20.600Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-25T09:44:48.510Z",
+    "fetchedAt": "2026-04-25T10:04:20.713Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-25T09:44:48.510Z",
+    "fetchedAt": "2026-04-25T10:04:20.713Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,67 +114,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-04-25T09:44:48.510Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "86f2968e94288de90c3f0664ee429079",
-    "title": "Photoshop 2026のすごい新機能ガイド AI合成・調和など別次元に進化",
-    "url": "https://photoshopvip.net/167933",
-    "source": "PhotoshopVIP",
-    "sourceType": "rss",
-    "publishedAt": "2025-11-18T12:01:31.000Z",
-    "summary": "Photoshop 2026 では、これまでの延長線とは少し違う、使い方の前提が変わるアップデートが入りました。 一番分かりやすい変化は、AIまわりの機能が整理 […]\nPhotoshop 2026のすごい新機能ガイド AI合成・調和など別次元に進化はPhotoshopVIPで公開された投稿です。",
-    "categories": [
-      "design",
-      "photoshop",
-      "ui",
-      "graphics"
-    ],
-    "score": 28,
-    "fetchedAt": "2026-04-25T09:44:48.201Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "160d629930ed076ecd54be0118e74f8f",
-    "title": "写真が“化ける”無料Photoshopエフェクト27選【2025秋 最新版】",
-    "url": "https://photoshopvip.net/167856",
-    "source": "PhotoshopVIP",
-    "sourceType": "rss",
-    "publishedAt": "2025-11-11T08:14:23.000Z",
-    "summary": "スマホで撮影したその写真、フォトショップならだれでも簡単にプロのような仕上がりにできます。 それが、Photoshopの無料写真エフェクト素材。 画像を放り込む […]\n写真が“化ける”無料Photoshopエフェクト27選【2025秋 最新版】はPhotoshopVIPで公開された投稿です。",
-    "categories": [
-      "design",
-      "photoshop",
-      "ui",
-      "graphics"
-    ],
-    "score": 28,
-    "fetchedAt": "2026-04-25T09:44:48.201Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "5147dc73c4c04a1112333bf7996624c2",
-    "title": "【最新版】「これ無料!?」2025年秋フリーモックアップ37選｜ロゴもパッケージも即完成！",
-    "url": "https://photoshopvip.net/167812",
-    "source": "PhotoshopVIP",
-    "sourceType": "rss",
-    "publishedAt": "2025-11-07T02:57:36.000Z",
-    "summary": "デザインの完成度を一段上げる“仕上げのひと手間”——それがモックアップ。 ロゴ、パッケージ、ポスター、スマホ画面など、リアルな使用シーンを再現できる無料素材が次 […]\n【最新版】「これ無料!?」2025年秋フリーモックアップ37選｜ロゴもパッケージも即完成！はPhotoshopVIPで公開された投稿です。",
-    "categories": [
-      "design",
-      "photoshop",
-      "ui",
-      "graphics"
-    ],
-    "score": 28,
-    "fetchedAt": "2026-04-25T09:44:48.201Z",
+    "fetchedAt": "2026-04-25T10:04:20.713Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -193,9 +133,71 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-04-25T09:44:49.914Z",
+    "fetchedAt": "2026-04-25T10:04:22.103Z",
     "region": "global",
     "language": "en",
+    "isPickup": false
+  },
+  {
+    "id": "9b4fe981872e8363bbb86d1c14602868",
+    "title": "Enhancing Astro With a Markdown Component",
+    "url": "https://css-tricks.com/astro-markdown-component/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T13:49:57.000Z",
+    "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\nEnhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsle...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 25,
+    "fetchedAt": "2026-04-25T10:04:22.103Z",
+    "region": "global",
+    "language": "en",
+    "isPickup": false
+  },
+  {
+    "id": "23a0062c784a081820a759047bb09a7e",
+    "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
+    "url": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-22T10:00:00.000Z",
+    "summary": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
+    "categories": [
+      "design",
+      "product",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-04-25T10:04:20.659Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "f3aaa2cf1c1b5752e28175d6c751ccfa",
+    "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
+    "url": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-20T13:00:00.000Z",
+    "summary": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration,...",
+    "categories": [
+      "design",
+      "accessibility",
+      "ux",
+      "frontend"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-04-25T10:04:20.659Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
     "isPickup": false
   }
 ]

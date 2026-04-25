@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-25T09:44:49.916Z",
-  "status": "partial",
+  "updatedAt": "2026-04-25T10:04:22.104Z",
+  "status": "success",
   "successfulSources": [
     "コリス",
     "LIG blog",
@@ -8,7 +8,5 @@
     "CSS-Tricks",
     "Smashing Magazine"
   ],
-  "failedSources": [
-    "Web担当者Forum"
-  ]
+  "failedSources": []
 }

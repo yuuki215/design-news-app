@@ -21,6 +21,19 @@ export function NewsCard({ article }: NewsCardProps) {
         border: "1px solid var(--color-border)",
       }}
     >
+      {article.thumbnail && (
+        <div className="w-full overflow-hidden" style={{ height: "160px" }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={article.thumbnail}
+            alt=""
+            className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+            onError={(e) => {
+              (e.currentTarget.parentElement as HTMLElement).style.display = "none";
+            }}
+          />
+        </div>
+      )}
       <div className="p-6">
         <div className="flex items-center gap-2 mb-3">
           <span
