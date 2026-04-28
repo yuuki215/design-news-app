@@ -1,5 +1,25 @@
 [
   {
+    "id": "056d632548080c33c04a3eab27694e10",
+    "title": "2026年用、日本語のフリーフォント849種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記",
+    "url": "https://coliss.com/articles/freebies/japanese-free-fonts.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-28T00:36:26.000Z",
+    "summary": "個人でも商用でも無料利用できる、日本語のフリーフォント849種類を紹介します。 Webデザイン、アプリ、動画、紙のデザインをはじめ、クライアントのプロジェクトでも販売する同人誌まで、幅広く利用できる無料フォントが満載です […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-04-28T07:43:37.312Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "724afdcd41af5a7718d59ebcbe484008",
     "title": "Kindle本のゴールデンウィーク特大セールが開催！ UIデザイン、生成AI、イラスト関連の良書が半額で超お買い得です",
     "url": "https://coliss.com/articles/products/kindle-sales-20260427.html",
@@ -13,20 +33,20 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-04-27T07:44:15.794Z",
+    "score": 40,
+    "fetchedAt": "2026-04-28T07:43:37.312Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
   },
   {
-    "id": "2ff312fac0bc20b17d79fc6c61a78f6d",
-    "title": "Deview!の先輩メンターに聞く、未経験転職のホンネ※5/8(金)20時〜＠オンライン",
-    "url": "https://liginc.co.jp/679440",
+    "id": "8a2075469ddd05dcf7e3e800ef787a0a",
+    "title": "「当たって砕けろ」で諦めかけたデザイナーの夢を実現。カブ＆ピースで急成長中！",
+    "url": "https://liginc.co.jp/678877",
     "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-04-26T21:00:47.000Z",
-    "summary": "こんにちは！ デザインメンタリングサービス「Deview!（デビュー）」の運営事務局の天（@10TEN10TAN10）です！ スクールを卒業したけど、作ったものを誰かに見てほしい。転職活動、何から始めればいいかわからない […]",
+    "publishedAt": "2026-04-27T21:00:08.000Z",
+    "summary": "こんにちは！ キャリアデザイナーの渡辺です。クリエイター専門の転職エージェントサービス「LIG Agent（LIGエージェント）」の担当をしております。 本連載は、当サービスを通じて転職に成功された方々の体験談をお届けす […]",
     "categories": [
       "design",
       "web",
@@ -34,10 +54,10 @@
       "ux"
     ],
     "score": 40,
-    "fetchedAt": "2026-04-27T07:44:15.229Z",
+    "fetchedAt": "2026-04-28T07:43:36.410Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "01da6e50b913978671e6fcc3d08286f6",
@@ -54,27 +74,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-27T07:44:15.794Z",
+    "fetchedAt": "2026-04-28T07:43:37.312Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "e4ae78d65d765c0470658b8eea56b3bb",
-    "title": "最小限のHTMLとモダンCSSで実装！ コンテンツをボーダーで囲って、ボーダーの上部にタイトルを配置するテクニック",
-    "url": "https://coliss.com/articles/build-websites/operation/css/css-fielset-compornent.html",
-    "source": "コリス",
+    "id": "2ff312fac0bc20b17d79fc6c61a78f6d",
+    "title": "Deview!の先輩メンターに聞く、未経験転職のホンネ※5/8(金)20時〜＠オンライン",
+    "url": "https://liginc.co.jp/679440",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-04-23T00:36:49.000Z",
-    "summary": "テキストや画像をボーダーで囲って、ボーダーの上部にタイトルを配置したいと思ったことはありませんか？ 以前はこれをCSSで実装しようとしてもかなりトリッキーな実装でした。またfieldsetとlegendでも実装できますが […]",
+    "publishedAt": "2026-04-26T21:00:47.000Z",
+    "summary": "こんにちは！ デザインメンタリングサービス「Deview!（デビュー）」の運営事務局の天（@10TEN10TAN10）です！ スクールを卒業したけど、作ったものを誰かに見てほしい。転職活動、何から始めればいいかわからない […]",
     "categories": [
-      "css",
       "design",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-27T07:44:15.794Z",
+    "fetchedAt": "2026-04-28T07:43:36.410Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,47 +114,47 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-04-27T07:44:15.229Z",
+    "fetchedAt": "2026-04-28T07:43:36.410Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "62b733aa1f285337d12e31d5c0e138b0",
-    "title": "リブランディングのプロセスから学ぶ、デザイナーの上流の仕事とは※5/21(木)20時～＠オンライン",
-    "url": "https://liginc.co.jp/679411",
-    "source": "LIG blog",
+    "id": "6852b74c07baf8b1d589f4577901d476",
+    "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
+    "url": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+    "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-04-22T21:00:52.000Z",
-    "summary": "「デザイナーとして、もっと上流から関わりたい」 「ブランディングやコンセプト設計に興味はあるけど、実際どうやって進めるのかイメージが湧かない」 そんなもやもやを抱えているデザイナーの方、多いのではないでしょうか。 本イベ […]",
+    "publishedAt": "2026-04-27T10:00:00.000Z",
+    "summary": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategie...",
     "categories": [
       "design",
-      "web",
+      "ux",
       "frontend",
-      "ux"
+      "accessibility"
     ],
-    "score": 34,
-    "fetchedAt": "2026-04-27T07:44:15.230Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 29,
+    "fetchedAt": "2026-04-28T07:43:36.590Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
     "isPickup": false
   },
   {
-    "id": "cfa09147965a1a22bea2200830d225c1",
-    "title": "Markdown + Astro = ❤️",
-    "url": "https://css-tricks.com/markdown-astro/",
+    "id": "de7d2ad1a1e7578220f7ae20bf656b1a",
+    "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
+    "url": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-04-20T13:55:16.000Z",
-    "summary": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\nMarkdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "publishedAt": "2026-04-27T13:55:42.000Z",
+    "summary": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\nLet’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and pub...",
     "categories": [
-      "design",
       "css",
       "frontend",
       "ui"
     ],
-    "score": 24,
-    "fetchedAt": "2026-04-27T07:44:15.789Z",
+    "score": 28,
+    "fetchedAt": "2026-04-28T07:43:36.935Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -154,7 +174,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-04-27T07:44:15.789Z",
+    "fetchedAt": "2026-04-28T07:43:36.936Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png?resize=2560%2C657&#038;ssl=1",
@@ -176,31 +196,10 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-04-27T07:44:15.640Z",
+    "fetchedAt": "2026-04-28T07:43:36.590Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "f3aaa2cf1c1b5752e28175d6c751ccfa",
-    "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
-    "url": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-20T13:00:00.000Z",
-    "summary": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration,...",
-    "categories": [
-      "design",
-      "accessibility",
-      "ux",
-      "frontend"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-04-27T07:44:15.640Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
     "isPickup": false
   }
 ]
