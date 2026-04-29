@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-04-28T07:43:37.312Z",
+    "score": 40,
+    "fetchedAt": "2026-04-29T07:36:39.078Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,30 +34,10 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-04-28T07:43:37.312Z",
+    "fetchedAt": "2026-04-29T07:36:39.078Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
-  },
-  {
-    "id": "8a2075469ddd05dcf7e3e800ef787a0a",
-    "title": "「当たって砕けろ」で諦めかけたデザイナーの夢を実現。カブ＆ピースで急成長中！",
-    "url": "https://liginc.co.jp/678877",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-27T21:00:08.000Z",
-    "summary": "こんにちは！ キャリアデザイナーの渡辺です。クリエイター専門の転職エージェントサービス「LIG Agent（LIGエージェント）」の担当をしております。 本連載は、当サービスを通じて転職に成功された方々の体験談をお届けす […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-04-28T07:43:36.410Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
   },
   {
     "id": "01da6e50b913978671e6fcc3d08286f6",
@@ -74,7 +54,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-28T07:43:37.312Z",
+    "fetchedAt": "2026-04-29T07:36:39.078Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "8a2075469ddd05dcf7e3e800ef787a0a",
+    "title": "「当たって砕けろ」で諦めかけたデザイナーの夢を実現。カブ＆ピースで急成長中！",
+    "url": "https://liginc.co.jp/678877",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-27T21:00:08.000Z",
+    "summary": "こんにちは！ キャリアデザイナーの渡辺です。クリエイター専門の転職エージェントサービス「LIG Agent（LIGエージェント）」の担当をしております。 本連載は、当サービスを通じて転職に成功された方々の体験談をお届けす […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 37,
+    "fetchedAt": "2026-04-29T07:36:39.306Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-28T07:43:36.410Z",
+    "fetchedAt": "2026-04-29T07:36:39.306Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-04-28T07:43:36.410Z",
+    "fetchedAt": "2026-04-29T07:36:39.306Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -133,8 +133,8 @@
       "frontend",
       "accessibility"
     ],
-    "score": 29,
-    "fetchedAt": "2026-04-28T07:43:36.590Z",
+    "score": 26,
+    "fetchedAt": "2026-04-29T07:36:38.563Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -153,8 +153,8 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-04-28T07:43:36.935Z",
+    "score": 25,
+    "fetchedAt": "2026-04-29T07:36:38.938Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -174,7 +174,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-04-28T07:43:36.936Z",
+    "fetchedAt": "2026-04-29T07:36:38.938Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png?resize=2560%2C657&#038;ssl=1",
@@ -196,7 +196,7 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-04-28T07:43:36.590Z",
+    "fetchedAt": "2026-04-29T07:36:38.563Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
