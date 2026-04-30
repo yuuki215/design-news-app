@@ -14,10 +14,50 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-04-29T07:36:39.078Z",
+    "fetchedAt": "2026-04-30T07:40:36.468Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
+  },
+  {
+    "id": "e4e1680a4896ecd10ef02ac45f8810af",
+    "title": "デザイン集中講座「もっと早く受ければよかった」の理由を、受講生たちに聞いてみた※5/10(日)13時〜＠オンライン",
+    "url": "https://liginc.co.jp/679565",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-29T21:00:58.000Z",
+    "summary": "デジLIG満足度No.1、受講者1,000名超……「デザイン集中講座」を受けた人たちは、なぜ口を揃えて「もっと早く受ければよかった」と言うのか。 その答えを、実際の受講生から直接聞ける座談会を開催します。 授業の中身・フ […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-04-30T07:40:36.723Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "268f718f7e33df4a8acaa0874eea88d9",
+    "title": "8年間LIGを走り続けたマーケターに教えてもらった、スキルより先に持っておくべきもの",
+    "url": "https://liginc.co.jp/678347",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-29T21:00:00.000Z",
+    "summary": "こんにちは、インハウスマーケティング部のりこぴんです！ 私がLIGに入社した理由と言っても過言ではない、上司のまこりーぬさんという存在。長年LIGブログを愛読してくださっている方にとっても、「LIGといえば」の看板的存在 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-04-30T07:40:36.723Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "724afdcd41af5a7718d59ebcbe484008",
@@ -33,11 +73,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-04-29T07:36:39.078Z",
+    "score": 37,
+    "fetchedAt": "2026-04-30T07:40:36.468Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "01da6e50b913978671e6fcc3d08286f6",
@@ -54,7 +94,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-29T07:36:39.078Z",
+    "fetchedAt": "2026-04-30T07:40:36.468Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,49 +114,48 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-04-29T07:36:39.306Z",
+    "fetchedAt": "2026-04-30T07:40:36.723Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "2ff312fac0bc20b17d79fc6c61a78f6d",
-    "title": "Deview!の先輩メンターに聞く、未経験転職のホンネ※5/8(金)20時〜＠オンライン",
-    "url": "https://liginc.co.jp/679440",
-    "source": "LIG blog",
+    "id": "651cf3b6e5b63234a35f1b4a5a88b4d1",
+    "title": "contrast-color()",
+    "url": "https://css-tricks.com/almanac/functions/c/contrast-color/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-04-26T21:00:47.000Z",
-    "summary": "こんにちは！ デザインメンタリングサービス「Deview!（デビュー）」の運営事務局の天（@10TEN10TAN10）です！ スクールを卒業したけど、作ったものを誰かに見てほしい。転職活動、何から始めればいいかわからない […]",
+    "publishedAt": "2026-04-29T14:57:48.000Z",
+    "summary": "The contrast-color() function takes a <color> and returns either black or white, whichever is the most contrasting color for that value.\ncontrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
-      "design",
-      "web",
+      "css",
       "frontend",
-      "ux"
+      "ui"
     ],
-    "score": 37,
-    "fetchedAt": "2026-04-29T07:36:39.306Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 29,
+    "fetchedAt": "2026-04-30T07:40:36.592Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/b3681cc5fdff5f6445d6405c9a765816c05815cd85b88bdb69804b721ff0d14b.jpg?resize=80%2C80&#038;ssl=1",
     "isPickup": false
   },
   {
-    "id": "482d680d2e3ad81879856c57e57769b7",
-    "title": "「設計も開発も、全部やってトータル1.0人前」新卒未経験エンジニアが1年で大型PJのど真ん中に！",
-    "url": "https://liginc.co.jp/679820",
-    "source": "LIG blog",
+    "id": "b9a35977513ef9738775b4dab3f657c4",
+    "title": "contrast()",
+    "url": "https://css-tricks.com/almanac/functions/c/contrast/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-04-23T21:00:05.000Z",
-    "summary": "こんにちは、26新卒のねこです。この4月にLIGに入社しました！ 実は私、大学では街づくりと環境問題について学んでいたので、IT業界はまったくの未経験。「自分は戦力になれるのか」という不安を抱えながらのスタートでした。  […]",
+    "publishedAt": "2026-04-29T14:58:19.000Z",
+    "summary": "The contrast() filter function increases or decreases the contrast of an element.\ncontrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
-      "design",
-      "web",
+      "css",
       "frontend",
-      "ux"
+      "ui"
     ],
-    "score": 34,
-    "fetchedAt": "2026-04-29T07:36:39.306Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 28,
+    "fetchedAt": "2026-04-30T07:40:36.592Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -134,7 +173,7 @@
       "accessibility"
     ],
     "score": 26,
-    "fetchedAt": "2026-04-29T07:36:38.563Z",
+    "fetchedAt": "2026-04-30T07:40:36.139Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -154,52 +193,9 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-04-29T07:36:38.938Z",
+    "fetchedAt": "2026-04-30T07:40:36.592Z",
     "region": "global",
     "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "930ed173fdf9cb96792d62ae15c65f26",
-    "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
-    "url": "https://css-tricks.com/the-javascript-module-system-architecture/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-16T13:53:58.000Z",
-    "summary": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture D...",
-    "categories": [
-      "design",
-      "frontend",
-      "css",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-04-29T07:36:38.938Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png?resize=2560%2C657&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "23a0062c784a081820a759047bb09a7e",
-    "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
-    "url": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-22T10:00:00.000Z",
-    "summary": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
-    "categories": [
-      "design",
-      "product",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-04-29T07:36:38.563Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
     "isPickup": false
   }
 ]
