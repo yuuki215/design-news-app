@@ -14,30 +14,9 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-02T06:23:21.940Z",
+    "fetchedAt": "2026-05-03T07:26:34.288Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "92bd7934dbd94230b95efa2ad4be766a",
-    "title": "【2026最新版】おしゃれな英語フリーフォント147選｜商用可で使いやすい注目書体まとめ",
-    "url": "https://photoshopvip.net/167737",
-    "source": "PhotoshopVIP",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-01T12:00:32.000Z",
-    "summary": "おしゃれなデザインは、英語フォント選びで大きく変わります。 同じレイアウトでも、フォントを変えるだけで、ミニマルにも、上品にも、レトロにも、海外っぽい雰囲気にも […]\n【2026最新版】おしゃれな英語フリーフォント147選｜商用可で使いやすい注目書体まとめはPhotoshopVIPで公開された投稿です。",
-    "categories": [
-      "design",
-      "photoshop",
-      "ui",
-      "graphics"
-    ],
-    "score": 39,
-    "fetchedAt": "2026-05-02T06:23:21.163Z",
-    "region": "jp",
-    "language": "ja",
-    "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": true
   },
   {
@@ -55,10 +34,10 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-02T06:23:21.940Z",
+    "fetchedAt": "2026-05-03T07:26:34.288Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": false
+    "isPickup": true
   },
   {
     "id": "f1a2d2c0036c5227a2ee00affb1e854a",
@@ -75,9 +54,30 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-02T06:23:21.040Z",
+    "fetchedAt": "2026-05-03T07:26:33.508Z",
     "region": "jp",
     "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "92bd7934dbd94230b95efa2ad4be766a",
+    "title": "【2026最新版】おしゃれな英語フリーフォント147選｜商用可で使いやすい注目書体まとめ",
+    "url": "https://photoshopvip.net/167737",
+    "source": "PhotoshopVIP",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-01T12:00:32.000Z",
+    "summary": "おしゃれなデザインは、英語フォント選びで大きく変わります。 同じレイアウトでも、フォントを変えるだけで、ミニマルにも、上品にも、レトロにも、海外っぽい雰囲気にも […]\n【2026最新版】おしゃれな英語フリーフォント147選｜商用可で使いやすい注目書体まとめはPhotoshopVIPで公開された投稿です。",
+    "categories": [
+      "design",
+      "photoshop",
+      "ui",
+      "graphics"
+    ],
+    "score": 36,
+    "fetchedAt": "2026-05-03T07:26:33.617Z",
+    "region": "jp",
+    "language": "ja",
+    "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": false
   },
   {
@@ -94,8 +94,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-05-02T06:23:21.040Z",
+    "score": 34,
+    "fetchedAt": "2026-05-03T07:26:33.508Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,8 +114,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-05-02T06:23:21.040Z",
+    "score": 34,
+    "fetchedAt": "2026-05-03T07:26:33.509Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -135,8 +135,8 @@
       "frontend",
       "accessibility"
     ],
-    "score": 31,
-    "fetchedAt": "2026-05-02T06:23:21.257Z",
+    "score": 28,
+    "fetchedAt": "2026-05-03T07:26:33.695Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -155,8 +155,8 @@
       "frontend",
       "ui"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-02T06:23:21.773Z",
+    "score": 26,
+    "fetchedAt": "2026-05-03T07:26:34.108Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/1-1.png?resize=1760%2C990&#038;ssl=1",
@@ -176,30 +176,31 @@
       "ui"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-02T06:23:21.773Z",
+    "fetchedAt": "2026-05-03T07:26:34.108Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_CE13D78A2D1C5E5CFBD3EBB73274C0516735336AF6D86F2BD275A2E87DE47B98_1774042970501_random-0.webp?resize=400%2C460",
     "isPickup": false
   },
   {
-    "id": "651cf3b6e5b63234a35f1b4a5a88b4d1",
-    "title": "contrast-color()",
-    "url": "https://css-tricks.com/almanac/functions/c/contrast-color/",
-    "source": "CSS-Tricks",
+    "id": "daeaebc8f7990a586bfda87b57d110b4",
+    "title": "A Fresh View In May (2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
+    "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-04-29T14:57:48.000Z",
-    "summary": "The contrast-color() function takes a <color> and returns either black or white, whichever is the most contrasting color for that value.\ncontrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "publishedAt": "2026-04-30T11:00:00.000Z",
+    "summary": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
     "categories": [
-      "css",
+      "design",
+      "ux",
       "frontend",
-      "ui"
+      "accessibility"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-02T06:23:21.773Z",
+    "fetchedAt": "2026-05-03T07:26:33.695Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/b3681cc5fdff5f6445d6405c9a765816c05815cd85b88bdb69804b721ff0d14b.jpg?resize=80%2C80&#038;ssl=1",
+    "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
     "isPickup": false
   }
 ]
