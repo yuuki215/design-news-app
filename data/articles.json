@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-03T07:26:34.288Z",
+    "score": 37,
+    "fetchedAt": "2026-05-04T08:09:05.375Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,30 +34,10 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-03T07:26:34.288Z",
+    "fetchedAt": "2026-05-04T08:09:05.375Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
-  },
-  {
-    "id": "f1a2d2c0036c5227a2ee00affb1e854a",
-    "title": "もっと自由に楽しむ！「感性を整える」デザイナーの都内18店巡り｜グラフィック・空間・素材感",
-    "url": "https://liginc.co.jp/679190",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-30T21:00:17.000Z",
-    "summary": "こんにちは！ デザイナーのまきまきです。 せっかくの自分時間、どうせならおしゃれなもの・カッコいいもの・かわいいものを見てクリエイティブに過ごしたいですよね。 ただ美味しいだけじゃなくて、「あ、ここ可愛い！」「この空間、 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-05-03T07:26:33.508Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
   },
   {
     "id": "92bd7934dbd94230b95efa2ad4be766a",
@@ -74,10 +54,30 @@
       "graphics"
     ],
     "score": 36,
-    "fetchedAt": "2026-05-03T07:26:33.617Z",
+    "fetchedAt": "2026-05-04T08:09:04.831Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "isPickup": false
+  },
+  {
+    "id": "f1a2d2c0036c5227a2ee00affb1e854a",
+    "title": "もっと自由に楽しむ！「感性を整える」デザイナーの都内18店巡り｜グラフィック・空間・素材感",
+    "url": "https://liginc.co.jp/679190",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-30T21:00:17.000Z",
+    "summary": "こんにちは！ デザイナーのまきまきです。 せっかくの自分時間、どうせならおしゃれなもの・カッコいいもの・かわいいものを見てクリエイティブに過ごしたいですよね。 ただ美味しいだけじゃなくて、「あ、ここ可愛い！」「この空間、 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 34,
+    "fetchedAt": "2026-05-04T08:09:05.631Z",
+    "region": "jp",
+    "language": "ja",
     "isPickup": false
   },
   {
@@ -95,7 +95,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-03T07:26:33.508Z",
+    "fetchedAt": "2026-05-04T08:09:05.631Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -115,9 +115,29 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-03T07:26:33.509Z",
+    "fetchedAt": "2026-05-04T08:09:05.631Z",
     "region": "jp",
     "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "a2d5bd3ad60b6e5b0f830c5687522e0e",
+    "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
+    "url": "https://css-tricks.com/whats-important-10/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-01T13:43:26.000Z",
+    "summary": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #10.\nWhat’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and Mor...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 26,
+    "fetchedAt": "2026-05-04T08:09:05.454Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/1-1.png?resize=1760%2C990&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -135,31 +155,11 @@
       "frontend",
       "accessibility"
     ],
-    "score": 28,
-    "fetchedAt": "2026-05-03T07:26:33.695Z",
+    "score": 25,
+    "fetchedAt": "2026-05-04T08:09:04.944Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "a2d5bd3ad60b6e5b0f830c5687522e0e",
-    "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
-    "url": "https://css-tricks.com/whats-important-10/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-01T13:43:26.000Z",
-    "summary": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #10.\nWhat’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and Mor...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-05-03T07:26:34.108Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/1-1.png?resize=1760%2C990&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -175,32 +175,31 @@
       "frontend",
       "ui"
     ],
-    "score": 26,
-    "fetchedAt": "2026-05-03T07:26:34.108Z",
+    "score": 23,
+    "fetchedAt": "2026-05-04T08:09:05.454Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_CE13D78A2D1C5E5CFBD3EBB73274C0516735336AF6D86F2BD275A2E87DE47B98_1774042970501_random-0.webp?resize=400%2C460",
     "isPickup": false
   },
   {
-    "id": "daeaebc8f7990a586bfda87b57d110b4",
-    "title": "A Fresh View In May (2026 Wallpapers Edition)",
-    "url": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-    "source": "Smashing Magazine",
+    "id": "651cf3b6e5b63234a35f1b4a5a88b4d1",
+    "title": "contrast-color()",
+    "url": "https://css-tricks.com/almanac/functions/c/contrast-color/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-04-30T11:00:00.000Z",
-    "summary": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
+    "publishedAt": "2026-04-29T14:57:48.000Z",
+    "summary": "The contrast-color() function takes a <color> and returns either black or white, whichever is the most contrasting color for that value.\ncontrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
-      "design",
-      "ux",
+      "css",
       "frontend",
-      "accessibility"
+      "ui"
     ],
-    "score": 26,
-    "fetchedAt": "2026-05-03T07:26:33.695Z",
+    "score": 23,
+    "fetchedAt": "2026-05-04T08:09:05.454Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/b3681cc5fdff5f6445d6405c9a765816c05815cd85b88bdb69804b721ff0d14b.jpg?resize=80%2C80&#038;ssl=1",
     "isPickup": false
   }
 ]
