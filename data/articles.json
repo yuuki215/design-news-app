@@ -14,7 +14,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-05T06:37:42.094Z",
+    "fetchedAt": "2026-05-05T23:41:48.032Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-05T06:37:42.094Z",
+    "fetchedAt": "2026-05-05T23:41:48.032Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -54,7 +54,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-05T06:37:43.088Z",
+    "fetchedAt": "2026-05-05T23:41:48.299Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-05T06:37:43.088Z",
+    "fetchedAt": "2026-05-05T23:41:48.299Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-05T06:37:43.088Z",
+    "fetchedAt": "2026-05-05T23:41:48.299Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,10 +114,31 @@
       "graphics"
     ],
     "score": 33,
-    "fetchedAt": "2026-05-05T06:37:42.087Z",
+    "fetchedAt": "2026-05-05T23:41:47.914Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "isPickup": false
+  },
+  {
+    "id": "9eba7b30f0f7fb47507ade40689e7384",
+    "title": "Rethinking The Experience Of System Tools",
+    "url": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-05T08:00:00.000Z",
+    "summary": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 29,
+    "fetchedAt": "2026-05-05T23:41:47.713Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
     "isPickup": false
   },
   {
@@ -133,8 +154,8 @@
       "frontend",
       "ui"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-05T06:37:42.538Z",
+    "score": 26,
+    "fetchedAt": "2026-05-05T23:41:48.551Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_9FDC20B5C845F6A072AD09BF1338C3363C6F91D4ADB2AA0EA629B08B8CDCC440_1771412989046_file.png?resize=1464%2C924",
@@ -156,7 +177,7 @@
       "accessibility"
     ],
     "score": 25,
-    "fetchedAt": "2026-05-05T06:37:42.078Z",
+    "fetchedAt": "2026-05-05T23:41:47.713Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -176,30 +197,10 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-05-05T06:37:42.538Z",
+    "fetchedAt": "2026-05-05T23:41:48.551Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/1-1.png?resize=1760%2C990&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "3717d491e980aadd8187aa0911e669fb",
-    "title": "The Importance of Native Randomness in CSS",
-    "url": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-30T15:26:18.000Z",
-    "summary": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-05-05T06:37:42.538Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_CE13D78A2D1C5E5CFBD3EBB73274C0516735336AF6D86F2BD275A2E87DE47B98_1774042970501_random-0.webp?resize=400%2C460",
     "isPickup": false
   }
 ]
