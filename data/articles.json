@@ -1,5 +1,45 @@
 [
   {
+    "id": "3608d843710411780da54b68c050a174",
+    "title": "今月フロントエンドエンジニアが気になったWebサイト・ニュース48選【2026.4】",
+    "url": "https://liginc.co.jp/680151",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T21:00:55.000Z",
+    "summary": "LIGでフロントエンドエンジニアをしているいとしゅんです。 Slackのtimesに、日々気になったWebサイトやWeb関連ニュースをメモのように残しているのですが、社内でも「参考になる」と言ってもらえることが多いので、 […]",
+    "categories": [
+      "frontend",
+      "design",
+      "web",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-05-06T23:41:34.156Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "f650db4f44d329b555736bdda4c641bb",
+    "title": "テクニカルディレクター・Mark：AIを武器に、設計からチームまでを動かすエンジニア",
+    "url": "https://liginc.co.jp/680195",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T21:00:18.000Z",
+    "summary": "こんにちは！ セブ拠点でブリッジディレクターをしているなごみんです。 日本企業のプロジェクトに参画し、日々現地エンジニアと一緒に働いています。 オフショア開発を検討する企業の方にとって、「どんな人が開発を支えているのか」 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-05-06T23:41:34.157Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "080d3d7cc7667b72b726829d7ddd3945",
     "title": "Amazonでゴールデンウィークの特大セールが開催！ 私が購入して本当によかったもの、見逃しがちなお買い得品を紹介します",
     "url": "https://coliss.com/articles/products/amazon-sale-20260501.html",
@@ -14,10 +54,10 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-05T23:41:48.032Z",
+    "fetchedAt": "2026-05-06T23:41:35.045Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "34b4fce31f558e3bedb01ff379a4e821",
@@ -34,10 +74,10 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-05T23:41:48.032Z",
+    "fetchedAt": "2026-05-06T23:41:35.045Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "f1a2d2c0036c5227a2ee00affb1e854a",
@@ -54,47 +94,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-05T23:41:48.299Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "e4e1680a4896ecd10ef02ac45f8810af",
-    "title": "デザイン集中講座「もっと早く受ければよかった」の理由を、受講生たちに聞いてみた※5/10(日)13時〜＠オンライン",
-    "url": "https://liginc.co.jp/679565",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-29T21:00:58.000Z",
-    "summary": "デジLIG満足度No.1、受講者1,000名超……「デザイン集中講座」を受けた人たちは、なぜ口を揃えて「もっと早く受ければよかった」と言うのか。 その答えを、実際の受講生から直接聞ける座談会を開催します。 授業の中身・フ […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 34,
-    "fetchedAt": "2026-05-05T23:41:48.299Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "268f718f7e33df4a8acaa0874eea88d9",
-    "title": "8年間LIGを走り続けたマーケターに教えてもらった、スキルより先に持っておくべきもの",
-    "url": "https://liginc.co.jp/678347",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-29T21:00:00.000Z",
-    "summary": "こんにちは、インハウスマーケティング部のりこぴんです！ 私がLIGに入社した理由と言っても過言ではない、上司のまこりーぬさんという存在。長年LIGブログを愛読してくださっている方にとっても、「LIGといえば」の看板的存在 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 34,
-    "fetchedAt": "2026-05-05T23:41:48.299Z",
+    "fetchedAt": "2026-05-06T23:41:34.157Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,20 +114,41 @@
       "graphics"
     ],
     "score": 33,
-    "fetchedAt": "2026-05-05T23:41:47.914Z",
+    "fetchedAt": "2026-05-06T23:41:34.213Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": false
   },
   {
-    "id": "9eba7b30f0f7fb47507ade40689e7384",
-    "title": "Rethinking The Experience Of System Tools",
-    "url": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+    "id": "ab75fa3dfebb6aa92c474af121502aee",
+    "title": "Google’s Prompt API",
+    "url": "https://css-tricks.com/googles-prompt-api/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T19:41:29.000Z",
+    "summary": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS...",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 31,
+    "fetchedAt": "2026-05-06T23:41:34.948Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
+    "isPickup": false
+  },
+  {
+    "id": "f874f13537be1bf1a7bf83d0bddfa4f7",
+    "title": "The Architecture Of Local-First Web Development",
+    "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
     "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-05-05T08:00:00.000Z",
-    "summary": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
+    "publishedAt": "2026-05-06T10:00:00.000Z",
+    "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
     "categories": [
       "design",
       "ux",
@@ -135,10 +156,29 @@
       "accessibility"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-05T23:41:47.713Z",
+    "fetchedAt": "2026-05-06T23:41:34.474Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
+    "thumbnail": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "21837e42eefb7e828725a13ad253fdc8",
+    "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
+    "url": "https://css-tricks.com/zigzag-css-grid-layouts/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T13:50:44.000Z",
+    "summary": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\nMaking Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-05-06T23:41:34.948Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -155,52 +195,10 @@
       "ui"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-05T23:41:48.551Z",
+    "fetchedAt": "2026-05-06T23:41:34.948Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_9FDC20B5C845F6A072AD09BF1338C3363C6F91D4ADB2AA0EA629B08B8CDCC440_1771412989046_file.png?resize=1464%2C924",
-    "isPickup": false
-  },
-  {
-    "id": "65d527afde239e29ccd478dd92170971",
-    "title": "Designing Stable Interfaces For Streaming Content",
-    "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-01T08:00:00.000Z",
-    "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interr...",
-    "categories": [
-      "design",
-      "css",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 25,
-    "fetchedAt": "2026-05-05T23:41:47.713Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "a2d5bd3ad60b6e5b0f830c5687522e0e",
-    "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
-    "url": "https://css-tricks.com/whats-important-10/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-01T13:43:26.000Z",
-    "summary": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #10.\nWhat’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and Mor...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-05-05T23:41:48.551Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/1-1.png?resize=1760%2C990&#038;ssl=1",
     "isPickup": false
   }
 ]
