@@ -1,40 +1,20 @@
 [
   {
-    "id": "3608d843710411780da54b68c050a174",
-    "title": "今月フロントエンドエンジニアが気になったWebサイト・ニュース48選【2026.4】",
-    "url": "https://liginc.co.jp/680151",
-    "source": "LIG blog",
+    "id": "e95b8408827776fa0c0c7d6fa96cf86d",
+    "title": "1Passwordが国内販売もついに値上げされます！ 値上げ前の最後となるセールがソースネクストで5/12まで開催",
+    "url": "https://coliss.com/articles/products/sourcenext-202605.html",
+    "source": "コリス",
     "sourceType": "rss",
-    "publishedAt": "2026-05-06T21:00:55.000Z",
-    "summary": "LIGでフロントエンドエンジニアをしているいとしゅんです。 Slackのtimesに、日々気になったWebサイトやWeb関連ニュースをメモのように残しているのですが、社内でも「参考になる」と言ってもらえることが多いので、 […]",
-    "categories": [
-      "frontend",
-      "design",
-      "web",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-05-06T23:41:34.156Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "f650db4f44d329b555736bdda4c641bb",
-    "title": "テクニカルディレクター・Mark：AIを武器に、設計からチームまでを動かすエンジニア",
-    "url": "https://liginc.co.jp/680195",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-06T21:00:18.000Z",
-    "summary": "こんにちは！ セブ拠点でブリッジディレクターをしているなごみんです。 日本企業のプロジェクトに参画し、日々現地エンジニアと一緒に働いています。 オフショア開発を検討する企業の方にとって、「どんな人が開発を支えているのか」 […]",
+    "publishedAt": "2026-05-07T00:36:25.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 ソースネクストで販売されている1Passwordが、5/13から値上げされるとのことです。この値上げ前の最後となるセールがソースネクストで開催しています！ 1Passw […]",
     "categories": [
       "design",
-      "web",
+      "css",
       "frontend",
-      "ux"
+      "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-06T23:41:34.157Z",
+    "score": 43,
+    "fetchedAt": "2026-05-07T23:44:47.575Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -54,7 +34,47 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-06T23:41:35.045Z",
+    "fetchedAt": "2026-05-07T23:44:47.575Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "3608d843710411780da54b68c050a174",
+    "title": "今月フロントエンドエンジニアが気になったWebサイト・ニュース48選【2026.4】",
+    "url": "https://liginc.co.jp/680151",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T21:00:55.000Z",
+    "summary": "LIGでフロントエンドエンジニアをしているいとしゅんです。 Slackのtimesに、日々気になったWebサイトやWeb関連ニュースをメモのように残しているのですが、社内でも「参考になる」と言ってもらえることが多いので、 […]",
+    "categories": [
+      "frontend",
+      "design",
+      "web",
+      "ux"
+    ],
+    "score": 37,
+    "fetchedAt": "2026-05-07T23:44:46.765Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "f650db4f44d329b555736bdda4c641bb",
+    "title": "テクニカルディレクター・Mark：AIを武器に、設計からチームまでを動かすエンジニア",
+    "url": "https://liginc.co.jp/680195",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T21:00:18.000Z",
+    "summary": "こんにちは！ セブ拠点でブリッジディレクターをしているなごみんです。 日本企業のプロジェクトに参画し、日々現地エンジニアと一緒に働いています。 オフショア開発を検討する企業の方にとって、「どんな人が開発を支えているのか」 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 37,
+    "fetchedAt": "2026-05-07T23:44:46.765Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,27 +94,7 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-06T23:41:35.045Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "f1a2d2c0036c5227a2ee00affb1e854a",
-    "title": "もっと自由に楽しむ！「感性を整える」デザイナーの都内18店巡り｜グラフィック・空間・素材感",
-    "url": "https://liginc.co.jp/679190",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-30T21:00:17.000Z",
-    "summary": "こんにちは！ デザイナーのまきまきです。 せっかくの自分時間、どうせならおしゃれなもの・カッコいいもの・かわいいものを見てクリエイティブに過ごしたいですよね。 ただ美味しいだけじゃなくて、「あ、ここ可愛い！」「この空間、 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 34,
-    "fetchedAt": "2026-05-06T23:41:34.157Z",
+    "fetchedAt": "2026-05-07T23:44:47.575Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,10 +114,50 @@
       "graphics"
     ],
     "score": 33,
-    "fetchedAt": "2026-05-06T23:41:34.213Z",
+    "fetchedAt": "2026-05-07T23:44:46.873Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "isPickup": false
+  },
+  {
+    "id": "f1a2d2c0036c5227a2ee00affb1e854a",
+    "title": "もっと自由に楽しむ！「感性を整える」デザイナーの都内18店巡り｜グラフィック・空間・素材感",
+    "url": "https://liginc.co.jp/679190",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-30T21:00:17.000Z",
+    "summary": "こんにちは！ デザイナーのまきまきです。 せっかくの自分時間、どうせならおしゃれなもの・カッコいいもの・かわいいものを見てクリエイティブに過ごしたいですよね。 ただ美味しいだけじゃなくて、「あ、ここ可愛い！」「この空間、 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 32,
+    "fetchedAt": "2026-05-07T23:44:46.765Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "7e691f631b41f354adb05c1332941692",
+    "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
+    "url": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-07T14:22:38.000Z",
+    "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well....",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 29,
+    "fetchedAt": "2026-05-07T23:44:47.633Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg?resize=1024%2C765",
     "isPickup": false
   },
   {
@@ -134,8 +174,8 @@
       "frontend",
       "ui"
     ],
-    "score": 31,
-    "fetchedAt": "2026-05-06T23:41:34.948Z",
+    "score": 28,
+    "fetchedAt": "2026-05-07T23:44:47.633Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
@@ -155,50 +195,11 @@
       "frontend",
       "accessibility"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-06T23:41:34.474Z",
+    "score": 26,
+    "fetchedAt": "2026-05-07T23:44:47.027Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "21837e42eefb7e828725a13ad253fdc8",
-    "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
-    "url": "https://css-tricks.com/zigzag-css-grid-layouts/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-06T13:50:44.000Z",
-    "summary": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\nMaking Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 28,
-    "fetchedAt": "2026-05-06T23:41:34.948Z",
-    "region": "global",
-    "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "ec1592afc12f7f2de962ed0d4ceecad2",
-    "title": "Fixed-Height Cards: More Fragile Than They Look",
-    "url": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-04T14:01:36.000Z",
-    "summary": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\nFixed-Height Cards: More Fragile Than They Look originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-05-06T23:41:34.948Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_9FDC20B5C845F6A072AD09BF1338C3363C6F91D4ADB2AA0EA629B08B8CDCC440_1771412989046_file.png?resize=1464%2C924",
     "isPickup": false
   }
 ]
