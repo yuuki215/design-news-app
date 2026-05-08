@@ -13,28 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-07T23:44:47.575Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "080d3d7cc7667b72b726829d7ddd3945",
-    "title": "Amazonでゴールデンウィークの特大セールが開催！ 私が購入して本当によかったもの、見逃しがちなお買い得品を紹介します",
-    "url": "https://coliss.com/articles/products/amazon-sale-20260501.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-01T00:36:29.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 Amazonでゴールデンウィークの特大セールが開催です！ このセールでは特に生活用品が数多く対象になっており、通常のセールよりもかなり安くなっており、非常にお買い得です […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-05-07T23:44:47.575Z",
+    "score": 40,
+    "fetchedAt": "2026-05-08T23:47:36.967Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -54,10 +34,10 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-07T23:44:46.765Z",
+    "fetchedAt": "2026-05-08T23:47:36.267Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": false
+    "isPickup": true
   },
   {
     "id": "f650db4f44d329b555736bdda4c641bb",
@@ -74,7 +54,27 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-07T23:44:46.765Z",
+    "fetchedAt": "2026-05-08T23:47:36.268Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "080d3d7cc7667b72b726829d7ddd3945",
+    "title": "Amazonでゴールデンウィークの特大セールが開催！ 私が購入して本当によかったもの、見逃しがちなお買い得品を紹介します",
+    "url": "https://coliss.com/articles/products/amazon-sale-20260501.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-01T00:36:29.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 Amazonでゴールデンウィークの特大セールが開催です！ このセールでは特に生活用品が数多く対象になっており、通常のセールよりもかなり安くなっており、非常にお買い得です […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 35,
+    "fetchedAt": "2026-05-08T23:47:36.967Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,27 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-07T23:44:47.575Z",
+    "fetchedAt": "2026-05-08T23:47:36.967Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "f1a2d2c0036c5227a2ee00affb1e854a",
+    "title": "もっと自由に楽しむ！「感性を整える」デザイナーの都内18店巡り｜グラフィック・空間・素材感",
+    "url": "https://liginc.co.jp/679190",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-04-30T21:00:17.000Z",
+    "summary": "こんにちは！ デザイナーのまきまきです。 せっかくの自分時間、どうせならおしゃれなもの・カッコいいもの・かわいいものを見てクリエイティブに過ごしたいですよね。 ただ美味しいだけじゃなくて、「あ、ここ可愛い！」「この空間、 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 32,
+    "fetchedAt": "2026-05-08T23:47:36.268Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -113,51 +133,31 @@
       "ui",
       "graphics"
     ],
-    "score": 33,
-    "fetchedAt": "2026-05-07T23:44:46.873Z",
+    "score": 31,
+    "fetchedAt": "2026-05-08T23:47:36.752Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": false
   },
   {
-    "id": "f1a2d2c0036c5227a2ee00affb1e854a",
-    "title": "もっと自由に楽しむ！「感性を整える」デザイナーの都内18店巡り｜グラフィック・空間・素材感",
-    "url": "https://liginc.co.jp/679190",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-30T21:00:17.000Z",
-    "summary": "こんにちは！ デザイナーのまきまきです。 せっかくの自分時間、どうせならおしゃれなもの・カッコいいもの・かわいいものを見てクリエイティブに過ごしたいですよね。 ただ美味しいだけじゃなくて、「あ、ここ可愛い！」「この空間、 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 32,
-    "fetchedAt": "2026-05-07T23:44:46.765Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "7e691f631b41f354adb05c1332941692",
-    "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
-    "url": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+    "id": "d87e7e77f1a537c2198ca52325985ebe",
+    "title": "Using CSS corner-shape For Folded Corners",
+    "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-07T14:22:38.000Z",
-    "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well....",
+    "publishedAt": "2026-05-08T13:54:10.000Z",
+    "summary": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should...",
     "categories": [
       "css",
       "frontend",
       "ui"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-07T23:44:47.633Z",
+    "fetchedAt": "2026-05-08T23:47:37.310Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg?resize=1024%2C765",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png?resize=1768%2C916&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -175,31 +175,30 @@
       "ui"
     ],
     "score": 28,
-    "fetchedAt": "2026-05-07T23:44:47.633Z",
+    "fetchedAt": "2026-05-08T23:47:37.310Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
     "isPickup": false
   },
   {
-    "id": "f874f13537be1bf1a7bf83d0bddfa4f7",
-    "title": "The Architecture Of Local-First Web Development",
-    "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-    "source": "Smashing Magazine",
+    "id": "7e691f631b41f354adb05c1332941692",
+    "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
+    "url": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-06T10:00:00.000Z",
-    "summary": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
+    "publishedAt": "2026-05-07T14:22:38.000Z",
+    "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well....",
     "categories": [
-      "design",
-      "ux",
+      "css",
       "frontend",
-      "accessibility"
+      "ui"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-07T23:44:47.027Z",
+    "fetchedAt": "2026-05-08T23:47:37.310Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg?resize=1024%2C765",
     "isPickup": false
   }
 ]
