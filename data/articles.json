@@ -14,50 +14,10 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-08T23:47:36.967Z",
+    "fetchedAt": "2026-05-09T23:38:25.526Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
-  },
-  {
-    "id": "3608d843710411780da54b68c050a174",
-    "title": "今月フロントエンドエンジニアが気になったWebサイト・ニュース48選【2026.4】",
-    "url": "https://liginc.co.jp/680151",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-06T21:00:55.000Z",
-    "summary": "LIGでフロントエンドエンジニアをしているいとしゅんです。 Slackのtimesに、日々気になったWebサイトやWeb関連ニュースをメモのように残しているのですが、社内でも「参考になる」と言ってもらえることが多いので、 […]",
-    "categories": [
-      "frontend",
-      "design",
-      "web",
-      "ux"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-05-08T23:47:36.267Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "f650db4f44d329b555736bdda4c641bb",
-    "title": "テクニカルディレクター・Mark：AIを武器に、設計からチームまでを動かすエンジニア",
-    "url": "https://liginc.co.jp/680195",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-06T21:00:18.000Z",
-    "summary": "こんにちは！ セブ拠点でブリッジディレクターをしているなごみんです。 日本企業のプロジェクトに参画し、日々現地エンジニアと一緒に働いています。 オフショア開発を検討する企業の方にとって、「どんな人が開発を支えているのか」 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-05-08T23:47:36.268Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
   },
   {
     "id": "080d3d7cc7667b72b726829d7ddd3945",
@@ -74,10 +34,10 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-08T23:47:36.967Z",
+    "fetchedAt": "2026-05-09T23:38:25.527Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": false
+    "isPickup": true
   },
   {
     "id": "34b4fce31f558e3bedb01ff379a4e821",
@@ -94,7 +54,47 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-08T23:47:36.967Z",
+    "fetchedAt": "2026-05-09T23:38:25.527Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "3608d843710411780da54b68c050a174",
+    "title": "今月フロントエンドエンジニアが気になったWebサイト・ニュース48選【2026.4】",
+    "url": "https://liginc.co.jp/680151",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T21:00:55.000Z",
+    "summary": "LIGでフロントエンドエンジニアをしているいとしゅんです。 Slackのtimesに、日々気になったWebサイトやWeb関連ニュースをメモのように残しているのですが、社内でも「参考になる」と言ってもらえることが多いので、 […]",
+    "categories": [
+      "frontend",
+      "design",
+      "web",
+      "ux"
+    ],
+    "score": 34,
+    "fetchedAt": "2026-05-09T23:38:25.766Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "f650db4f44d329b555736bdda4c641bb",
+    "title": "テクニカルディレクター・Mark：AIを武器に、設計からチームまでを動かすエンジニア",
+    "url": "https://liginc.co.jp/680195",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T21:00:18.000Z",
+    "summary": "こんにちは！ セブ拠点でブリッジディレクターをしているなごみんです。 日本企業のプロジェクトに参画し、日々現地エンジニアと一緒に働いています。 オフショア開発を検討する企業の方にとって、「どんな人が開発を支えているのか」 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 34,
+    "fetchedAt": "2026-05-09T23:38:25.766Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-08T23:47:36.268Z",
+    "fetchedAt": "2026-05-09T23:38:25.766Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,7 +134,7 @@
       "graphics"
     ],
     "score": 31,
-    "fetchedAt": "2026-05-08T23:47:36.752Z",
+    "fetchedAt": "2026-05-09T23:38:25.231Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
@@ -153,32 +153,11 @@
       "frontend",
       "ui"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-08T23:47:37.310Z",
+    "score": 26,
+    "fetchedAt": "2026-05-09T23:38:25.759Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png?resize=1768%2C916&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "ab75fa3dfebb6aa92c474af121502aee",
-    "title": "Google’s Prompt API",
-    "url": "https://css-tricks.com/googles-prompt-api/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-06T19:41:29.000Z",
-    "summary": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS...",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 28,
-    "fetchedAt": "2026-05-08T23:47:37.310Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
     "isPickup": false
   },
   {
@@ -195,10 +174,31 @@
       "ui"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-08T23:47:37.310Z",
+    "fetchedAt": "2026-05-09T23:38:25.759Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg?resize=1024%2C765",
+    "isPickup": false
+  },
+  {
+    "id": "ab75fa3dfebb6aa92c474af121502aee",
+    "title": "Google’s Prompt API",
+    "url": "https://css-tricks.com/googles-prompt-api/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-06T19:41:29.000Z",
+    "summary": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS...",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 25,
+    "fetchedAt": "2026-05-09T23:38:25.759Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
     "isPickup": false
   }
 ]
