@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-09T23:38:25.526Z",
+    "score": 37,
+    "fetchedAt": "2026-05-10T23:42:23.041Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-09T23:38:25.527Z",
+    "fetchedAt": "2026-05-10T23:42:23.041Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -54,7 +54,7 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-09T23:38:25.527Z",
+    "fetchedAt": "2026-05-10T23:42:23.041Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-09T23:38:25.766Z",
+    "fetchedAt": "2026-05-10T23:42:23.333Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-09T23:38:25.766Z",
+    "fetchedAt": "2026-05-10T23:42:23.333Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-09T23:38:25.766Z",
+    "fetchedAt": "2026-05-10T23:42:23.333Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,7 +134,7 @@
       "graphics"
     ],
     "score": 31,
-    "fetchedAt": "2026-05-09T23:38:25.231Z",
+    "fetchedAt": "2026-05-10T23:42:22.898Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
@@ -154,30 +154,10 @@
       "ui"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-09T23:38:25.759Z",
+    "fetchedAt": "2026-05-10T23:42:23.195Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png?resize=1768%2C916&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "7e691f631b41f354adb05c1332941692",
-    "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
-    "url": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-07T14:22:38.000Z",
-    "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well....",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-05-09T23:38:25.759Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg?resize=1024%2C765",
     "isPickup": false
   },
   {
@@ -195,10 +175,30 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-05-09T23:38:25.759Z",
+    "fetchedAt": "2026-05-10T23:42:23.195Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
+    "isPickup": false
+  },
+  {
+    "id": "7e691f631b41f354adb05c1332941692",
+    "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
+    "url": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-07T14:22:38.000Z",
+    "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well....",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-05-10T23:42:23.195Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg?resize=1024%2C765",
     "isPickup": false
   }
 ]
