@@ -1,5 +1,25 @@
 [
   {
+    "id": "7f62924cdfdfd9ef5cd7ed2718638f4b",
+    "title": "Kindle本の特大セールが開催！ イラスト関連が多め、Web制作やUIデザイン、配色本、高額なイラスト書もお買い得です",
+    "url": "https://coliss.com/articles/products/kindle-sales-20260511.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-11T00:36:53.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 Kindle本の特大セールが開催されています。Webや紙のデザイン、UIデザイン、人気の配色本、高額なイラスト関連の良書がたくさんセール対象です！ セール期間は今週の木 […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-11T23:49:41.395Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "e95b8408827776fa0c0c7d6fa96cf86d",
     "title": "1Passwordが国内販売もついに値上げされます！ 値上げ前の最後となるセールがソースネクストで5/12まで開催",
     "url": "https://coliss.com/articles/products/sourcenext-202605.html",
@@ -14,7 +34,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-10T23:42:23.041Z",
+    "fetchedAt": "2026-05-11T23:49:41.395Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,7 @@
       "ui"
     ],
     "score": 35,
-    "fetchedAt": "2026-05-10T23:42:23.041Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "34b4fce31f558e3bedb01ff379a4e821",
-    "title": "2026年用、日本語のフリーフォント851種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記",
-    "url": "https://coliss.com/articles/freebies/japanese-free-fonts.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-28T00:36:26.000Z",
-    "summary": "個人でも商用でも無料利用できる、日本語のフリーフォント851種類を紹介します。 Webデザイン、アプリ、動画、紙のデザインをはじめ、クライアントのプロジェクトでも販売する同人誌まで、幅広く利用できる無料フォントが満載です […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 35,
-    "fetchedAt": "2026-05-10T23:42:23.041Z",
+    "fetchedAt": "2026-05-11T23:49:41.395Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-10T23:42:23.333Z",
+    "fetchedAt": "2026-05-11T23:49:40.668Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-10T23:42:23.333Z",
+    "fetchedAt": "2026-05-11T23:49:40.668Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-10T23:42:23.333Z",
+    "fetchedAt": "2026-05-11T23:49:40.668Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,30 +134,10 @@
       "graphics"
     ],
     "score": 31,
-    "fetchedAt": "2026-05-10T23:42:22.898Z",
+    "fetchedAt": "2026-05-11T23:49:41.107Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
-    "isPickup": false
-  },
-  {
-    "id": "d87e7e77f1a537c2198ca52325985ebe",
-    "title": "Using CSS corner-shape For Folded Corners",
-    "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-08T13:54:10.000Z",
-    "summary": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-05-10T23:42:23.195Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png?resize=1768%2C916&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -175,10 +155,30 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-05-10T23:42:23.195Z",
+    "fetchedAt": "2026-05-11T23:49:41.743Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
+    "isPickup": false
+  },
+  {
+    "id": "d87e7e77f1a537c2198ca52325985ebe",
+    "title": "Using CSS corner-shape For Folded Corners",
+    "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-08T13:54:10.000Z",
+    "summary": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-05-11T23:49:41.743Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png?resize=1768%2C916&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -195,7 +195,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-05-10T23:42:23.195Z",
+    "fetchedAt": "2026-05-11T23:49:41.743Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg?resize=1024%2C765",
