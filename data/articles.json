@@ -1,5 +1,25 @@
 [
   {
+    "id": "f436af46326323cf76c321d531a270eb",
+    "title": "Web制作者は要チェック！ コンテナクエリの進化、動画の遅延読み込みなど、Chrome 148で新しく追加されたCSSの機能",
+    "url": "https://coliss.com/articles/build-websites/architectonics/chrome-148-adds-7-new-css-feature.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-12T00:36:25.000Z",
+    "summary": "5/6にアップデートされたChrome 148に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、コンテナクエリをcontainer-typeを設定しなくてもコンテナ名のみで機能 […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-12T23:52:15.592Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "7f62924cdfdfd9ef5cd7ed2718638f4b",
     "title": "Kindle本の特大セールが開催！ イラスト関連が多め、Web制作やUIデザイン、配色本、高額なイラスト書もお買い得です",
     "url": "https://coliss.com/articles/products/kindle-sales-20260511.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-11T23:49:41.395Z",
+    "score": 40,
+    "fetchedAt": "2026-05-12T23:52:15.592Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-11T23:49:41.395Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "080d3d7cc7667b72b726829d7ddd3945",
-    "title": "Amazonでゴールデンウィークの特大セールが開催！ 私が購入して本当によかったもの、見逃しがちなお買い得品を紹介します",
-    "url": "https://coliss.com/articles/products/amazon-sale-20260501.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-01T00:36:29.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 Amazonでゴールデンウィークの特大セールが開催です！ このセールでは特に生活用品が数多く対象になっており、通常のセールよりもかなり安くなっており、非常にお買い得です […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 35,
-    "fetchedAt": "2026-05-11T23:49:41.395Z",
+    "fetchedAt": "2026-05-12T23:52:15.592Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-11T23:49:40.668Z",
+    "fetchedAt": "2026-05-12T23:52:14.821Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-11T23:49:40.668Z",
+    "fetchedAt": "2026-05-12T23:52:14.821Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-11T23:49:40.668Z",
+    "fetchedAt": "2026-05-12T23:52:14.821Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,10 +134,30 @@
       "graphics"
     ],
     "score": 31,
-    "fetchedAt": "2026-05-11T23:49:41.107Z",
+    "fetchedAt": "2026-05-12T23:52:15.011Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "isPickup": false
+  },
+  {
+    "id": "df8fa34f7dfa4cbfb3351cd9089db4e5",
+    "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+    "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-12T13:59:35.000Z",
+    "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 30,
+    "fetchedAt": "2026-05-12T23:52:15.549Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -155,7 +175,7 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-05-11T23:49:41.743Z",
+    "fetchedAt": "2026-05-12T23:52:15.549Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
@@ -175,30 +195,10 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-05-11T23:49:41.743Z",
+    "fetchedAt": "2026-05-12T23:52:15.549Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png?resize=1768%2C916&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "7e691f631b41f354adb05c1332941692",
-    "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
-    "url": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-07T14:22:38.000Z",
-    "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well....",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-05-11T23:49:41.743Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg?resize=1024%2C765",
     "isPickup": false
   }
 ]
