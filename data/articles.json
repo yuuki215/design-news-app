@@ -1,5 +1,25 @@
 [
   {
+    "id": "31f572f91e72f9aba8e3e5f79b1d75ab",
+    "title": "これは便利！ ロード時に表示するスケルトンを実際のUIから抽出して自動生成してくれるフレームワーク -Boneyard",
+    "url": "https://coliss.com/articles/build-websites/operation/javascript/skelton-screen-automatically-generate.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-13T00:36:59.000Z",
+    "summary": "Webサイトやスマホアプリのロード時に、実際のUIから抽出したピクセルパーフェクトのスケルトンを自動生成してくれるフレームワークを紹介します。 React, Vue, Angularなどに対応しており、数行のコードを記述 […]",
+    "categories": [
+      "design",
+      "frontend",
+      "css",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-13T23:50:16.515Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "f436af46326323cf76c321d531a270eb",
     "title": "Web制作者は要チェック！ コンテナクエリの進化、動画の遅延読み込みなど、Chrome 148で新しく追加されたCSSの機能",
     "url": "https://coliss.com/articles/build-websites/architectonics/chrome-148-adds-7-new-css-feature.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-12T23:52:15.592Z",
+    "score": 40,
+    "fetchedAt": "2026-05-13T23:50:16.516Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-12T23:52:15.592Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "e95b8408827776fa0c0c7d6fa96cf86d",
-    "title": "1Passwordが国内販売もついに値上げされます！ 値上げ前の最後となるセールがソースネクストで5/12まで開催",
-    "url": "https://coliss.com/articles/products/sourcenext-202605.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-07T00:36:25.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 ソースネクストで販売されている1Passwordが、5/13から値上げされるとのことです。この値上げ前の最後となるセールがソースネクストで開催しています！ 1Passw […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-05-12T23:52:15.592Z",
+    "fetchedAt": "2026-05-13T23:50:16.516Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +73,8 @@
       "web",
       "ux"
     ],
-    "score": 34,
-    "fetchedAt": "2026-05-12T23:52:14.821Z",
+    "score": 32,
+    "fetchedAt": "2026-05-13T23:50:16.609Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -93,8 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 34,
-    "fetchedAt": "2026-05-12T23:52:14.821Z",
+    "score": 32,
+    "fetchedAt": "2026-05-13T23:50:16.609Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-12T23:52:14.821Z",
+    "fetchedAt": "2026-05-13T23:50:16.609Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,71 +134,70 @@
       "graphics"
     ],
     "score": 31,
-    "fetchedAt": "2026-05-12T23:52:15.011Z",
+    "fetchedAt": "2026-05-13T23:50:15.861Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": false
   },
   {
-    "id": "df8fa34f7dfa4cbfb3351cd9089db4e5",
-    "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
-    "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+    "id": "4e4d6c652e6b07e3db058ab896554d38",
+    "title": "rotateX()",
+    "url": "https://css-tricks.com/almanac/functions/r/rotatex/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-12T13:59:35.000Z",
-    "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "publishedAt": "2026-05-13T14:36:54.000Z",
+    "summary": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
-      "design",
       "css",
       "frontend",
       "ui"
     ],
-    "score": 30,
-    "fetchedAt": "2026-05-12T23:52:15.549Z",
+    "score": 29,
+    "fetchedAt": "2026-05-13T23:50:16.602Z",
     "region": "global",
     "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_5030899E08C5696DE43255ED314A7F00FDAB89F000ECCE9A9554C93265561AB8_1771667065487_Screenshot2026-02-21at10.44.10AM-e1777907568105.png?resize=1886%2C673",
     "isPickup": false
   },
   {
-    "id": "ab75fa3dfebb6aa92c474af121502aee",
-    "title": "Google’s Prompt API",
-    "url": "https://css-tricks.com/googles-prompt-api/",
+    "id": "89a95ead72306e704f9aa9fdb622a53a",
+    "title": "rotateY()",
+    "url": "https://css-tricks.com/almanac/functions/r/rotatey/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-06T19:41:29.000Z",
-    "summary": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS...",
+    "publishedAt": "2026-05-13T14:33:58.000Z",
+    "summary": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
-      "design",
       "css",
       "frontend",
       "ui"
     ],
-    "score": 25,
-    "fetchedAt": "2026-05-12T23:52:15.549Z",
+    "score": 29,
+    "fetchedAt": "2026-05-13T23:50:16.602Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-system-settings-ai.png?resize=2218%2C1906",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/s_6B039D89EFA1511E842EE16753FF2394FCAA7484762E6E6BC6FFD189B47A5723_1771697610201_Screenshot2026-02-21at7.13.23PM-e1777905340913.png?resize=960%2C655&#038;ssl=1",
     "isPickup": false
   },
   {
-    "id": "d87e7e77f1a537c2198ca52325985ebe",
-    "title": "Using CSS corner-shape For Folded Corners",
-    "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
+    "id": "e071f3eb710d19f0f69c3732ded6e23a",
+    "title": "rotate()",
+    "url": "https://css-tricks.com/almanac/functions/r/rotate/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-08T13:54:10.000Z",
-    "summary": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\nUsing CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should...",
+    "publishedAt": "2026-05-13T14:32:47.000Z",
+    "summary": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
       "css",
       "frontend",
       "ui"
     ],
-    "score": 23,
-    "fetchedAt": "2026-05-12T23:52:15.549Z",
+    "score": 29,
+    "fetchedAt": "2026-05-13T23:50:16.602Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_4309AEC000A3E54B3EAE7D9665BB7D541E09DE1556E769AE721013146BE52BD2_1775704329444_6.png?resize=1768%2C916&#038;ssl=1",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/41a6f9778d12dfedcc7ec3727d64a12491d75d9a65d4b9323feb075391ae6795.jpg?resize=80%2C80&#038;ssl=1",
     "isPickup": false
   }
 ]
