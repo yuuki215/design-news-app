@@ -1,5 +1,25 @@
 [
   {
+    "id": "c2d818692fcefc49655453d1c380a4e9",
+    "title": "TextExpanderの代替にEspansoを使ってみたらかなり良かった！ Mac, Win, Linux対応の無料アプリ -Espanso",
+    "url": "https://coliss.com/articles/build-websites/operation/work/cross-platform-textexpander-espanso.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-14T00:36:34.000Z",
+    "summary": "これまではmacOSでTextExpander（買い切り版の古いやつ）を使用していたのですが、先日macOSの通知で「macOSの次のバージョンからIntel用アプリが使用できなくなる」と告知をされたので、代替アプリをい […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-14T23:46:27.210Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "31f572f91e72f9aba8e3e5f79b1d75ab",
     "title": "これは便利！ ロード時に表示するスケルトンを実際のUIから抽出して自動生成してくれるフレームワーク -Boneyard",
     "url": "https://coliss.com/articles/build-websites/operation/javascript/skelton-screen-automatically-generate.html",
@@ -13,8 +33,8 @@
       "css",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-13T23:50:16.515Z",
+    "score": 40,
+    "fetchedAt": "2026-05-14T23:46:27.210Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,27 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-13T23:50:16.516Z",
+    "fetchedAt": "2026-05-14T23:46:27.210Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
-    "id": "7f62924cdfdfd9ef5cd7ed2718638f4b",
-    "title": "Kindle本の特大セールが開催！ イラスト関連が多め、Web制作やUIデザイン、配色本、高額なイラスト書もお買い得です",
-    "url": "https://coliss.com/articles/products/kindle-sales-20260511.html",
-    "source": "コリス",
+    "id": "738c20b21efb4bd97ff5f21abd7ab7b7",
+    "title": "50代、初挑戦のコンペで入賞。動画制作が教えてくれた「今が一番早いスタートライン」",
+    "url": "https://liginc.co.jp/studioueno/680041",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-05-11T00:36:53.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 Kindle本の特大セールが開催されています。Webや紙のデザイン、UIデザイン、人気の配色本、高額なイラスト関連の良書がたくさんセール対象です！ セール期間は今週の木 […]",
+    "publishedAt": "2026-05-14T21:00:43.000Z",
+    "summary": "こんにちは、デジLIG運営のはるなです！ デジLIG（デジタルハリウッドSTUDIO by LIG）とは 株式会社LIGとデジタルハリウッドが業務提携をし、運営しているWebクリエイター養成スクール。現在、上野・池袋・大 […]",
     "categories": [
       "design",
-      "css",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-13T23:50:16.516Z",
+    "fetchedAt": "2026-05-14T23:46:27.206Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +94,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-13T23:50:16.609Z",
+    "fetchedAt": "2026-05-14T23:46:27.206Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,27 +114,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-13T23:50:16.609Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "f1a2d2c0036c5227a2ee00affb1e854a",
-    "title": "もっと自由に楽しむ！「感性を整える」デザイナーの都内18店巡り｜グラフィック・空間・素材感",
-    "url": "https://liginc.co.jp/679190",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-04-30T21:00:17.000Z",
-    "summary": "こんにちは！ デザイナーのまきまきです。 せっかくの自分時間、どうせならおしゃれなもの・カッコいいもの・かわいいものを見てクリエイティブに過ごしたいですよね。 ただ美味しいだけじゃなくて、「あ、ここ可愛い！」「この空間、 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 32,
-    "fetchedAt": "2026-05-13T23:50:16.609Z",
+    "fetchedAt": "2026-05-14T23:46:27.206Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,10 +134,51 @@
       "graphics"
     ],
     "score": 31,
-    "fetchedAt": "2026-05-13T23:50:15.861Z",
+    "fetchedAt": "2026-05-14T23:46:26.596Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "isPickup": false
+  },
+  {
+    "id": "114de918c118749e4bb29e8db3ec0eef",
+    "title": "Computing and Displaying Discounted Prices in CSS",
+    "url": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-14T14:05:01.000Z",
+    "summary": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You sh...",
+    "categories": [
+      "css",
+      "product",
+      "frontend",
+      "ui"
+    ],
+    "score": 29,
+    "fetchedAt": "2026-05-14T23:46:27.426Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_7E3C7C97B7D8D52C02F5092EAFB87771069C4AA5BAFDB9C502DA16E57E7200D2_1776091945816_gsp-sale-prices.png?resize=2410%2C1032&#038;ssl=1",
+    "isPickup": false
+  },
+  {
+    "id": "df8fa34f7dfa4cbfb3351cd9089db4e5",
+    "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+    "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-12T13:59:35.000Z",
+    "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 27,
+    "fetchedAt": "2026-05-14T23:46:27.426Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -153,51 +194,11 @@
       "frontend",
       "ui"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-13T23:50:16.602Z",
+    "score": 26,
+    "fetchedAt": "2026-05-14T23:46:27.426Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_5030899E08C5696DE43255ED314A7F00FDAB89F000ECCE9A9554C93265561AB8_1771667065487_Screenshot2026-02-21at10.44.10AM-e1777907568105.png?resize=1886%2C673",
-    "isPickup": false
-  },
-  {
-    "id": "89a95ead72306e704f9aa9fdb622a53a",
-    "title": "rotateY()",
-    "url": "https://css-tricks.com/almanac/functions/r/rotatey/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-13T14:33:58.000Z",
-    "summary": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 29,
-    "fetchedAt": "2026-05-13T23:50:16.602Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/s_6B039D89EFA1511E842EE16753FF2394FCAA7484762E6E6BC6FFD189B47A5723_1771697610201_Screenshot2026-02-21at7.13.23PM-e1777905340913.png?resize=960%2C655&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "e071f3eb710d19f0f69c3732ded6e23a",
-    "title": "rotate()",
-    "url": "https://css-tricks.com/almanac/functions/r/rotate/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-13T14:32:47.000Z",
-    "summary": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 29,
-    "fetchedAt": "2026-05-13T23:50:16.602Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/41a6f9778d12dfedcc7ec3727d64a12491d75d9a65d4b9323feb075391ae6795.jpg?resize=80%2C80&#038;ssl=1",
     "isPickup": false
   }
 ]
