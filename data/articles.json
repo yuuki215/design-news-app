@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-15T23:46:31.364Z",
+    "score": 40,
+    "fetchedAt": "2026-05-16T23:42:46.013Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-15T23:46:31.364Z",
+    "fetchedAt": "2026-05-16T23:42:46.013Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -53,8 +53,8 @@
       "css",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-15T23:46:31.364Z",
+    "score": 37,
+    "fetchedAt": "2026-05-16T23:42:46.013Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-15T23:46:31.951Z",
+    "fetchedAt": "2026-05-16T23:42:45.342Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-15T23:46:31.951Z",
+    "fetchedAt": "2026-05-16T23:42:45.342Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-15T23:46:31.951Z",
+    "fetchedAt": "2026-05-16T23:42:45.342Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,7 +134,7 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-15T23:46:31.151Z",
+    "fetchedAt": "2026-05-16T23:42:45.916Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
@@ -153,32 +153,11 @@
       "frontend",
       "ui"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-15T23:46:31.982Z",
+    "score": 26,
+    "fetchedAt": "2026-05-16T23:42:46.229Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/1-1024x642.png?resize=1024%2C642&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "6cac526b2afe6082b39d1f0dcde370ba",
-    "title": "Ten Data-Backed Truths Of User Experience ROI",
-    "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-15T10:00:00.000Z",
-    "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 29,
-    "fetchedAt": "2026-05-15T23:46:30.907Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
     "isPickup": false
   },
   {
@@ -196,10 +175,31 @@
       "ui"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-15T23:46:31.982Z",
+    "fetchedAt": "2026-05-16T23:42:46.229Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_7E3C7C97B7D8D52C02F5092EAFB87771069C4AA5BAFDB9C502DA16E57E7200D2_1776091945816_gsp-sale-prices.png?resize=2410%2C1032&#038;ssl=1",
+    "isPickup": false
+  },
+  {
+    "id": "6cac526b2afe6082b39d1f0dcde370ba",
+    "title": "Ten Data-Backed Truths Of User Experience ROI",
+    "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-15T10:00:00.000Z",
+    "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 26,
+    "fetchedAt": "2026-05-16T23:42:45.771Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
     "isPickup": false
   }
 ]
