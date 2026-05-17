@@ -14,7 +14,27 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-16T23:42:46.013Z",
+    "fetchedAt": "2026-05-17T23:51:22.825Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "bab0fd17e34de20fbd48cd3a53ae18b1",
+    "title": "【5/29(金)13時〜無料イベント】生成AIで簡単にスライド作成をする方法、教えます",
+    "url": "https://liginc.co.jp/680430",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-17T21:00:55.000Z",
+    "summary": "こんにちは、AIコンサルタントのかけるです。 「スライド作成がとにかく苦手……」 「現場レベルに近いデザインが作れない」 「テンプレートがあるけど微調整してると結局時間がかかる」 みなさんは資料作成でこんなお悩み、ありま […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-05-17T23:51:21.807Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -33,11 +53,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-16T23:42:46.013Z",
+    "score": 37,
+    "fetchedAt": "2026-05-17T23:51:22.825Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "31f572f91e72f9aba8e3e5f79b1d75ab",
@@ -54,7 +74,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-16T23:42:46.013Z",
+    "fetchedAt": "2026-05-17T23:51:22.825Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-05-16T23:42:45.342Z",
+    "score": 34,
+    "fetchedAt": "2026-05-17T23:51:21.807Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,27 +114,7 @@
       "ux"
     ],
     "score": 32,
-    "fetchedAt": "2026-05-16T23:42:45.342Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "f650db4f44d329b555736bdda4c641bb",
-    "title": "テクニカルディレクター・Mark：AIを武器に、設計からチームまでを動かすエンジニア",
-    "url": "https://liginc.co.jp/680195",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-06T21:00:18.000Z",
-    "summary": "こんにちは！ セブ拠点でブリッジディレクターをしているなごみんです。 日本企業のプロジェクトに参画し、日々現地エンジニアと一緒に働いています。 オフショア開発を検討する企業の方にとって、「どんな人が開発を支えているのか」 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 32,
-    "fetchedAt": "2026-05-16T23:42:45.342Z",
+    "fetchedAt": "2026-05-17T23:51:21.807Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,7 +134,7 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-16T23:42:45.916Z",
+    "fetchedAt": "2026-05-17T23:51:21.976Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
@@ -154,31 +154,10 @@
       "ui"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-16T23:42:46.229Z",
+    "fetchedAt": "2026-05-17T23:51:22.625Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/1-1024x642.png?resize=1024%2C642&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "114de918c118749e4bb29e8db3ec0eef",
-    "title": "Computing and Displaying Discounted Prices in CSS",
-    "url": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-14T14:05:01.000Z",
-    "summary": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You sh...",
-    "categories": [
-      "css",
-      "product",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-05-16T23:42:46.229Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_7E3C7C97B7D8D52C02F5092EAFB87771069C4AA5BAFDB9C502DA16E57E7200D2_1776091945816_gsp-sale-prices.png?resize=2410%2C1032&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -196,10 +175,30 @@
       "accessibility"
     ],
     "score": 26,
-    "fetchedAt": "2026-05-16T23:42:45.771Z",
+    "fetchedAt": "2026-05-17T23:51:22.288Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "df8fa34f7dfa4cbfb3351cd9089db4e5",
+    "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+    "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-12T13:59:35.000Z",
+    "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 24,
+    "fetchedAt": "2026-05-17T23:51:22.625Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   }
 ]
