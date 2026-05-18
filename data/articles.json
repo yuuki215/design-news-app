@@ -1,5 +1,45 @@
 [
   {
+    "id": "a09371a18b10c03f5259c8c48f83ce81",
+    "title": "職人技が光る美しいアイコン素材！ CSSの各プロパティや値をデザインしてアイコン化 -Cascade Icons",
+    "url": "https://coliss.com/articles/build-websites/operation/css/cascade-icons-for-css-properties.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-18T00:36:10.000Z",
+    "summary": "コードを理解するデザインツール向けに、CSSの各プロパティや値をデザインしてアイコン化したCascade Iconsを紹介します。 display: flex;, display: grid;はもちろん、position […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-18T23:57:26.478Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "7d40a0b247d6f61f56f8c9edd9cf4f4b",
+    "title": "フリーランスの単価相場は？職種・スキル別の目安や単価アップ方法を解説",
+    "url": "https://liginc.co.jp/680210",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-18T21:00:01.000Z",
+    "summary": "フリーランスとして独立するうえで、単価の設定は収入を直接左右する重要な判断です。 「自分の単価は相場と合っているのか」「もっと単価を上げたいが何から始めればいいかわからない」という悩みを持つフリーランスの方は少なくありま […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-05-18T23:57:26.320Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "5efb8138e6cd4ba7231e4cae42d47b48",
     "title": "イラストでキャラクターを塗るときの参考になる！ 色選びに悩む人にお勧め -肌の色から決めるキャラ塗り配色レシピ",
     "url": "https://coliss.com/articles/book-review/isbn-9784839988845.html",
@@ -13,31 +53,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-17T23:51:22.825Z",
+    "score": 37,
+    "fetchedAt": "2026-05-18T23:57:26.478Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "bab0fd17e34de20fbd48cd3a53ae18b1",
-    "title": "【5/29(金)13時〜無料イベント】生成AIで簡単にスライド作成をする方法、教えます",
-    "url": "https://liginc.co.jp/680430",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-17T21:00:55.000Z",
-    "summary": "こんにちは、AIコンサルタントのかけるです。 「スライド作成がとにかく苦手……」 「現場レベルに近いデザインが作れない」 「テンプレートがあるけど微調整してると結局時間がかかる」 みなさんは資料作成でこんなお悩み、ありま […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-05-17T23:51:21.807Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "c2d818692fcefc49655453d1c380a4e9",
@@ -54,27 +74,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-17T23:51:22.825Z",
+    "fetchedAt": "2026-05-18T23:57:26.478Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "31f572f91e72f9aba8e3e5f79b1d75ab",
-    "title": "これは便利！ ロード時に表示するスケルトンを実際のUIから抽出して自動生成してくれるフレームワーク -Boneyard",
-    "url": "https://coliss.com/articles/build-websites/operation/javascript/skelton-screen-automatically-generate.html",
-    "source": "コリス",
+    "id": "bab0fd17e34de20fbd48cd3a53ae18b1",
+    "title": "【5/29(金)13時〜無料イベント】生成AIで簡単にスライド作成をする方法、教えます",
+    "url": "https://liginc.co.jp/680430",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-05-13T00:36:59.000Z",
-    "summary": "Webサイトやスマホアプリのロード時に、実際のUIから抽出したピクセルパーフェクトのスケルトンを自動生成してくれるフレームワークを紹介します。 React, Vue, Angularなどに対応しており、数行のコードを記述 […]",
+    "publishedAt": "2026-05-17T21:00:55.000Z",
+    "summary": "こんにちは、AIコンサルタントのかけるです。 「スライド作成がとにかく苦手……」 「現場レベルに近いデザインが作れない」 「テンプレートがあるけど微調整してると結局時間がかかる」 みなさんは資料作成でこんなお悩み、ありま […]",
     "categories": [
       "design",
+      "web",
       "frontend",
-      "css",
-      "ui"
+      "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-17T23:51:22.825Z",
+    "fetchedAt": "2026-05-18T23:57:26.320Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,27 +114,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-17T23:51:21.807Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "3608d843710411780da54b68c050a174",
-    "title": "今月フロントエンドエンジニアが気になったWebサイト・ニュース48選【2026.4】",
-    "url": "https://liginc.co.jp/680151",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-06T21:00:55.000Z",
-    "summary": "LIGでフロントエンドエンジニアをしているいとしゅんです。 Slackのtimesに、日々気になったWebサイトやWeb関連ニュースをメモのように残しているのですが、社内でも「参考になる」と言ってもらえることが多いので、 […]",
-    "categories": [
-      "frontend",
-      "design",
-      "web",
-      "ux"
-    ],
-    "score": 32,
-    "fetchedAt": "2026-05-17T23:51:21.807Z",
+    "fetchedAt": "2026-05-18T23:57:26.320Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,51 +134,29 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-17T23:51:21.976Z",
+    "fetchedAt": "2026-05-18T23:57:26.131Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": false
   },
   {
-    "id": "499fd3dfa6c3767ddb50c9582a6a7076",
-    "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
-    "url": "https://css-tricks.com/whats-important-11/",
+    "id": "87ba26abc51a327ad5f3c7b5d557c8c5",
+    "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+    "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-15T13:16:34.000Z",
-    "summary": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love o...",
+    "publishedAt": "2026-05-18T13:47:19.000Z",
+    "summary": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on",
     "categories": [
       "css",
       "frontend",
       "ui"
     ],
-    "score": 26,
-    "fetchedAt": "2026-05-17T23:51:22.625Z",
+    "score": 28,
+    "fetchedAt": "2026-05-18T23:57:26.558Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/1-1024x642.png?resize=1024%2C642&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "6cac526b2afe6082b39d1f0dcde370ba",
-    "title": "Ten Data-Backed Truths Of User Experience ROI",
-    "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-15T10:00:00.000Z",
-    "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-05-17T23:51:22.288Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
     "isPickup": false
   },
   {
@@ -196,9 +174,29 @@
       "ui"
     ],
     "score": 24,
-    "fetchedAt": "2026-05-17T23:51:22.625Z",
+    "fetchedAt": "2026-05-18T23:57:26.559Z",
     "region": "global",
     "language": "en",
+    "isPickup": false
+  },
+  {
+    "id": "499fd3dfa6c3767ddb50c9582a6a7076",
+    "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
+    "url": "https://css-tricks.com/whats-important-11/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-15T13:16:34.000Z",
+    "summary": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love o...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-05-18T23:57:26.558Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/1-1024x642.png?resize=1024%2C642&#038;ssl=1",
     "isPickup": false
   }
 ]
