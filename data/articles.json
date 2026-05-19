@@ -1,5 +1,25 @@
 [
   {
+    "id": "c6772b80e4c921c2a431a2c5fc393181",
+    "title": "Web制作者の腕試し！ 指定されたレイアウトをCSS Flexboxで実装するパズルゲーム -flexboxle",
+    "url": "https://coliss.com/articles/build-websites/operation/css/dairy-css-flexbox-puzzle.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-19T00:36:23.000Z",
+    "summary": "flexboxleは、CSS Flexboxをマスターするための毎日楽しめるパズルゲームです。CSS FlexboxのプロパティやTailwind CSSのクラスを使用してHTMLを記述し、目標のレイアウトに合わせて要素 […]",
+    "categories": [
+      "css",
+      "design",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-19T23:55:40.955Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "a09371a18b10c03f5259c8c48f83ce81",
     "title": "職人技が光る美しいアイコン素材！ CSSの各プロパティや値をデザインしてアイコン化 -Cascade Icons",
     "url": "https://coliss.com/articles/build-websites/operation/css/cascade-icons-for-css-properties.html",
@@ -13,20 +33,20 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-18T23:57:26.478Z",
+    "score": 40,
+    "fetchedAt": "2026-05-19T23:55:40.955Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
   },
   {
-    "id": "7d40a0b247d6f61f56f8c9edd9cf4f4b",
-    "title": "フリーランスの単価相場は？職種・スキル別の目安や単価アップ方法を解説",
-    "url": "https://liginc.co.jp/680210",
+    "id": "6f497401e5099c402d7863c9805e5cc5",
+    "title": "40代・50代からでも遅くない！Webデザイン・動画クリエイターに転身した体験談",
+    "url": "https://liginc.co.jp/679799",
     "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-05-18T21:00:01.000Z",
-    "summary": "フリーランスとして独立するうえで、単価の設定は収入を直接左右する重要な判断です。 「自分の単価は相場と合っているのか」「もっと単価を上げたいが何から始めればいいかわからない」という悩みを持つフリーランスの方は少なくありま […]",
+    "publishedAt": "2026-05-19T21:00:55.000Z",
+    "summary": "こんにちは！ Webクリエイタースクール「デジLIG（デジタルハリウッドSTUDIO by LIG）」の平田です！ 「もう40代・50代だから、今さら学ぶのは遅いかな……」と考えていませんか？ 結論からいうと、40代・5 […]",
     "categories": [
       "design",
       "web",
@@ -34,10 +54,10 @@
       "ux"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-18T23:57:26.320Z",
+    "fetchedAt": "2026-05-19T23:55:40.071Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "5efb8138e6cd4ba7231e4cae42d47b48",
@@ -54,27 +74,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-18T23:57:26.478Z",
+    "fetchedAt": "2026-05-19T23:55:40.955Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "c2d818692fcefc49655453d1c380a4e9",
-    "title": "TextExpanderの代替にEspansoを使ってみたらかなり良かった！ Mac, Win, Linux対応の無料アプリ -Espanso",
-    "url": "https://coliss.com/articles/build-websites/operation/work/cross-platform-textexpander-espanso.html",
-    "source": "コリス",
+    "id": "7d40a0b247d6f61f56f8c9edd9cf4f4b",
+    "title": "フリーランスの単価相場は？職種・スキル別の目安や単価アップ方法を解説",
+    "url": "https://liginc.co.jp/680210",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-05-14T00:36:34.000Z",
-    "summary": "これまではmacOSでTextExpander（買い切り版の古いやつ）を使用していたのですが、先日macOSの通知で「macOSの次のバージョンからIntel用アプリが使用できなくなる」と告知をされたので、代替アプリをい […]",
+    "publishedAt": "2026-05-18T21:00:01.000Z",
+    "summary": "フリーランスとして独立するうえで、単価の設定は収入を直接左右する重要な判断です。 「自分の単価は相場と合っているのか」「もっと単価を上げたいが何から始めればいいかわからない」という悩みを持つフリーランスの方は少なくありま […]",
     "categories": [
       "design",
-      "css",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-18T23:57:26.478Z",
+    "fetchedAt": "2026-05-19T23:55:40.071Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,27 +114,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-18T23:57:26.320Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "738c20b21efb4bd97ff5f21abd7ab7b7",
-    "title": "50代、初挑戦のコンペで入賞。動画制作が教えてくれた「今が一番早いスタートライン」",
-    "url": "https://liginc.co.jp/studioueno/680041",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-14T21:00:43.000Z",
-    "summary": "こんにちは、デジLIG運営のはるなです！ デジLIG（デジタルハリウッドSTUDIO by LIG）とは 株式会社LIGとデジタルハリウッドが業務提携をし、運営しているWebクリエイター養成スクール。現在、上野・池袋・大 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 34,
-    "fetchedAt": "2026-05-18T23:57:26.320Z",
+    "fetchedAt": "2026-05-19T23:55:40.071Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,7 +134,7 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-18T23:57:26.131Z",
+    "fetchedAt": "2026-05-19T23:55:40.140Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
@@ -153,28 +153,8 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-05-18T23:57:26.558Z",
-    "region": "global",
-    "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "df8fa34f7dfa4cbfb3351cd9089db4e5",
-    "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
-    "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-12T13:59:35.000Z",
-    "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 24,
-    "fetchedAt": "2026-05-18T23:57:26.559Z",
+    "score": 25,
+    "fetchedAt": "2026-05-19T23:55:40.730Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -193,10 +173,31 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-05-18T23:57:26.558Z",
+    "fetchedAt": "2026-05-19T23:55:40.730Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/1-1024x642.png?resize=1024%2C642&#038;ssl=1",
+    "isPickup": false
+  },
+  {
+    "id": "114de918c118749e4bb29e8db3ec0eef",
+    "title": "Computing and Displaying Discounted Prices in CSS",
+    "url": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-14T14:05:01.000Z",
+    "summary": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You sh...",
+    "categories": [
+      "css",
+      "product",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-05-19T23:55:40.730Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_7E3C7C97B7D8D52C02F5092EAFB87771069C4AA5BAFDB9C502DA16E57E7200D2_1776091945816_gsp-sale-prices.png?resize=2410%2C1032&#038;ssl=1",
     "isPickup": false
   }
 ]
