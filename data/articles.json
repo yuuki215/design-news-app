@@ -1,5 +1,25 @@
 [
   {
+    "id": "8528b3fc0263ab14a3087ac50317a91e",
+    "title": "HTMLの新しい要素「<install>」はJavaScriptなしで、Webアプリのインストールが簡単にできるようになります",
+    "url": "https://coliss.com/articles/build-websites/operation/work/new-html-install-element.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-20T00:36:04.000Z",
+    "summary": "安定版のサポートはまだ先ですが、Chrome 148+でフラグを有効にすることで、HTMLの新しい要素「<install>」が利用できるようになっています。 <install>でインストールボタン […]",
+    "categories": [
+      "frontend",
+      "design",
+      "css",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-21T00:01:18.041Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "c6772b80e4c921c2a431a2c5fc393181",
     "title": "Web制作者の腕試し！ 指定されたレイアウトをCSS Flexboxで実装するパズルゲーム -flexboxle",
     "url": "https://coliss.com/articles/build-websites/operation/css/dairy-css-flexbox-puzzle.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-19T23:55:40.955Z",
+    "score": 40,
+    "fetchedAt": "2026-05-21T00:01:18.041Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,10 +54,30 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-19T23:55:40.955Z",
+    "fetchedAt": "2026-05-21T00:01:18.041Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
+  },
+  {
+    "id": "ed1b968563324c58d14e6a926f8e7cf7",
+    "title": "品質で、信頼をつくる。LIGが本気でQA研修に取り組む理由",
+    "url": "https://liginc.co.jp/679903",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-20T21:00:48.000Z",
+    "summary": "こんにちは、LIGで第1ITソリューション事業部 部長兼プロジェクトマネージャーを務めている、小池です。 開発会社を選ぶとき、一番気になるのは「品質」ではないでしょうか。 「この会社に任せて、本当に大丈夫だろうか」 開発 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-05-21T00:01:17.493Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "6f497401e5099c402d7863c9805e5cc5",
@@ -53,28 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-19T23:55:40.071Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "5efb8138e6cd4ba7231e4cae42d47b48",
-    "title": "イラストでキャラクターを塗るときの参考になる！ 色選びに悩む人にお勧め -肌の色から決めるキャラ塗り配色レシピ",
-    "url": "https://coliss.com/articles/book-review/isbn-9784839988845.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-15T00:36:53.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 キャラクターを塗るときに肌の色、髪の色、瞳の色は、どうやって選べばよいのか。いつも同じような色を選んでしまう。そんな色選びに悩んでしまう人にお勧めのイラスト用の配色本を […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
     "score": 37,
-    "fetchedAt": "2026-05-19T23:55:40.955Z",
+    "fetchedAt": "2026-05-21T00:01:17.493Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,27 +114,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-19T23:55:40.071Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "bab0fd17e34de20fbd48cd3a53ae18b1",
-    "title": "【5/29(金)13時〜無料イベント】生成AIで簡単にスライド作成をする方法、教えます",
-    "url": "https://liginc.co.jp/680430",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-17T21:00:55.000Z",
-    "summary": "こんにちは、AIコンサルタントのかけるです。 「スライド作成がとにかく苦手……」 「現場レベルに近いデザインが作れない」 「テンプレートがあるけど微調整してると結局時間がかかる」 みなさんは資料作成でこんなお悩み、ありま […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-05-19T23:55:40.071Z",
+    "fetchedAt": "2026-05-21T00:01:17.493Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,10 +134,30 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-19T23:55:40.140Z",
+    "fetchedAt": "2026-05-21T00:01:16.971Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "isPickup": false
+  },
+  {
+    "id": "58e8599c579298235e11f880199aebc4",
+    "title": "Stack Overflow: When We Stop Asking",
+    "url": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-20T13:51:34.000Z",
+    "summary": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 29,
+    "fetchedAt": "2026-05-21T00:01:17.669Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_4CD7D9F6D63D15E0BB4DEE9C7E8B57FB6D78E90F4E1EA43D5FB77F65D6BEF1CB_1772108797606_image.png?resize=1014%2C599",
     "isPickup": false
   },
   {
@@ -154,7 +174,7 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-05-19T23:55:40.730Z",
+    "fetchedAt": "2026-05-21T00:01:17.669Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -173,31 +193,10 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-05-19T23:55:40.730Z",
+    "fetchedAt": "2026-05-21T00:01:17.669Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/1-1024x642.png?resize=1024%2C642&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "114de918c118749e4bb29e8db3ec0eef",
-    "title": "Computing and Displaying Discounted Prices in CSS",
-    "url": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-14T14:05:01.000Z",
-    "summary": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You sh...",
-    "categories": [
-      "css",
-      "product",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-05-19T23:55:40.730Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_7E3C7C97B7D8D52C02F5092EAFB87771069C4AA5BAFDB9C502DA16E57E7200D2_1776091945816_gsp-sale-prices.png?resize=2410%2C1032&#038;ssl=1",
     "isPickup": false
   }
 ]
