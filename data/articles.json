@@ -1,5 +1,25 @@
 [
   {
+    "id": "c56efd4c531c5edc2b538545d3eec3cc",
+    "title": "無料化され、かなり進化したAffinityで何ができるのかが分かるデザイン書 -Affinity入門 無料ではじめるプロ並みデザイン",
+    "url": "https://coliss.com/articles/book-review/isbn-9784295024095.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-22T00:36:50.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 Affinityが無料化されて半年が過ぎようとしています。リリース直後はインストールがうまくいかないなどの問題がありましたが、現在はそういった問題はなくなりました。 無 […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-22T23:58:23.512Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "1b6ce118710533fc406fa59bef008ad3",
     "title": "フォント好きは要チェック！ 和文フォントと欧文フォントの混植をブラウザ上で簡単に試すことができる便利サイト -MOBULA",
     "url": "https://coliss.com/articles/build-websites/operation/work/google-fonts-mixed-font-viewer.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-21T23:53:19.146Z",
+    "score": 40,
+    "fetchedAt": "2026-05-22T23:58:23.512Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-21T23:53:19.146Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "c6772b80e4c921c2a431a2c5fc393181",
-    "title": "Web制作者の腕試し！ 指定されたレイアウトをCSS Flexboxで実装するパズルゲーム -flexboxle",
-    "url": "https://coliss.com/articles/build-websites/operation/css/dairy-css-flexbox-puzzle.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-19T00:36:23.000Z",
-    "summary": "flexboxleは、CSS Flexboxをマスターするための毎日楽しめるパズルゲームです。CSS FlexboxのプロパティやTailwind CSSのクラスを使用してHTMLを記述し、目標のレイアウトに合わせて要素 […]",
-    "categories": [
-      "css",
-      "design",
-      "frontend",
-      "ui"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-05-21T23:53:19.146Z",
+    "fetchedAt": "2026-05-22T23:58:23.512Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +73,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-21T23:53:18.608Z",
+    "score": 37,
+    "fetchedAt": "2026-05-22T23:58:23.977Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-21T23:53:18.608Z",
+    "fetchedAt": "2026-05-22T23:58:23.977Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -113,32 +113,10 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-05-21T23:53:18.609Z",
+    "score": 34,
+    "fetchedAt": "2026-05-22T23:58:23.977Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "0e1743519047c0c9fcfe61aaaf47f29e",
-    "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
-    "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-21T08:00:00.000Z",
-    "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
-    "categories": [
-      "css",
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 31,
-    "fetchedAt": "2026-05-21T23:53:19.142Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
     "isPickup": false
   },
   {
@@ -156,50 +134,73 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-21T23:53:19.071Z",
+    "fetchedAt": "2026-05-22T23:58:23.508Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": false
   },
   {
-    "id": "58e8599c579298235e11f880199aebc4",
-    "title": "Stack Overflow: When We Stop Asking",
-    "url": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
+    "id": "85a7d79587cdafd9689f667fa39932e0",
+    "title": "The State of CSS Centering in 2026",
+    "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-20T13:51:34.000Z",
-    "summary": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "publishedAt": "2026-05-22T13:44:40.000Z",
+    "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in...",
     "categories": [
       "css",
       "frontend",
       "ui"
     ],
-    "score": 26,
-    "fetchedAt": "2026-05-21T23:53:19.528Z",
+    "score": 29,
+    "fetchedAt": "2026-05-22T23:58:24.143Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_4CD7D9F6D63D15E0BB4DEE9C7E8B57FB6D78E90F4E1EA43D5FB77F65D6BEF1CB_1772108797606_image.png?resize=1014%2C599",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_11AB7300F4C2B3C7258DA83D06B69BFA5810FEA16962608FDEF9E8D5EBE2CA4D_1777322117445_image.png?resize=885%2C341",
     "isPickup": false
   },
   {
-    "id": "499fd3dfa6c3767ddb50c9582a6a7076",
-    "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
-    "url": "https://css-tricks.com/whats-important-11/",
-    "source": "CSS-Tricks",
+    "id": "236de4a94bc6e46619829e345cbb41bb",
+    "title": "Four Levels Of Customer Understanding",
+    "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
+    "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-05-15T13:16:34.000Z",
-    "summary": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love o...",
+    "publishedAt": "2026-05-22T13:00:00.000Z",
+    "summary": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX...",
     "categories": [
-      "css",
+      "design",
+      "ux",
       "frontend",
-      "ui"
+      "accessibility"
     ],
-    "score": 23,
-    "fetchedAt": "2026-05-21T23:53:19.528Z",
+    "score": 29,
+    "fetchedAt": "2026-05-22T23:58:23.576Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/1-1024x642.png?resize=1024%2C642&#038;ssl=1",
+    "thumbnail": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "0e1743519047c0c9fcfe61aaaf47f29e",
+    "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+    "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-21T08:00:00.000Z",
+    "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+    "categories": [
+      "css",
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-05-22T23:58:23.576Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
     "isPickup": false
   }
 ]
