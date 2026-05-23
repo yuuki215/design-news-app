@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-22T23:58:23.512Z",
+    "score": 40,
+    "fetchedAt": "2026-05-23T23:49:45.743Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-22T23:58:23.512Z",
+    "fetchedAt": "2026-05-23T23:49:45.743Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -53,8 +53,8 @@
       "css",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-22T23:58:23.512Z",
+    "score": 37,
+    "fetchedAt": "2026-05-23T23:49:45.743Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-22T23:58:23.977Z",
+    "fetchedAt": "2026-05-23T23:49:45.740Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -93,8 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-05-22T23:58:23.977Z",
+    "score": 34,
+    "fetchedAt": "2026-05-23T23:49:45.740Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-22T23:58:23.977Z",
+    "fetchedAt": "2026-05-23T23:49:45.740Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,10 +134,32 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-22T23:58:23.508Z",
+    "fetchedAt": "2026-05-23T23:49:45.150Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "isPickup": false
+  },
+  {
+    "id": "0e1743519047c0c9fcfe61aaaf47f29e",
+    "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+    "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-21T08:00:00.000Z",
+    "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+    "categories": [
+      "css",
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-05-23T23:49:45.363Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
     "isPickup": false
   },
   {
@@ -153,8 +175,8 @@
       "frontend",
       "ui"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-22T23:58:24.143Z",
+    "score": 26,
+    "fetchedAt": "2026-05-23T23:49:45.707Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_11AB7300F4C2B3C7258DA83D06B69BFA5810FEA16962608FDEF9E8D5EBE2CA4D_1777322117445_image.png?resize=885%2C341",
@@ -174,33 +196,11 @@
       "frontend",
       "accessibility"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-22T23:58:23.576Z",
+    "score": 26,
+    "fetchedAt": "2026-05-23T23:49:45.363Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "0e1743519047c0c9fcfe61aaaf47f29e",
-    "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
-    "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-21T08:00:00.000Z",
-    "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
-    "categories": [
-      "css",
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 28,
-    "fetchedAt": "2026-05-22T23:58:23.576Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
     "isPickup": false
   }
 ]
