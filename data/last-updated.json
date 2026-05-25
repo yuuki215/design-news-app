@@ -1,13 +1,12 @@
 {
-  "updatedAt": "2026-05-24T23:52:17.167Z",
-  "status": "partial",
+  "updatedAt": "2026-05-25T23:57:34.939Z",
+  "status": "success",
   "successfulSources": [
     "コリス",
     "LIG blog",
     "PhotoshopVIP",
+    "CSS-Tricks",
     "Smashing Magazine"
   ],
-  "failedSources": [
-    "CSS-Tricks"
-  ]
+  "failedSources": []
 }

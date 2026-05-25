@@ -1,5 +1,45 @@
 [
   {
+    "id": "135f3c255a4cad6fb85a96dee7393f06",
+    "title": "HTMLはそのままで、classを加えるだけですべてが魅力的に変わるモーションファーストのCSSフレームワーク -AliveUI",
+    "url": "https://coliss.com/articles/build-websites/operation/css/motion-first-css-framework-aliveui.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-25T00:36:13.000Z",
+    "summary": "HTMLによるマークアップはそのままで、classを加えるだけで、あらゆる要素に奥行き、モーション、インタラクションを与えて、WebサイトやスマホアプリのUIに新たな息吹をもたらすCSSのフレームワークを紹介します。 各 […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-25T23:57:34.937Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "55109ff4562e29b55134d9ebb932b978",
+    "title": "【LIGNEWS】2026年は最多11名の新卒メンバーが入社しました！",
+    "url": "https://liginc.co.jp/680874",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-25T21:00:07.000Z",
+    "summary": "こんにちは、人事の武田です。 今年もLIGに新しい仲間が加わりました。その数なんと11名！ フレッシュな顔ぶれを迎え、社内も一気に賑やかになりました。 入社から1ヶ月半が経ち、現在11名は絶賛研修中。この記事では、4月の […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-05-25T23:57:34.167Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "c56efd4c531c5edc2b538545d3eec3cc",
     "title": "無料化され、かなり進化したAffinityで何ができるのかが分かるデザイン書 -Affinity入門 無料ではじめるプロ並みデザイン",
     "url": "https://coliss.com/articles/book-review/isbn-9784295024095.html",
@@ -13,31 +53,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-24T23:52:17.081Z",
+    "score": 37,
+    "fetchedAt": "2026-05-25T23:57:34.937Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "e746d43425b5a9026395f4c3f74867de",
-    "title": "「スキルが伸びている気がしない」若手クリエイターの悩みに向き合う\"CREATOR COMPASS\" Vol.2イベントレポート",
-    "url": "https://liginc.co.jp/679867",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-24T21:00:57.000Z",
-    "summary": "スクールでデザインを学び、クリエイティブ業界で働き始めて数年。仕事には慣れてきたはずなのに、どこかモヤモヤが残る。 「スキルが伸びている実感がない」 「仕事のやり方、これでいいのかわからない」 「センスがないのかな……と […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-05-24T23:52:17.164Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "1b6ce118710533fc406fa59bef008ad3",
@@ -54,27 +74,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-24T23:52:17.081Z",
+    "fetchedAt": "2026-05-25T23:57:34.937Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "8528b3fc0263ab14a3087ac50317a91e",
-    "title": "HTMLの新しい要素「<install>」はJavaScriptなしで、Webアプリのインストールが簡単にできるようになります",
-    "url": "https://coliss.com/articles/build-websites/operation/work/new-html-install-element.html",
-    "source": "コリス",
+    "id": "e746d43425b5a9026395f4c3f74867de",
+    "title": "「スキルが伸びている気がしない」若手クリエイターの悩みに向き合う\"CREATOR COMPASS\" Vol.2イベントレポート",
+    "url": "https://liginc.co.jp/679867",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-05-20T00:36:04.000Z",
-    "summary": "安定版のサポートはまだ先ですが、Chrome 148+でフラグを有効にすることで、HTMLの新しい要素「<install>」が利用できるようになっています。 <install>でインストールボタン […]",
+    "publishedAt": "2026-05-24T21:00:57.000Z",
+    "summary": "スクールでデザインを学び、クリエイティブ業界で働き始めて数年。仕事には慣れてきたはずなのに、どこかモヤモヤが残る。 「スキルが伸びている実感がない」 「仕事のやり方、これでいいのかわからない」 「センスがないのかな……と […]",
     "categories": [
-      "frontend",
       "design",
-      "css",
-      "ui"
+      "web",
+      "frontend",
+      "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-24T23:52:17.081Z",
+    "fetchedAt": "2026-05-25T23:57:34.167Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,27 +114,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-05-24T23:52:17.164Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "ed1b968563324c58d14e6a926f8e7cf7",
-    "title": "品質で、信頼をつくる。LIGが本気でQA研修に取り組む理由",
-    "url": "https://liginc.co.jp/679903",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-20T21:00:48.000Z",
-    "summary": "こんにちは、LIGで第1ITソリューション事業部 部長兼プロジェクトマネージャーを務めている、小池です。 開発会社を選ぶとき、一番気になるのは「品質」ではないでしょうか。 「この会社に任せて、本当に大丈夫だろうか」 開発 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 34,
-    "fetchedAt": "2026-05-24T23:52:17.164Z",
+    "fetchedAt": "2026-05-25T23:57:34.168Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,31 +134,29 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-24T23:52:16.952Z",
+    "fetchedAt": "2026-05-25T23:57:34.187Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": false
   },
   {
-    "id": "236de4a94bc6e46619829e345cbb41bb",
-    "title": "Four Levels Of Customer Understanding",
-    "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
-    "source": "Smashing Magazine",
+    "id": "76214957376ee5c512cdf805b871e550",
+    "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
+    "url": "https://css-tricks.com/cross-document-view-transitions-part-2/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-22T13:00:00.000Z",
-    "summary": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX...",
+    "publishedAt": "2026-05-25T13:46:54.000Z",
+    "summary": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\nCross-Document View Transitions: Scaling Across Hundreds of Elements originally handwri...",
     "categories": [
-      "design",
-      "ux",
+      "css",
       "frontend",
-      "accessibility"
+      "ui"
     ],
-    "score": 26,
-    "fetchedAt": "2026-05-24T23:52:16.803Z",
+    "score": 28,
+    "fetchedAt": "2026-05-25T23:57:34.856Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
     "isPickup": false
   },
   {
@@ -177,31 +175,30 @@
       "accessibility"
     ],
     "score": 25,
-    "fetchedAt": "2026-05-24T23:52:16.803Z",
+    "fetchedAt": "2026-05-25T23:57:34.491Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
     "isPickup": false
   },
   {
-    "id": "6cac526b2afe6082b39d1f0dcde370ba",
-    "title": "Ten Data-Backed Truths Of User Experience ROI",
-    "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-    "source": "Smashing Magazine",
+    "id": "85a7d79587cdafd9689f667fa39932e0",
+    "title": "The State of CSS Centering in 2026",
+    "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-15T10:00:00.000Z",
-    "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
+    "publishedAt": "2026-05-22T13:44:40.000Z",
+    "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in...",
     "categories": [
-      "design",
-      "ux",
+      "css",
       "frontend",
-      "accessibility"
+      "ui"
     ],
-    "score": 21,
-    "fetchedAt": "2026-05-24T23:52:16.804Z",
+    "score": 23,
+    "fetchedAt": "2026-05-25T23:57:34.856Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_11AB7300F4C2B3C7258DA83D06B69BFA5810FEA16962608FDEF9E8D5EBE2CA4D_1777322117445_image.png?resize=885%2C341",
     "isPickup": false
   }
 ]
