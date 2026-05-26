@@ -1,5 +1,25 @@
 [
   {
+    "id": "316f91320fdd4a4c3fcda6e22afe1ec2",
+    "title": "Bartenderの代替にThawがお勧め！ macOSのメニューバーのアイコンを常に表示・非表示にできるオープンソースのアプリ",
+    "url": "https://coliss.com/articles/build-websites/operation/work/thaw-menu-bar-manager-for-mac.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-26T00:36:05.000Z",
+    "summary": "macOSのメニューバーにたくさんのアイコンが表示されて邪魔！ という人に便利な無料アプリを紹介します。 Thawは常に表示するアイコンと非表示するアイコンを設定でき、「…」をクリックすると非表示に設定したアイコンが表示 […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-26T23:58:03.756Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "135f3c255a4cad6fb85a96dee7393f06",
     "title": "HTMLはそのままで、classを加えるだけですべてが魅力的に変わるモーションファーストのCSSフレームワーク -AliveUI",
     "url": "https://coliss.com/articles/build-websites/operation/css/motion-first-css-framework-aliveui.html",
@@ -13,20 +33,20 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-25T23:57:34.937Z",
+    "score": 40,
+    "fetchedAt": "2026-05-26T23:58:03.756Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
   },
   {
-    "id": "55109ff4562e29b55134d9ebb932b978",
-    "title": "【LIGNEWS】2026年は最多11名の新卒メンバーが入社しました！",
-    "url": "https://liginc.co.jp/680874",
+    "id": "f0c73a95c1b85c794ef90238fd60f8ad",
+    "title": "「上流から関わりたい」クリエイターへ。コンテンツ企画のアイデア出しを体験するワークショップ開催！6/13(土)13時＠オンライン",
+    "url": "https://liginc.co.jp/680479",
     "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-05-25T21:00:07.000Z",
-    "summary": "こんにちは、人事の武田です。 今年もLIGに新しい仲間が加わりました。その数なんと11名！ フレッシュな顔ぶれを迎え、社内も一気に賑やかになりました。 入社から1ヶ月半が経ち、現在11名は絶賛研修中。この記事では、4月の […]",
+    "publishedAt": "2026-05-26T21:00:12.000Z",
+    "summary": "「デザイナーとして、もっと上流から関わりたい」 転職を考え始めたとき、こんなことを感じたことはありませんか？ デザインはできるけど、企画から関わった経験が少ない 上流工程に行きたいけど、何を考えればいいのかわからない こ […]",
     "categories": [
       "design",
       "web",
@@ -34,10 +54,10 @@
       "ux"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-25T23:57:34.167Z",
+    "fetchedAt": "2026-05-26T23:58:03.740Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "c56efd4c531c5edc2b538545d3eec3cc",
@@ -54,27 +74,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-25T23:57:34.937Z",
+    "fetchedAt": "2026-05-26T23:58:03.756Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "1b6ce118710533fc406fa59bef008ad3",
-    "title": "フォント好きは要チェック！ 和文フォントと欧文フォントの混植をブラウザ上で簡単に試すことができる便利サイト -MOBULA",
-    "url": "https://coliss.com/articles/build-websites/operation/work/google-fonts-mixed-font-viewer.html",
-    "source": "コリス",
+    "id": "55109ff4562e29b55134d9ebb932b978",
+    "title": "【LIGNEWS】2026年は最多11名の新卒メンバーが入社しました！",
+    "url": "https://liginc.co.jp/680874",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-05-21T00:36:59.000Z",
-    "summary": "フォントの混植とは、日本語のテキストは和文フォントで、英語のテキストは欧文フォントで表示したり、またよくあるのがひらがなフォントに漢字が揃っているフォントを混植したり、2つのフォントを組み合わせて使用することです。 通常 […]",
+    "publishedAt": "2026-05-25T21:00:07.000Z",
+    "summary": "こんにちは、人事の武田です。 今年もLIGに新しい仲間が加わりました。その数なんと11名！ フレッシュな顔ぶれを迎え、社内も一気に賑やかになりました。 入社から1ヶ月半が経ち、現在11名は絶賛研修中。この記事では、4月の […]",
     "categories": [
       "design",
-      "css",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-25T23:57:34.937Z",
+    "fetchedAt": "2026-05-26T23:58:03.740Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,27 +114,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-25T23:57:34.167Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "547684b53dad9886771af5b7c5a83400",
-    "title": "URLを入力してからページが表示される仕組みを解説【初心者向け】",
-    "url": "https://liginc.co.jp/678731",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-21T21:00:50.000Z",
-    "summary": "こんにちは、新卒エンジニアの鈴木です。 皆さんググっていますか？ 最近はAIの勢いがすごく、Z世代のなかでは「チャピる」という言葉も一時期流行りましたね。とはいえ、ブラウザはまだまだ必要不可欠な存在です。ブラウザを開かな […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 34,
-    "fetchedAt": "2026-05-25T23:57:34.168Z",
+    "fetchedAt": "2026-05-26T23:58:03.740Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,10 +134,51 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-25T23:57:34.187Z",
+    "fetchedAt": "2026-05-26T23:58:03.093Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "isPickup": false
+  },
+  {
+    "id": "65f9b98c750d60c18d15f19bdc670fed",
+    "title": "Technical Writing in the AI Age",
+    "url": "https://css-tricks.com/technical-writing-in-the-ai-age/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-26T13:49:28.000Z",
+    "summary": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 29,
+    "fetchedAt": "2026-05-26T23:58:03.673Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/traffic-by-year-2020-2025.png?resize=912%2C472&#038;ssl=1",
+    "isPickup": false
+  },
+  {
+    "id": "a215600795e3b9c00073396548a4061a",
+    "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
+    "url": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-25T12:00:00.000Z",
+    "summary": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that mom...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 26,
+    "fetchedAt": "2026-05-26T23:58:03.369Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/prototype-users-fix-protopie/prototype-users-fix-protopie.jpg",
     "isPickup": false
   },
   {
@@ -153,52 +194,10 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-05-25T23:57:34.856Z",
-    "region": "global",
-    "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "0e1743519047c0c9fcfe61aaaf47f29e",
-    "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
-    "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-21T08:00:00.000Z",
-    "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
-    "categories": [
-      "css",
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
     "score": 25,
-    "fetchedAt": "2026-05-25T23:57:34.491Z",
+    "fetchedAt": "2026-05-26T23:58:03.673Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "85a7d79587cdafd9689f667fa39932e0",
-    "title": "The State of CSS Centering in 2026",
-    "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-22T13:44:40.000Z",
-    "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-05-25T23:57:34.856Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/s_11AB7300F4C2B3C7258DA83D06B69BFA5810FEA16962608FDEF9E8D5EBE2CA4D_1777322117445_image.png?resize=885%2C341",
     "isPickup": false
   }
 ]
