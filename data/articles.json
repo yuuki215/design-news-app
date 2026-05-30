@@ -1,5 +1,25 @@
 [
   {
+    "id": "a883186af06908b54ef41da95c426ad5",
+    "title": "もっと早くに知りたかった！ 一行加えるだけでAIの精度がかなりあがるのを実感できる解説書 -AI 1行プロンプト100",
+    "url": "https://coliss.com/articles/book-review/isbn-9784802615440.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-29T00:36:09.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 AIが登場した頃はこんなこともできるのかと驚きでしたが、日常的に使うようになると、いかに効率よく精度の高い回答を得られるかが重要になってきました。 「ありきたりなアイデ […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-05-30T00:02:43.500Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "7fa562b4b38fd773c1035c7d8b067d83",
     "title": "AmazonでスマイルSALEが開催！ セールで私が買ったもの、見逃しがちなお買い得品を紹介します",
     "url": "https://coliss.com/articles/products/amazon-sale-202605.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-05-29T00:03:56.294Z",
+    "score": 40,
+    "fetchedAt": "2026-05-30T00:02:43.500Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-29T00:03:56.294Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "316f91320fdd4a4c3fcda6e22afe1ec2",
-    "title": "Bartenderの代替にThawがお勧め！ macOSのメニューバーのアイコンを常に表示・非表示にできるオープンソースのアプリ",
-    "url": "https://coliss.com/articles/build-websites/operation/work/thaw-menu-bar-manager-for-mac.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-26T00:36:05.000Z",
-    "summary": "macOSのメニューバーにたくさんのアイコンが表示されて邪魔！ という人に便利な無料アプリを紹介します。 Thawは常に表示するアイコンと非表示するアイコンを設定でき、「…」をクリックすると非表示に設定したアイコンが表示 […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-05-29T00:03:56.294Z",
+    "fetchedAt": "2026-05-30T00:02:43.500Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +73,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-29T00:03:55.644Z",
+    "score": 37,
+    "fetchedAt": "2026-05-30T00:02:43.731Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -93,8 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-29T00:03:55.645Z",
+    "score": 37,
+    "fetchedAt": "2026-05-30T00:02:43.731Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,31 +114,9 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-29T00:03:55.645Z",
+    "fetchedAt": "2026-05-30T00:02:43.732Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "3efda0c5b0969ce620bbf89101d63afe",
-    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-28T13:00:00.000Z",
-    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "accessibility",
-      "ux"
-    ],
-    "score": 31,
-    "fetchedAt": "2026-05-29T00:03:55.948Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
     "isPickup": false
   },
   {
@@ -156,30 +134,52 @@
       "graphics"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-29T00:03:55.750Z",
+    "fetchedAt": "2026-05-30T00:02:43.179Z",
     "region": "jp",
     "language": "ja",
     "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
     "isPickup": false
   },
   {
-    "id": "65f9b98c750d60c18d15f19bdc670fed",
-    "title": "Technical Writing in the AI Age",
-    "url": "https://css-tricks.com/technical-writing-in-the-ai-age/",
+    "id": "fda34ecc9c7b7a15bf162c060ba65601",
+    "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+    "url": "https://css-tricks.com/whats-important-12/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-26T13:49:28.000Z",
-    "summary": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "publishedAt": "2026-05-29T13:25:38.000Z",
+    "summary": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should r...",
     "categories": [
       "css",
       "frontend",
       "ui"
     ],
-    "score": 26,
-    "fetchedAt": "2026-05-29T00:03:56.266Z",
+    "score": 29,
+    "fetchedAt": "2026-05-30T00:02:44.062Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/traffic-by-year-2020-2025.png?resize=912%2C472&#038;ssl=1",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/safari.jpg-e1780000053378-1024x452.webp?resize=1024%2C452&#038;ssl=1",
+    "isPickup": false
+  },
+  {
+    "id": "3efda0c5b0969ce620bbf89101d63afe",
+    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-28T13:00:00.000Z",
+    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "accessibility",
+      "ux"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-05-30T00:02:43.007Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
     "isPickup": false
   },
   {
@@ -196,7 +196,7 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-05-29T00:03:56.265Z",
+    "fetchedAt": "2026-05-30T00:02:44.062Z",
     "region": "global",
     "language": "en",
     "isPickup": false
