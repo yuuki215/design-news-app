@@ -14,10 +14,50 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-05-30T23:54:05.740Z",
+    "fetchedAt": "2026-05-31T23:58:51.911Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
+  },
+  {
+    "id": "f60897c867e92db271f395bc08ff8c13",
+    "title": "転職、フリーランス、そして派遣も。LIGに4つ目の人材サービス「LIG Agent Staffing」が登場",
+    "url": "https://liginc.co.jp/680703",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-31T21:00:22.000Z",
+    "summary": "こんにちは。株式会社LIGの大澤です。 このたびLIGは、エンジニア・クリエイター特化の派遣就業支援「LIG Agent Staffing（リグエージェント スタッフィング）」をリリースしました。 これでLIG Agen […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-05-31T23:58:50.911Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "207fefce679e46f554503e2d7aedf96b",
+    "title": "受講生をゴールへ導くデジLIG運営の心得！先輩・るりさんに聞いてみた",
+    "url": "https://liginc.co.jp/680132",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-31T21:00:11.000Z",
+    "summary": "はじめまして！ 26新卒のあいゆです。 LIGではWebクリエイタースクール「デジタルハリウッドSTUDIO by LIG（デジLIG）」の運営をしている部署があり、私は入社前から運営としてインターンをさせていただいてい […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-05-31T23:58:50.911Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "7fa562b4b38fd773c1035c7d8b067d83",
@@ -33,11 +73,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-30T23:54:05.740Z",
+    "score": 37,
+    "fetchedAt": "2026-05-31T23:58:51.911Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "ed219d34a49b651c0720696f1a092e26",
@@ -54,7 +94,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-05-30T23:54:05.740Z",
+    "fetchedAt": "2026-05-31T23:58:51.911Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,71 +113,51 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-05-30T23:54:04.939Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "1e398065663839809b4a21ff2b1ddffd",
-    "title": "【人事発】LIG入社を考えている人へ伝えたい。入社前後のリアルなギャップ",
-    "url": "https://liginc.co.jp/681050",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-28T21:00:14.000Z",
-    "summary": "どうも！ 人事のおかDです！ ビールと銭湯が大好きです！ 2026年3月にLIGに人事として入社しました。前職は、人が密室に閉じ込められて謎解きをするとなぜか脱出できる、リアルな脱出ゲームイベントを作る仕事 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-05-30T23:54:04.940Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "726396563b9fbba5531a98c53bed356d",
-    "title": "新卒1年目でも働きながら技術ブログを継続するコツ",
-    "url": "https://liginc.co.jp/679394",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-27T21:00:56.000Z",
-    "summary": "こんにちは！ DX事業部2026年新卒、ゆりです。 LIGでは、新卒が日々の学びや気づきを綴るブログ文化があります。 新卒ブログとは？ 新卒でLIGブログを書く目的はさまざまありますが、新卒自身が勉強するきっかけを作るこ […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
     "score": 34,
-    "fetchedAt": "2026-05-30T23:54:04.940Z",
+    "fetchedAt": "2026-05-31T23:58:50.911Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "92bd7934dbd94230b95efa2ad4be766a",
-    "title": "【2026最新版】おしゃれな英語フリーフォント147選｜商用可で使いやすい注目書体まとめ",
-    "url": "https://photoshopvip.net/167737",
-    "source": "PhotoshopVIP",
+    "id": "29c263eb58d4b390fbc2d1a12c06aa92",
+    "title": "June Is For Exploring (2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+    "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-05-01T12:00:32.000Z",
-    "summary": "おしゃれなデザインは、英語フォント選びで大きく変わります。 同じレイアウトでも、フォントを変えるだけで、ミニマルにも、上品にも、レトロにも、海外っぽい雰囲気にも […]\n【2026最新版】おしゃれな英語フリーフォント147選｜商用可で使いやすい注目書体まとめはPhotoshopVIPで公開された投稿です。",
+    "publishedAt": "2026-05-31T08:00:00.000Z",
+    "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
     "categories": [
       "design",
-      "photoshop",
-      "ui",
-      "graphics"
+      "ux",
+      "frontend",
+      "accessibility"
     ],
     "score": 29,
-    "fetchedAt": "2026-05-30T23:54:05.030Z",
-    "region": "jp",
-    "language": "ja",
-    "thumbnail": "https://photoshopvip.net/wp-content/uploads/2026/05/2-o-150x150.webp",
+    "fetchedAt": "2026-05-31T23:58:51.346Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
+    "isPickup": false
+  },
+  {
+    "id": "fda34ecc9c7b7a15bf162c060ba65601",
+    "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+    "url": "https://css-tricks.com/whats-important-12/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-29T13:25:38.000Z",
+    "summary": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should r...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 26,
+    "fetchedAt": "2026-05-31T23:58:51.606Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/safari.jpg-e1780000053378-1024x452.webp?resize=1024%2C452&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -155,31 +175,11 @@
       "accessibility",
       "ux"
     ],
-    "score": 28,
-    "fetchedAt": "2026-05-30T23:54:05.199Z",
+    "score": 25,
+    "fetchedAt": "2026-05-31T23:58:51.346Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "fda34ecc9c7b7a15bf162c060ba65601",
-    "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-    "url": "https://css-tricks.com/whats-important-12/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-29T13:25:38.000Z",
-    "summary": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should r...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-05-30T23:54:05.629Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/safari.jpg-e1780000053378-1024x452.webp?resize=1024%2C452&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -196,7 +196,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-05-30T23:54:05.629Z",
+    "fetchedAt": "2026-05-31T23:58:51.606Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/traffic-by-year-2020-2025.png?resize=912%2C472&#038;ssl=1",
