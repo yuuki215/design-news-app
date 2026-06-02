@@ -1,5 +1,45 @@
 [
   {
+    "id": "3058d76ef0a96ec6b83326987279c406",
+    "title": "Amazon スマイルSALEは明日（6/2）まで！ 見逃しがちなお買い得品を紹介します",
+    "url": "https://coliss.com/articles/products/amazon-sale-20260601.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-01T00:36:21.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 Amazonで開催されているスマイルSALEもいよいよ明日（6/2）が最終日、このセールでは特に生活用品が数多く対象になっており、通常のセールよりもかなり安くなって、非 […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-02T00:07:23.938Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "ddb454f8a8898482b5998d11fda66684",
+    "title": "IT未経験の新卒が先輩アカウントマネージャー（AM）に突撃！LIGのAMの仕事を徹底分析してみた！",
+    "url": "https://liginc.co.jp/680081",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-01T21:00:45.000Z",
+    "summary": "こんにちは！ 新卒でLIGに入社した、りほです！！ 就職を機に愛知県から上京し、IT未経験で4月からLIGで挑戦しています。 そんな私は今、 事業部紹介で出てくる単語がわからない AIの活用が周りより遅れている気がする  […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-02T00:07:23.307Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "a883186af06908b54ef41da95c426ad5",
     "title": "もっと早くに知りたかった！ 一行加えるだけでAIの精度がかなりあがるのを実感できる解説書 -AI 1行プロンプト100",
     "url": "https://coliss.com/articles/book-review/isbn-9784802615440.html",
@@ -13,11 +53,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-31T23:58:51.911Z",
+    "score": 37,
+    "fetchedAt": "2026-06-02T00:07:23.938Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "f60897c867e92db271f395bc08ff8c13",
@@ -33,11 +73,11 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-31T23:58:50.911Z",
+    "score": 37,
+    "fetchedAt": "2026-06-02T00:07:23.307Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "207fefce679e46f554503e2d7aedf96b",
@@ -53,70 +93,29 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-05-31T23:58:50.911Z",
+    "score": 37,
+    "fetchedAt": "2026-06-02T00:07:23.307Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "7fa562b4b38fd773c1035c7d8b067d83",
-    "title": "AmazonでスマイルSALEが開催！ セールで私が買ったもの、見逃しがちなお買い得品を紹介します",
-    "url": "https://coliss.com/articles/products/amazon-sale-202605.html",
-    "source": "コリス",
+    "id": "3099b60181a462914f5f60d177bfc0f4",
+    "title": "Astro Markdown Component Utility for Any Framework",
+    "url": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-05-28T00:36:46.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 Amazonでビッグセール「スマイルSALE」が開催しています！ このセールでは特に生活用品が数多く対象になっており、通常のセールよりもかなり安くなって、非常にお買い得 […]",
+    "publishedAt": "2026-06-01T13:25:00.000Z",
+    "summary": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published w...",
     "categories": [
-      "design",
       "css",
       "frontend",
       "ui"
     ],
-    "score": 37,
-    "fetchedAt": "2026-05-31T23:58:51.911Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "ed219d34a49b651c0720696f1a092e26",
-    "title": "UIデザインはもちろん、イラストや紙のデザインにも対応！ カラーパレットをAIで生成できる完全無料ツール -EnigmaEasel",
-    "url": "https://coliss.com/articles/build-websites/operation/work/the-ai-powered-suite-for-accessible-design.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-27T00:36:38.000Z",
-    "summary": "ここ1,2年でAIによる便利なツールが増えてきました。ここで紹介するのはそれらの便利なAIツールの中でもかなり実用的で、これまでの定番ツールも同時に利用できるお勧めツールです。 プロンプト（日本語）で「夕陽のカラーパレッ […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-05-31T23:58:51.911Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "226dc0ff9fc4359b5631fc1b245c73be",
-    "title": "新卒が荒波（社会）をたくましく生き抜くための5つのコツ",
-    "url": "https://liginc.co.jp/679383",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-28T21:00:38.000Z",
-    "summary": "はじめまして！ 4月にLIGに入社したばかり。ほやほや26卒のひかりです！ 「とりまマクドでチキンクリスプと水やな」そう言いながら放課後を過ごしていた胃袋の若いJK時代が昨日のことのように思い出せるというのに、気づけば齢 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 34,
-    "fetchedAt": "2026-05-31T23:58:50.911Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 28,
+    "fetchedAt": "2026-06-02T00:07:23.990Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -133,31 +132,11 @@
       "frontend",
       "accessibility"
     ],
-    "score": 29,
-    "fetchedAt": "2026-05-31T23:58:51.346Z",
+    "score": 26,
+    "fetchedAt": "2026-06-02T00:07:23.744Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
-    "isPickup": false
-  },
-  {
-    "id": "fda34ecc9c7b7a15bf162c060ba65601",
-    "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-    "url": "https://css-tricks.com/whats-important-12/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-29T13:25:38.000Z",
-    "summary": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should r...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-05-31T23:58:51.606Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/safari.jpg-e1780000053378-1024x452.webp?resize=1024%2C452&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -176,10 +155,30 @@
       "ux"
     ],
     "score": 25,
-    "fetchedAt": "2026-05-31T23:58:51.346Z",
+    "fetchedAt": "2026-06-02T00:07:23.744Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "fda34ecc9c7b7a15bf162c060ba65601",
+    "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+    "url": "https://css-tricks.com/whats-important-12/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-29T13:25:38.000Z",
+    "summary": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should r...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-06-02T00:07:23.990Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/safari.jpg-e1780000053378-1024x452.webp?resize=1024%2C452&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -196,7 +195,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-05-31T23:58:51.606Z",
+    "fetchedAt": "2026-06-02T00:07:23.990Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/traffic-by-year-2020-2025.png?resize=912%2C472&#038;ssl=1",
