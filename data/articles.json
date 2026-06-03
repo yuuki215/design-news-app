@@ -1,5 +1,25 @@
 [
   {
+    "id": "d763ccfb368a1832a400be1e75d491c9",
+    "title": "CSSのpow()関数が便利！ フォントサイズをレスポンシブ対応にするCSSの新しいテクニック",
+    "url": "https://coliss.com/articles/build-websites/operation/css/fluid-modular-type-scale.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-02T00:36:21.000Z",
+    "summary": "CSSでレスポンシブ対応のフォントサイズを実装する最近のテクニックとしてpow()関数を使用すると、ビューポートやコンテナサイズに応じて動的にフォントサイズが調整される流動的なタイポグラフィを実装できます。 メディアクエ […]",
+    "categories": [
+      "css",
+      "design",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-03T00:23:46.356Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "3058d76ef0a96ec6b83326987279c406",
     "title": "Amazon スマイルSALEは明日（6/2）まで！ 見逃しがちなお買い得品を紹介します",
     "url": "https://coliss.com/articles/products/amazon-sale-20260601.html",
@@ -13,20 +33,20 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-02T00:07:23.938Z",
+    "score": 40,
+    "fetchedAt": "2026-06-03T00:23:46.356Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
   },
   {
-    "id": "ddb454f8a8898482b5998d11fda66684",
-    "title": "IT未経験の新卒が先輩アカウントマネージャー（AM）に突撃！LIGのAMの仕事を徹底分析してみた！",
-    "url": "https://liginc.co.jp/680081",
+    "id": "9ecfac5b0d1e802befab21998bd703fa",
+    "title": "LIG Agentってどんなサービス？良いエージェントの条件・求職者に選ばれる秘訣を新卒社員が調べてみた",
+    "url": "https://liginc.co.jp/680290",
     "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-01T21:00:45.000Z",
-    "summary": "こんにちは！ 新卒でLIGに入社した、りほです！！ 就職を機に愛知県から上京し、IT未経験で4月からLIGで挑戦しています。 そんな私は今、 事業部紹介で出てくる単語がわからない AIの活用が周りより遅れている気がする  […]",
+    "publishedAt": "2026-06-02T21:00:59.000Z",
+    "summary": "Human Growth事業部2026年新卒の平田です。 現在、多くの方が転職活動の際にエージェントを活用していますね。エージェントを活用することで、自分一人で探すよりも多くの求人に出会えたり、非公開求人を知ることができ […]",
     "categories": [
       "design",
       "web",
@@ -34,10 +54,10 @@
       "ux"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-02T00:07:23.307Z",
+    "fetchedAt": "2026-06-03T00:23:46.572Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "a883186af06908b54ef41da95c426ad5",
@@ -54,7 +74,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-02T00:07:23.938Z",
+    "fetchedAt": "2026-06-03T00:23:46.356Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "ddb454f8a8898482b5998d11fda66684",
+    "title": "IT未経験の新卒が先輩アカウントマネージャー（AM）に突撃！LIGのAMの仕事を徹底分析してみた！",
+    "url": "https://liginc.co.jp/680081",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-01T21:00:45.000Z",
+    "summary": "こんにちは！ 新卒でLIGに入社した、りほです！！ 就職を機に愛知県から上京し、IT未経験で4月からLIGで挑戦しています。 そんな私は今、 事業部紹介で出てくる単語がわからない AIの活用が周りより遅れている気がする  […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 37,
+    "fetchedAt": "2026-06-03T00:23:46.572Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,48 +114,29 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-02T00:07:23.307Z",
+    "fetchedAt": "2026-06-03T00:23:46.572Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "207fefce679e46f554503e2d7aedf96b",
-    "title": "受講生をゴールへ導くデジLIG運営の心得！先輩・るりさんに聞いてみた",
-    "url": "https://liginc.co.jp/680132",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-31T21:00:11.000Z",
-    "summary": "はじめまして！ 26新卒のあいゆです。 LIGではWebクリエイタースクール「デジタルハリウッドSTUDIO by LIG（デジLIG）」の運営をしている部署があり、私は入社前から運営としてインターンをさせていただいてい […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-06-02T00:07:23.307Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "3099b60181a462914f5f60d177bfc0f4",
-    "title": "Astro Markdown Component Utility for Any Framework",
-    "url": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
+    "id": "6ad97b69fb4431ccfd0602adfbafc588",
+    "title": "::search-text",
+    "url": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-06-01T13:25:00.000Z",
-    "summary": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published w...",
+    "publishedAt": "2026-06-02T12:59:21.000Z",
+    "summary": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
       "css",
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-06-02T00:07:23.990Z",
+    "score": 29,
+    "fetchedAt": "2026-06-03T00:23:46.302Z",
     "region": "global",
     "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/b6c928ce1b901c34f86f3856b5a3bcefe9a4fb94698b9778fb3df5802d66e25d.jpg?resize=80%2C80&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -133,10 +154,29 @@
       "accessibility"
     ],
     "score": 26,
-    "fetchedAt": "2026-06-02T00:07:23.744Z",
+    "fetchedAt": "2026-06-03T00:23:45.843Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
+    "isPickup": false
+  },
+  {
+    "id": "3099b60181a462914f5f60d177bfc0f4",
+    "title": "Astro Markdown Component Utility for Any Framework",
+    "url": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-01T13:25:00.000Z",
+    "summary": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published w...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 25,
+    "fetchedAt": "2026-06-03T00:23:46.302Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -155,50 +195,10 @@
       "ux"
     ],
     "score": 25,
-    "fetchedAt": "2026-06-02T00:07:23.744Z",
+    "fetchedAt": "2026-06-03T00:23:45.844Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "fda34ecc9c7b7a15bf162c060ba65601",
-    "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-    "url": "https://css-tricks.com/whats-important-12/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-29T13:25:38.000Z",
-    "summary": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should r...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-02T00:07:23.990Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/safari.jpg-e1780000053378-1024x452.webp?resize=1024%2C452&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "65f9b98c750d60c18d15f19bdc670fed",
-    "title": "Technical Writing in the AI Age",
-    "url": "https://css-tricks.com/technical-writing-in-the-ai-age/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-26T13:49:28.000Z",
-    "summary": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-02T00:07:23.990Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/traffic-by-year-2020-2025.png?resize=912%2C472&#038;ssl=1",
     "isPickup": false
   }
 ]
