@@ -1,5 +1,25 @@
 [
   {
+    "id": "67ccef42e99415423270ecb4d59741ae",
+    "title": "UIデザインやエディタのカラーに最適！ 目に優しい、アナログ印刷のインキと紙の色合いを再現したカラースキーム -Flexoki",
+    "url": "https://coliss.com/articles/build-websites/operation/design/inky-color-scheme-for-prose-and-code.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-03T00:36:53.000Z",
+    "summary": "アナログ印刷のインキ、温かみのある紙の色合いからインスピレーションを得て、デジタルのスクリーンで見ることを想定して設計されたカラースキームを紹介します。 WebサイトやスマホアプリのUIデザインに使用したり、VS Cod […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-04T00:25:25.062Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "d763ccfb368a1832a400be1e75d491c9",
     "title": "CSSのpow()関数が便利！ フォントサイズをレスポンシブ対応にするCSSの新しいテクニック",
     "url": "https://coliss.com/articles/build-websites/operation/css/fluid-modular-type-scale.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-03T00:23:46.356Z",
+    "score": 40,
+    "fetchedAt": "2026-06-04T00:25:25.062Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,10 +54,50 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-03T00:23:46.356Z",
+    "fetchedAt": "2026-06-04T00:25:25.062Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
+  },
+  {
+    "id": "487a77747fef9a80a1b5764337a9db71",
+    "title": "英語が苦手でも仕事は国境を越える！？海外チームと働く先輩の「やってみよう精神」",
+    "url": "https://liginc.co.jp/679927",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-03T21:00:48.000Z",
+    "summary": "こんにちは！ 26新卒・ミャンマー出身のリンです。 日本に来てそろそろ4年目になります。日常会話はだいぶできるようになったのですが、まだ日本の文化に馴染みきれていない部分もあります。 これから社会人として働いていくにあた […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-04T00:25:25.268Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "7acb8ae0164b31bb10098890488fc864",
+    "title": "業務委託の費用相場はいくら？職種別料金表と適正コストの見極め方",
+    "url": "https://liginc.co.jp/680380",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-03T21:00:46.000Z",
+    "summary": "人材不足が深刻化する中、即戦力となるフリーランス・外部人材を業務委託で活用する企業が増えています。 ランサーズ株式会社の調査によると、2024年時点のフリーランス人口は1,303万人、経済規模は20兆3,200億円に達し […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-04T00:25:25.268Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "9ecfac5b0d1e802befab21998bd703fa",
@@ -53,130 +113,31 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-03T00:23:46.572Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "a883186af06908b54ef41da95c426ad5",
-    "title": "もっと早くに知りたかった！ 一行加えるだけでAIの精度がかなりあがるのを実感できる解説書 -AI 1行プロンプト100",
-    "url": "https://coliss.com/articles/book-review/isbn-9784802615440.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-29T00:36:09.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 AIが登場した頃はこんなこともできるのかと驚きでしたが、日常的に使うようになると、いかに効率よく精度の高い回答を得られるかが重要になってきました。 「ありきたりなアイデ […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
     "score": 37,
-    "fetchedAt": "2026-06-03T00:23:46.356Z",
+    "fetchedAt": "2026-06-04T00:25:25.268Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "ddb454f8a8898482b5998d11fda66684",
-    "title": "IT未経験の新卒が先輩アカウントマネージャー（AM）に突撃！LIGのAMの仕事を徹底分析してみた！",
-    "url": "https://liginc.co.jp/680081",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-01T21:00:45.000Z",
-    "summary": "こんにちは！ 新卒でLIGに入社した、りほです！！ 就職を機に愛知県から上京し、IT未経験で4月からLIGで挑戦しています。 そんな私は今、 事業部紹介で出てくる単語がわからない AIの活用が周りより遅れている気がする  […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-06-03T00:23:46.572Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "f60897c867e92db271f395bc08ff8c13",
-    "title": "転職、フリーランス、そして派遣も。LIGに4つ目の人材サービス「LIG Agent Staffing」が登場",
-    "url": "https://liginc.co.jp/680703",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-31T21:00:22.000Z",
-    "summary": "こんにちは。株式会社LIGの大澤です。 このたびLIGは、エンジニア・クリエイター特化の派遣就業支援「LIG Agent Staffing（リグエージェント スタッフィング）」をリリースしました。 これでLIG Agen […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-06-03T00:23:46.572Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "6ad97b69fb4431ccfd0602adfbafc588",
-    "title": "::search-text",
-    "url": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-02T12:59:21.000Z",
-    "summary": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 29,
-    "fetchedAt": "2026-06-03T00:23:46.302Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/b6c928ce1b901c34f86f3856b5a3bcefe9a4fb94698b9778fb3df5802d66e25d.jpg?resize=80%2C80&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "29c263eb58d4b390fbc2d1a12c06aa92",
-    "title": "June Is For Exploring (2026 Wallpapers Edition)",
-    "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+    "id": "d26890a65797afcc5b1347de2637eb97",
+    "title": "How To Make Your Design System AI-Ready",
+    "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
     "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-05-31T08:00:00.000Z",
-    "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+    "publishedAt": "2026-06-03T13:00:00.000Z",
+    "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
     "categories": [
       "design",
       "ux",
       "frontend",
       "accessibility"
     ],
-    "score": 26,
-    "fetchedAt": "2026-06-03T00:23:45.843Z",
+    "score": 29,
+    "fetchedAt": "2026-06-04T00:25:24.350Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
-    "isPickup": false
-  },
-  {
-    "id": "3099b60181a462914f5f60d177bfc0f4",
-    "title": "Astro Markdown Component Utility for Any Framework",
-    "url": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-01T13:25:00.000Z",
-    "summary": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published w...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 25,
-    "fetchedAt": "2026-06-03T00:23:46.302Z",
-    "region": "global",
-    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
     "isPickup": false
   },
   {
@@ -195,10 +156,31 @@
       "ux"
     ],
     "score": 25,
-    "fetchedAt": "2026-06-03T00:23:45.844Z",
+    "fetchedAt": "2026-06-04T00:25:24.350Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "29c263eb58d4b390fbc2d1a12c06aa92",
+    "title": "June Is For Exploring (2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-31T08:00:00.000Z",
+    "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-06-04T00:25:24.350Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
     "isPickup": false
   }
 ]
