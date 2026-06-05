@@ -1,5 +1,25 @@
 [
   {
+    "id": "cf39b22ebf5d96d93bcb47245356ada9",
+    "title": "数行のCSSで、UIデザインの使い心地を向上させるテクニックのまとめ",
+    "url": "https://coliss.com/articles/build-websites/operation/work/make-interfaces-feel-better-by-jakubkrehel.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-04T00:36:47.000Z",
+    "summary": "優れたインターフェイスは、小さな要素が積み重なって、素晴らしいユーザーエクスペリエンスが生み出されます。数行のCSSで、インターフェイスの使い心地を向上させるテクニックを紹介します。 生成AIのスキルとしてコーディングア […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-04T23:59:23.649Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "67ccef42e99415423270ecb4d59741ae",
     "title": "UIデザインやエディタのカラーに最適！ 目に優しい、アナログ印刷のインキと紙の色合いを再現したカラースキーム -Flexoki",
     "url": "https://coliss.com/articles/build-websites/operation/design/inky-color-scheme-for-prose-and-code.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-04T00:25:25.062Z",
+    "score": 40,
+    "fetchedAt": "2026-06-04T23:59:23.649Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,47 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-04T00:25:25.062Z",
+    "fetchedAt": "2026-06-04T23:59:23.649Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
-    "id": "3058d76ef0a96ec6b83326987279c406",
-    "title": "Amazon スマイルSALEは明日（6/2）まで！ 見逃しがちなお買い得品を紹介します",
-    "url": "https://coliss.com/articles/products/amazon-sale-20260601.html",
-    "source": "コリス",
+    "id": "db34e0949825e293734f0d821fa963e0",
+    "title": "プロはどうやってバナーを作る？思考プロセスを実演！※6/27(土)17時〜＠オンライン",
+    "url": "https://liginc.co.jp/680698",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-01T00:36:21.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 Amazonで開催されているスマイルSALEもいよいよ明日（6/2）が最終日、このセールでは特に生活用品が数多く対象になっており、通常のセールよりもかなり安くなって、非 […]",
+    "publishedAt": "2026-06-04T21:00:47.000Z",
+    "summary": "こんにちは！ デザインメンタリングサービス「Deview!（デビュー）」の運営事務局の天（@10TEN10TAN10）です！ 「ツールの使い方は覚えた。でも、これで本当に合ってるのかな？」 独学でデザインを学んでいると、 […]",
     "categories": [
       "design",
-      "css",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-04T00:25:25.062Z",
+    "fetchedAt": "2026-06-04T23:59:23.010Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "d59e2ea656bb91618847442d590c38fe",
+    "title": "AIエージェント活用は「願望の質」が成果を分ける。Claude Codeが経営を加速する理由",
+    "url": "https://liginc.co.jp/680533",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-04T21:00:15.000Z",
+    "summary": "インハウスマーケティング部の井上です。 弊社では2026年4月24日（金）に「Claude Codeが経営を加速する理由」と題したパネルディスカッションをオンラインで開催しました。 登壇いただいたのは、各種メディアにも多 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-04T23:59:23.011Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,48 +113,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-04T00:25:25.268Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "7acb8ae0164b31bb10098890488fc864",
-    "title": "業務委託の費用相場はいくら？職種別料金表と適正コストの見極め方",
-    "url": "https://liginc.co.jp/680380",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-03T21:00:46.000Z",
-    "summary": "人材不足が深刻化する中、即戦力となるフリーランス・外部人材を業務委託で活用する企業が増えています。 ランサーズ株式会社の調査によると、2024年時点のフリーランス人口は1,303万人、経済規模は20兆3,200億円に達し […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-04T00:25:25.268Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "9ecfac5b0d1e802befab21998bd703fa",
-    "title": "LIG Agentってどんなサービス？良いエージェントの条件・求職者に選ばれる秘訣を新卒社員が調べてみた",
-    "url": "https://liginc.co.jp/680290",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-02T21:00:59.000Z",
-    "summary": "Human Growth事業部2026年新卒の平田です。 現在、多くの方が転職活動の際にエージェントを活用していますね。エージェントを活用することで、自分一人で探すよりも多くの求人に出会えたり、非公開求人を知ることができ […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
     "score": 37,
-    "fetchedAt": "2026-06-04T00:25:25.268Z",
+    "fetchedAt": "2026-06-04T23:59:23.011Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -133,33 +133,11 @@
       "frontend",
       "accessibility"
     ],
-    "score": 29,
-    "fetchedAt": "2026-06-04T00:25:24.350Z",
+    "score": 26,
+    "fetchedAt": "2026-06-04T23:59:23.245Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "3efda0c5b0969ce620bbf89101d63afe",
-    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-28T13:00:00.000Z",
-    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "accessibility",
-      "ux"
-    ],
-    "score": 25,
-    "fetchedAt": "2026-06-04T00:25:24.350Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
     "isPickup": false
   },
   {
@@ -177,10 +155,32 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-04T00:25:24.350Z",
+    "fetchedAt": "2026-06-04T23:59:23.245Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
+    "isPickup": false
+  },
+  {
+    "id": "3efda0c5b0969ce620bbf89101d63afe",
+    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-05-28T13:00:00.000Z",
+    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "accessibility",
+      "ux"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-06-04T23:59:23.245Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
     "isPickup": false
   }
 ]
