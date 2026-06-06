@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-05T23:59:55.775Z",
+    "score": 40,
+    "fetchedAt": "2026-06-06T23:57:17.615Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-05T23:59:55.775Z",
+    "fetchedAt": "2026-06-06T23:57:17.615Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -53,8 +53,8 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-05T23:59:55.775Z",
+    "score": 37,
+    "fetchedAt": "2026-06-06T23:57:17.615Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-05T23:59:54.872Z",
+    "fetchedAt": "2026-06-06T23:57:16.961Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-05T23:59:54.872Z",
+    "fetchedAt": "2026-06-06T23:57:16.961Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -113,10 +113,70 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-05T23:59:54.872Z",
+    "score": 34,
+    "fetchedAt": "2026-06-06T23:57:16.961Z",
     "region": "jp",
     "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "3ecd46379f67229aff19494ba28ba92e",
+    "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+    "url": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-04T13:14:49.000Z",
+    "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as...",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 27,
+    "fetchedAt": "2026-06-06T23:57:17.817Z",
+    "region": "global",
+    "language": "en",
+    "isPickup": false
+  },
+  {
+    "id": "440596cdb3852043b246ff28e0641d7f",
+    "title": "offset-path",
+    "url": "https://css-tricks.com/almanac/properties/o/offset-path/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-03T15:02:38.000Z",
+    "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-06-06T23:57:17.818Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png?ssl=1",
+    "isPickup": false
+  },
+  {
+    "id": "6ad97b69fb4431ccfd0602adfbafc588",
+    "title": "::search-text",
+    "url": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-02T12:59:21.000Z",
+    "summary": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-06-06T23:57:17.818Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/b6c928ce1b901c34f86f3856b5a3bcefe9a4fb94698b9778fb3df5802d66e25d.jpg?resize=80%2C80&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -133,54 +193,11 @@
       "frontend",
       "accessibility"
     ],
-    "score": 26,
-    "fetchedAt": "2026-06-05T23:59:55.342Z",
+    "score": 23,
+    "fetchedAt": "2026-06-06T23:57:17.605Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "29c263eb58d4b390fbc2d1a12c06aa92",
-    "title": "June Is For Exploring (2026 Wallpapers Edition)",
-    "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-31T08:00:00.000Z",
-    "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-05T23:59:55.342Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
-    "isPickup": false
-  },
-  {
-    "id": "3efda0c5b0969ce620bbf89101d63afe",
-    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-28T13:00:00.000Z",
-    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "accessibility",
-      "ux"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-05T23:59:55.342Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
     "isPickup": false
   }
 ]
