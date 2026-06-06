@@ -1,5 +1,25 @@
 [
   {
+    "id": "b48e18cd536370cc944c6312c2200508",
+    "title": "AI検索や生成AIの現在、AI最適化に必読の一冊！ AIOという新しい考え方についてしっかり学べる解説書 -AI最適化の教科書",
+    "url": "https://coliss.com/articles/book-review/isbn-9784297154851.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-05T00:36:43.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 2026年になり、検索を取り巻く環境は大きく変わりました！ 以前はGoogleなどの検索で上位表示されることが重要でしたが、現在ではAIが複数のWebサイトから情報を集 […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-05T23:59:55.775Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "cf39b22ebf5d96d93bcb47245356ada9",
     "title": "数行のCSSで、UIデザインの使い心地を向上させるテクニックのまとめ",
     "url": "https://coliss.com/articles/build-websites/operation/work/make-interfaces-feel-better-by-jakubkrehel.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-04T23:59:23.649Z",
+    "score": 40,
+    "fetchedAt": "2026-06-05T23:59:55.775Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-04T23:59:23.649Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "d763ccfb368a1832a400be1e75d491c9",
-    "title": "CSSのpow()関数が便利！ フォントサイズをレスポンシブ対応にするCSSの新しいテクニック",
-    "url": "https://coliss.com/articles/build-websites/operation/css/fluid-modular-type-scale.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-02T00:36:21.000Z",
-    "summary": "CSSでレスポンシブ対応のフォントサイズを実装する最近のテクニックとしてpow()関数を使用すると、ビューポートやコンテナサイズに応じて動的にフォントサイズが調整される流動的なタイポグラフィを実装できます。 メディアクエ […]",
-    "categories": [
-      "css",
-      "design",
-      "frontend",
-      "ui"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-04T23:59:23.649Z",
+    "fetchedAt": "2026-06-05T23:59:55.775Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +73,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-04T23:59:23.010Z",
+    "score": 37,
+    "fetchedAt": "2026-06-05T23:59:54.872Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -93,8 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-04T23:59:23.011Z",
+    "score": 37,
+    "fetchedAt": "2026-06-05T23:59:54.872Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-04T23:59:23.011Z",
+    "fetchedAt": "2026-06-05T23:59:54.872Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,7 +134,7 @@
       "accessibility"
     ],
     "score": 26,
-    "fetchedAt": "2026-06-04T23:59:23.245Z",
+    "fetchedAt": "2026-06-05T23:59:55.342Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
@@ -155,7 +155,7 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-04T23:59:23.245Z",
+    "fetchedAt": "2026-06-05T23:59:55.342Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -177,7 +177,7 @@
       "ux"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-04T23:59:23.245Z",
+    "fetchedAt": "2026-06-05T23:59:55.342Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
