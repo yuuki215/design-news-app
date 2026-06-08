@@ -1,5 +1,65 @@
 [
   {
+    "id": "b0a6d9b7b42d3e07387cb64f01bbd652",
+    "title": "CSSの新機能が便利！ FlexboxやGridに罫線を実装したり、UIのシェイプなど、Chrome 149で新しく追加されたCSSの機能",
+    "url": "https://coliss.com/articles/build-websites/operation/work/chrome-149-adds-9-new-css-feature.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-08T00:36:09.000Z",
+    "summary": "先週アップデートされたChrome 149に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべき点は、たくさんあります！ まずはshape()がshape-outsideプロパティで動 […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-08T23:58:08.080Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "2bd2df38cf38f2f2065b26ca211ce002",
+    "title": "【対談レポート】制作現場と転職市場の話をぶっちゃけてきました。2026年最新・AIとWebデザインの最前線",
+    "url": "https://liginc.co.jp/680984",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-08T21:00:31.000Z",
+    "summary": "こんにちは、インハウスマーケティング部のりこぴんです！ 先日、元LIGのエンジニアであるYouTuber・セイト先生のチャンネルにて配信されたライブイベント「2026年最新・AIとWebデザインの最前線」にゲストとして登 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-08T23:58:08.490Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "713b3e0c07825432a9c178f2e283e9d2",
+    "title": "AIを使うときのLIG的心得をまとめてみた",
+    "url": "https://liginc.co.jp/679292",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-08T21:00:11.000Z",
+    "summary": "AI驚き担当の新卒、せなです。 AIのサブスクをやりすぎて、金欠です。給料でAIを養うことになりました。 今まで書いてきた記事でもAIをいろいろ使ってきたわけなんですが、ほぼ制限なしでやりたい放題やっていました。しかしな […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-08T23:58:08.490Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
     "id": "b48e18cd536370cc944c6312c2200508",
     "title": "AI検索や生成AIの現在、AI最適化に必読の一冊！ AIOという新しい考え方についてしっかり学べる解説書 -AI最適化の教科書",
     "url": "https://coliss.com/articles/book-review/isbn-9784297154851.html",
@@ -13,48 +73,8 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-07T23:59:54.186Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "0a711a56026aa53720d389799318cec6",
-    "title": "セブ拠点って何してるの？日本との連携を支える開発の仕組みと、チームビルディングのコツ",
-    "url": "https://liginc.co.jp/681137",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-07T21:00:44.000Z",
-    "summary": "こんにちは。26卒の新入社員、ねこです。 今回はLIGのセブ拠点であるCODYの役割や、国境を超えるチームビルディングのヒントを、現地で働くメンバーの目線から紐解きます！ 私自身、「海外で働いてみたいけど必要なのは語学力 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-07T23:59:53.374Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "a6f6100395944ca9361859befeca825d",
-    "title": "【大好評】4DAYSで学ぶFigma講座6月期を開催！",
-    "url": "https://liginc.co.jp/625824",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-07T21:00:41.000Z",
-    "summary": "こんにちは！ デジタルエデュケーション部の清水です。 好評のオンライン「Figma講座」を2026年6月〜7月に開催します！ ※今回法人受講で3名以上の申し込みの場合は、1人33,000円（税込）にて受講可能です！お得に […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-07T23:59:53.375Z",
+    "score": 37,
+    "fetchedAt": "2026-06-08T23:58:08.080Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,49 +94,88 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-07T23:59:54.186Z",
+    "fetchedAt": "2026-06-08T23:58:08.080Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "67ccef42e99415423270ecb4d59741ae",
-    "title": "UIデザインやエディタのカラーに最適！ 目に優しい、アナログ印刷のインキと紙の色合いを再現したカラースキーム -Flexoki",
-    "url": "https://coliss.com/articles/build-websites/operation/design/inky-color-scheme-for-prose-and-code.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-03T00:36:53.000Z",
-    "summary": "アナログ印刷のインキ、温かみのある紙の色合いからインスピレーションを得て、デジタルのスクリーンで見ることを想定して設計されたカラースキームを紹介します。 WebサイトやスマホアプリのUIデザインに使用したり、VS Cod […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-06-07T23:59:54.186Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "db34e0949825e293734f0d821fa963e0",
-    "title": "プロはどうやってバナーを作る？思考プロセスを実演！※6/27(土)17時〜＠オンライン",
-    "url": "https://liginc.co.jp/680698",
+    "id": "0a711a56026aa53720d389799318cec6",
+    "title": "セブ拠点って何してるの？日本との連携を支える開発の仕組みと、チームビルディングのコツ",
+    "url": "https://liginc.co.jp/681137",
     "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-04T21:00:47.000Z",
-    "summary": "こんにちは！ デザインメンタリングサービス「Deview!（デビュー）」の運営事務局の天（@10TEN10TAN10）です！ 「ツールの使い方は覚えた。でも、これで本当に合ってるのかな？」 独学でデザインを学んでいると、 […]",
+    "publishedAt": "2026-06-07T21:00:44.000Z",
+    "summary": "こんにちは。26卒の新入社員、ねこです。 今回はLIGのセブ拠点であるCODYの役割や、国境を超えるチームビルディングのヒントを、現地で働くメンバーの目線から紐解きます！ 私自身、「海外で働いてみたいけど必要なのは語学力 […]",
     "categories": [
       "design",
       "web",
       "frontend",
       "ux"
     ],
-    "score": 34,
-    "fetchedAt": "2026-06-07T23:59:53.375Z",
+    "score": 37,
+    "fetchedAt": "2026-06-08T23:58:08.490Z",
     "region": "jp",
     "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "d1a8a37e523878866a37c0ea968bb05c",
+    "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
+    "url": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-08T13:00:34.000Z",
+    "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritte...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-06-08T23:58:08.108Z",
+    "region": "global",
+    "language": "en",
+    "isPickup": false
+  },
+  {
+    "id": "3ecd46379f67229aff19494ba28ba92e",
+    "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+    "url": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-04T13:14:49.000Z",
+    "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as...",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 24,
+    "fetchedAt": "2026-06-08T23:58:08.108Z",
+    "region": "global",
+    "language": "en",
+    "isPickup": false
+  },
+  {
+    "id": "440596cdb3852043b246ff28e0641d7f",
+    "title": "offset-path",
+    "url": "https://css-tricks.com/almanac/properties/o/offset-path/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-03T15:02:38.000Z",
+    "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-06-08T23:58:08.108Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png?ssl=1",
     "isPickup": false
   },
   {
@@ -134,53 +193,10 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-07T23:59:53.644Z",
+    "fetchedAt": "2026-06-08T23:58:07.738Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "3efda0c5b0969ce620bbf89101d63afe",
-    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-28T13:00:00.000Z",
-    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "accessibility",
-      "ux"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-07T23:59:53.644Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "29c263eb58d4b390fbc2d1a12c06aa92",
-    "title": "June Is For Exploring (2026 Wallpapers Edition)",
-    "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-05-31T08:00:00.000Z",
-    "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 21,
-    "fetchedAt": "2026-06-07T23:59:53.644Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
     "isPickup": false
   }
 ]
