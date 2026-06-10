@@ -1,5 +1,25 @@
 [
   {
+    "id": "33b48a3062be1def81d6c62be9635060",
+    "title": "HTMLはシンプルなまま、classレスでモダンなWebページを簡単に作成できる超軽量CSSフレームワーク -dev.css",
+    "url": "https://coliss.com/articles/build-websites/operation/css/classless-framework-devcss.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-09T00:36:37.000Z",
+    "summary": "プレーンなHTMLを使用して、モダンでレスポンシブ対応のWebページを簡単に作成できるclassレスの超軽量CSSフレームワークを紹介します。 ポートフォリオやブログ、プロトタイプなどをさくっと作成したい時に便利で、リセ […]",
+    "categories": [
+      "css",
+      "design",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-10T00:05:28.327Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "b0a6d9b7b42d3e07387cb64f01bbd652",
     "title": "CSSの新機能が便利！ FlexboxやGridに罫線を実装したり、UIのシェイプなど、Chrome 149で新しく追加されたCSSの機能",
     "url": "https://coliss.com/articles/build-websites/operation/work/chrome-149-adds-9-new-css-feature.html",
@@ -13,20 +33,20 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-08T23:58:08.080Z",
+    "score": 40,
+    "fetchedAt": "2026-06-10T00:05:28.327Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
   },
   {
-    "id": "2bd2df38cf38f2f2065b26ca211ce002",
-    "title": "【対談レポート】制作現場と転職市場の話をぶっちゃけてきました。2026年最新・AIとWebデザインの最前線",
-    "url": "https://liginc.co.jp/680984",
+    "id": "db6ac747b0f29da5b901219af351700b",
+    "title": "オフショア開発に「専属チーム」を。システムを深く理解し止めない、CODYの体制づくり",
+    "url": "https://liginc.co.jp/681424",
     "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-08T21:00:31.000Z",
-    "summary": "こんにちは、インハウスマーケティング部のりこぴんです！ 先日、元LIGのエンジニアであるYouTuber・セイト先生のチャンネルにて配信されたライブイベント「2026年最新・AIとWebデザインの最前線」にゲストとして登 […]",
+    "publishedAt": "2026-06-09T21:00:06.000Z",
+    "summary": "フィリピン・セブ拠点 CODY Web Development Inc.（以下、CODY）では、各クライアントごとに専属チーム体制を組んだ、開発および運用保守の支援も行っています。 担当するシステムや役割はそれぞれ異なり […]",
     "categories": [
       "design",
       "web",
@@ -34,27 +54,7 @@
       "ux"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-08T23:58:08.490Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "713b3e0c07825432a9c178f2e283e9d2",
-    "title": "AIを使うときのLIG的心得をまとめてみた",
-    "url": "https://liginc.co.jp/679292",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-08T21:00:11.000Z",
-    "summary": "AI驚き担当の新卒、せなです。 AIのサブスクをやりすぎて、金欠です。給料でAIを養うことになりました。 今まで書いてきた記事でもAIをいろいろ使ってきたわけなんですが、ほぼ制限なしでやりたい放題やっていました。しかしな […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-08T23:58:08.490Z",
+    "fetchedAt": "2026-06-10T00:05:28.430Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,39 +74,19 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-08T23:58:08.080Z",
+    "fetchedAt": "2026-06-10T00:05:28.327Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "cf39b22ebf5d96d93bcb47245356ada9",
-    "title": "数行のCSSで、UIデザインの使い心地を向上させるテクニックのまとめ",
-    "url": "https://coliss.com/articles/build-websites/operation/work/make-interfaces-feel-better-by-jakubkrehel.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-04T00:36:47.000Z",
-    "summary": "優れたインターフェイスは、小さな要素が積み重なって、素晴らしいユーザーエクスペリエンスが生み出されます。数行のCSSで、インターフェイスの使い心地を向上させるテクニックを紹介します。 生成AIのスキルとしてコーディングア […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-06-08T23:58:08.080Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "0a711a56026aa53720d389799318cec6",
-    "title": "セブ拠点って何してるの？日本との連携を支える開発の仕組みと、チームビルディングのコツ",
-    "url": "https://liginc.co.jp/681137",
+    "id": "2bd2df38cf38f2f2065b26ca211ce002",
+    "title": "【対談レポート】制作現場と転職市場の話をぶっちゃけてきました。2026年最新・AIとWebデザインの最前線",
+    "url": "https://liginc.co.jp/680984",
     "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-07T21:00:44.000Z",
-    "summary": "こんにちは。26卒の新入社員、ねこです。 今回はLIGのセブ拠点であるCODYの役割や、国境を超えるチームビルディングのヒントを、現地で働くメンバーの目線から紐解きます！ 私自身、「海外で働いてみたいけど必要なのは語学力 […]",
+    "publishedAt": "2026-06-08T21:00:31.000Z",
+    "summary": "こんにちは、インハウスマーケティング部のりこぴんです！ 先日、元LIGのエンジニアであるYouTuber・セイト先生のチャンネルにて配信されたライブイベント「2026年最新・AIとWebデザインの最前線」にゲストとして登 […]",
     "categories": [
       "design",
       "web",
@@ -114,7 +94,27 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-08T23:58:08.490Z",
+    "fetchedAt": "2026-06-10T00:05:28.430Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "713b3e0c07825432a9c178f2e283e9d2",
+    "title": "AIを使うときのLIG的心得をまとめてみた",
+    "url": "https://liginc.co.jp/679292",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-08T21:00:11.000Z",
+    "summary": "AI驚き担当の新卒、せなです。 AIのサブスクをやりすぎて、金欠です。給料でAIを養うことになりました。 今まで書いてきた記事でもAIをいろいろ使ってきたわけなんですが、ほぼ制限なしでやりたい放題やっていました。しかしな […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 37,
+    "fetchedAt": "2026-06-10T00:05:28.430Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -132,8 +132,8 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-06-08T23:58:08.108Z",
+    "score": 25,
+    "fetchedAt": "2026-06-10T00:05:28.690Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -153,7 +153,7 @@
       "ui"
     ],
     "score": 24,
-    "fetchedAt": "2026-06-08T23:58:08.108Z",
+    "fetchedAt": "2026-06-10T00:05:28.690Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -172,7 +172,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-08T23:58:08.108Z",
+    "fetchedAt": "2026-06-10T00:05:28.690Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png?ssl=1",
@@ -193,7 +193,7 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-08T23:58:07.738Z",
+    "fetchedAt": "2026-06-10T00:05:28.019Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
