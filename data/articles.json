@@ -1,5 +1,25 @@
 [
   {
+    "id": "03c6f9af05b42812f373e7601ab3bce0",
+    "title": "このCSSは難読すぎる！ 絵文字をclass名に使用したBEMメソッドの本番環境レベルで使えるCSSフレームワーク -BEMoji",
+    "url": "https://coliss.com/articles/build-websites/operation/css/bem-methodology-using-emoji.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-10T00:36:53.000Z",
+    "summary": "ぱっと見、なんじゃこりゃ！ と思ったのですが、よく見ると絵文字をclass名としてしっかりとしたBEMメソッドで実装された、本番環境レベルで使えるCSSのフレームワークを紹介します。 完全なデザイントークンシステム、プリ […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-11T00:09:37.531Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "33b48a3062be1def81d6c62be9635060",
     "title": "HTMLはシンプルなまま、classレスでモダンなWebページを簡単に作成できる超軽量CSSフレームワーク -dev.css",
     "url": "https://coliss.com/articles/build-websites/operation/css/classless-framework-devcss.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-10T00:05:28.327Z",
+    "score": 40,
+    "fetchedAt": "2026-06-11T00:09:37.532Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,10 +54,30 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-10T00:05:28.327Z",
+    "fetchedAt": "2026-06-11T00:09:37.532Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
+  },
+  {
+    "id": "92761c1644ac3d293f09db678528dbf8",
+    "title": "AI-DLCとは？AIを「開発メンバー」として活用する、これからのソフトウェア開発プロセス",
+    "url": "https://liginc.co.jp/681415",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-10T21:00:44.000Z",
+    "summary": "こんにちは。LIG Global事業部でラボ型開発事業の責任者を務めるサビールです。 エンジニア不足が深刻化するなか、海外の優秀なエンジニアを専属チームとして活用する「ラボ型開発」に注目が集まっています。一方で、近年は生 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-11T00:09:36.451Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "db6ac747b0f29da5b901219af351700b",
@@ -53,28 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-10T00:05:28.430Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "b48e18cd536370cc944c6312c2200508",
-    "title": "AI検索や生成AIの現在、AI最適化に必読の一冊！ AIOという新しい考え方についてしっかり学べる解説書 -AI最適化の教科書",
-    "url": "https://coliss.com/articles/book-review/isbn-9784297154851.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-05T00:36:43.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 2026年になり、検索を取り巻く環境は大きく変わりました！ 以前はGoogleなどの検索で上位表示されることが重要でしたが、現在ではAIが複数のWebサイトから情報を集 […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
     "score": 37,
-    "fetchedAt": "2026-06-10T00:05:28.327Z",
+    "fetchedAt": "2026-06-11T00:09:36.451Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,29 +114,49 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-10T00:05:28.430Z",
+    "fetchedAt": "2026-06-11T00:09:36.451Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "713b3e0c07825432a9c178f2e283e9d2",
-    "title": "AIを使うときのLIG的心得をまとめてみた",
-    "url": "https://liginc.co.jp/679292",
-    "source": "LIG blog",
+    "id": "409e63692ec7520cf004e5927b4cc585",
+    "title": "The Benefits Of Cognitive Inclusion In UX Research",
+    "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+    "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-06-08T21:00:11.000Z",
-    "summary": "AI驚き担当の新卒、せなです。 AIのサブスクをやりすぎて、金欠です。給料でAIを養うことになりました。 今まで書いてきた記事でもAIをいろいろ使ってきたわけなんですが、ほぼ制限なしでやりたい放題やっていました。しかしな […]",
+    "publishedAt": "2026-06-10T10:00:00.000Z",
+    "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
     "categories": [
       "design",
-      "web",
+      "ux",
       "frontend",
-      "ux"
+      "accessibility"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-10T00:05:28.430Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 29,
+    "fetchedAt": "2026-06-11T00:09:36.790Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "2b89a3358fbb79e90d5afb28883e9650",
+    "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
+    "url": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-10T13:02:10.000Z",
+    "summary": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritt...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-06-11T00:09:37.232Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -133,7 +173,7 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-06-10T00:05:28.690Z",
+    "fetchedAt": "2026-06-11T00:09:37.232Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -153,50 +193,9 @@
       "ui"
     ],
     "score": 24,
-    "fetchedAt": "2026-06-10T00:05:28.690Z",
+    "fetchedAt": "2026-06-11T00:09:37.232Z",
     "region": "global",
     "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "440596cdb3852043b246ff28e0641d7f",
-    "title": "offset-path",
-    "url": "https://css-tricks.com/almanac/properties/o/offset-path/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-03T15:02:38.000Z",
-    "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-10T00:05:28.690Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png?ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "d26890a65797afcc5b1347de2637eb97",
-    "title": "How To Make Your Design System AI-Ready",
-    "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-03T13:00:00.000Z",
-    "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-10T00:05:28.019Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
     "isPickup": false
   }
 ]
