@@ -1,5 +1,25 @@
 [
   {
+    "id": "3da4967dc41296fac118a480240ecde4",
+    "title": "デザインやイラストで配色のお悩みはこれ一冊で解決！ 実用性に加えて自由度も高い、新しい発想の配色本 -3＋1の配色レシピ",
+    "url": "https://coliss.com/articles/book-review/isbn-9784815641382.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-12T00:36:27.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 デザインで「3色配色」が人気の理由は、使用する色にベースカラー・サブカラー・アクセントカラーという明確な役割を担わせることで、色の関係性がコントロールしやすくなるからで […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-13T00:13:41.335Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "a7b579d9eea0f634eedc569c704452ba",
     "title": "これは便利すぎる！ Webページをコピペで、編集可能なFigma用に変換できる拡張機能「Copy to Figma」しかも完全無料",
     "url": "https://coliss.com/articles/build-websites/operation/work/copy-to-figma-chrome-extension.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-12T00:15:09.691Z",
+    "score": 40,
+    "fetchedAt": "2026-06-13T00:13:41.335Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-12T00:15:09.691Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "33b48a3062be1def81d6c62be9635060",
-    "title": "HTMLはシンプルなまま、classレスでモダンなWebページを簡単に作成できる超軽量CSSフレームワーク -dev.css",
-    "url": "https://coliss.com/articles/build-websites/operation/css/classless-framework-devcss.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-09T00:36:37.000Z",
-    "summary": "プレーンなHTMLを使用して、モダンでレスポンシブ対応のWebページを簡単に作成できるclassレスの超軽量CSSフレームワークを紹介します。 ポートフォリオやブログ、プロトタイプなどをさくっと作成したい時に便利で、リセ […]",
-    "categories": [
-      "css",
-      "design",
-      "frontend",
-      "ui"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-12T00:15:09.691Z",
+    "fetchedAt": "2026-06-13T00:13:41.335Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +73,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-12T00:15:09.832Z",
+    "score": 37,
+    "fetchedAt": "2026-06-13T00:13:40.466Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -93,8 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-12T00:15:09.832Z",
+    "score": 37,
+    "fetchedAt": "2026-06-13T00:13:40.466Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,9 +114,68 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-12T00:15:09.832Z",
+    "fetchedAt": "2026-06-13T00:13:40.466Z",
     "region": "jp",
     "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "ece0d1b619fecc5e3fe6464e74273974",
+    "title": "The Impact Of Humanoid Robots On Humanity",
+    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-12T08:00:00.000Z",
+    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distin...",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 29,
+    "fetchedAt": "2026-06-13T00:13:40.798Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "4ec06c7c62fa6b390f6de9d68990542a",
+    "title": "Why Isn’t My 3D View Transition Working?",
+    "url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-12T15:09:00.000Z",
+    "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-06-13T00:13:41.260Z",
+    "region": "global",
+    "language": "en",
+    "isPickup": false
+  },
+  {
+    "id": "e79b846d44b7651e9bc940f93bf1d789",
+    "title": "There’s no need to include ‘navigation’ in your navigation labels",
+    "url": "https://css-tricks.com/navigation-in-your-navigation-labels/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-12T15:08:38.000Z",
+    "summary": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-06-13T00:13:41.260Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -134,68 +193,10 @@
       "accessibility"
     ],
     "score": 26,
-    "fetchedAt": "2026-06-12T00:15:09.309Z",
+    "fetchedAt": "2026-06-13T00:13:40.798Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "2b89a3358fbb79e90d5afb28883e9650",
-    "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-    "url": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-10T13:02:10.000Z",
-    "summary": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritt...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 25,
-    "fetchedAt": "2026-06-12T00:15:10.151Z",
-    "region": "global",
-    "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "d1a8a37e523878866a37c0ea968bb05c",
-    "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-    "url": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-08T13:00:34.000Z",
-    "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\nScroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritte...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 22,
-    "fetchedAt": "2026-06-12T00:15:10.151Z",
-    "region": "global",
-    "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "3ecd46379f67229aff19494ba28ba92e",
-    "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-    "url": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-04T13:14:49.000Z",
-    "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as...",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 22,
-    "fetchedAt": "2026-06-12T00:15:10.151Z",
-    "region": "global",
-    "language": "en",
     "isPickup": false
   }
 ]
