@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-13T00:13:41.335Z",
+    "score": 40,
+    "fetchedAt": "2026-06-13T23:59:24.271Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-13T00:13:41.335Z",
+    "fetchedAt": "2026-06-13T23:59:24.271Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -53,8 +53,8 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-13T00:13:41.335Z",
+    "score": 37,
+    "fetchedAt": "2026-06-13T23:59:24.271Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-13T00:13:40.466Z",
+    "fetchedAt": "2026-06-13T23:59:24.534Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-13T00:13:40.466Z",
+    "fetchedAt": "2026-06-13T23:59:24.534Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -113,8 +113,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-13T00:13:40.466Z",
+    "score": 34,
+    "fetchedAt": "2026-06-13T23:59:24.534Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -133,8 +133,8 @@
       "frontend",
       "accessibility"
     ],
-    "score": 29,
-    "fetchedAt": "2026-06-13T00:13:40.798Z",
+    "score": 26,
+    "fetchedAt": "2026-06-13T23:59:24.478Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -153,8 +153,8 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-06-13T00:13:41.260Z",
+    "score": 25,
+    "fetchedAt": "2026-06-13T23:59:24.799Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -172,8 +172,8 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-06-13T00:13:41.260Z",
+    "score": 25,
+    "fetchedAt": "2026-06-13T23:59:24.799Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -192,8 +192,8 @@
       "frontend",
       "accessibility"
     ],
-    "score": 26,
-    "fetchedAt": "2026-06-13T00:13:40.798Z",
+    "score": 23,
+    "fetchedAt": "2026-06-13T23:59:24.478Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
