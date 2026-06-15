@@ -14,7 +14,27 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-13T23:59:24.271Z",
+    "fetchedAt": "2026-06-15T00:02:46.158Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "f534c0daf22ed28e18ada2bcbd429eb8",
+    "title": "\"思いつきが商品になる\"プラットフォーム「BUZZMADE」。創業30年のリベルタが、商品企画ノウハウをフルオープンにした理由",
+    "url": "https://liginc.co.jp/681305",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-14T21:00:19.000Z",
+    "summary": "こんにちは、Webディレクターの永井（リコ）です。 「ふと思いついたアイデアを、商品として世に出してみたい」 そう思ったことがある人は少なくないはず。けれど、思いつきを商品企画書というかたちにまで仕上げ、メーカーで生産し […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-15T00:02:45.507Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -33,11 +53,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-13T23:59:24.271Z",
+    "score": 37,
+    "fetchedAt": "2026-06-15T00:02:46.158Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "03c6f9af05b42812f373e7601ab3bce0",
@@ -54,7 +74,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-13T23:59:24.271Z",
+    "fetchedAt": "2026-06-15T00:02:46.158Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-13T23:59:24.534Z",
+    "score": 34,
+    "fetchedAt": "2026-06-15T00:02:45.508Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -93,28 +113,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-13T23:59:24.534Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "92761c1644ac3d293f09db678528dbf8",
-    "title": "AI-DLCとは？AIを「開発メンバー」として活用する、これからのソフトウェア開発プロセス",
-    "url": "https://liginc.co.jp/681415",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-10T21:00:44.000Z",
-    "summary": "こんにちは。LIG Global事業部でラボ型開発事業の責任者を務めるサビールです。 エンジニア不足が深刻化するなか、海外の優秀なエンジニアを専属チームとして活用する「ラボ型開発」に注目が集まっています。一方で、近年は生 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
     "score": 34,
-    "fetchedAt": "2026-06-13T23:59:24.534Z",
+    "fetchedAt": "2026-06-15T00:02:45.508Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,48 +134,10 @@
       "accessibility"
     ],
     "score": 26,
-    "fetchedAt": "2026-06-13T23:59:24.478Z",
+    "fetchedAt": "2026-06-15T00:02:45.612Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "4ec06c7c62fa6b390f6de9d68990542a",
-    "title": "Why Isn’t My 3D View Transition Working?",
-    "url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-12T15:09:00.000Z",
-    "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 25,
-    "fetchedAt": "2026-06-13T23:59:24.799Z",
-    "region": "global",
-    "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "e79b846d44b7651e9bc940f93bf1d789",
-    "title": "There’s no need to include ‘navigation’ in your navigation labels",
-    "url": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-12T15:08:38.000Z",
-    "summary": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 25,
-    "fetchedAt": "2026-06-13T23:59:24.799Z",
-    "region": "global",
-    "language": "en",
     "isPickup": false
   },
   {
@@ -193,10 +155,31 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-13T23:59:24.478Z",
+    "fetchedAt": "2026-06-15T00:02:45.613Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "d26890a65797afcc5b1347de2637eb97",
+    "title": "How To Make Your Design System AI-Ready",
+    "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-03T13:00:00.000Z",
+    "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 21,
+    "fetchedAt": "2026-06-15T00:02:45.613Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
     "isPickup": false
   }
 ]
