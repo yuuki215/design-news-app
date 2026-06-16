@@ -1,5 +1,25 @@
 [
   {
+    "id": "f52605800bee4ee18e75c5cc1ef35f72",
+    "title": "コリス限定の太っ腹プレゼント企画！ 先週発売された「3＋1の配色レシピ」🐖スウォッチデータをまさかの無料配布します🎉",
+    "url": "https://coliss.com/articles/giveaway/coliss-presents-20260615.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-15T00:36:57.000Z",
+    "summary": "先週発売されたばかり、当ブログでも紹介した「3＋1の配色レシピ」のスウォッチデータを無料配布します！ 当ブログ限定のプレゼント企画で、ダウンロード期間は2026年6月21日まで。 今回の企画は、著者の桜井 輝子様、版元の […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-16T00:24:05.230Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "3da4967dc41296fac118a480240ecde4",
     "title": "デザインやイラストで配色のお悩みはこれ一冊で解決！ 実用性に加えて自由度も高い、新しい発想の配色本 -3＋1の配色レシピ",
     "url": "https://coliss.com/articles/book-review/isbn-9784815641382.html",
@@ -13,28 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-15T00:02:46.158Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "f534c0daf22ed28e18ada2bcbd429eb8",
-    "title": "\"思いつきが商品になる\"プラットフォーム「BUZZMADE」。創業30年のリベルタが、商品企画ノウハウをフルオープンにした理由",
-    "url": "https://liginc.co.jp/681305",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-14T21:00:19.000Z",
-    "summary": "こんにちは、Webディレクターの永井（リコ）です。 「ふと思いついたアイデアを、商品として世に出してみたい」 そう思ったことがある人は少なくないはず。けれど、思いつきを商品企画書というかたちにまで仕上げ、メーカーで生産し […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-15T00:02:45.507Z",
+    "score": 37,
+    "fetchedAt": "2026-06-16T00:24:05.230Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -54,27 +54,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-15T00:02:46.158Z",
+    "fetchedAt": "2026-06-16T00:24:05.230Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "03c6f9af05b42812f373e7601ab3bce0",
-    "title": "このCSSは難読すぎる！ 絵文字をclass名に使用したBEMメソッドの本番環境レベルで使えるCSSフレームワーク -BEMoji",
-    "url": "https://coliss.com/articles/build-websites/operation/css/bem-methodology-using-emoji.html",
-    "source": "コリス",
+    "id": "f534c0daf22ed28e18ada2bcbd429eb8",
+    "title": "\"思いつきが商品になる\"プラットフォーム「BUZZMADE」。創業30年のリベルタが、商品企画ノウハウをフルオープンにした理由",
+    "url": "https://liginc.co.jp/681305",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-10T00:36:53.000Z",
-    "summary": "ぱっと見、なんじゃこりゃ！ と思ったのですが、よく見ると絵文字をclass名としてしっかりとしたBEMメソッドで実装された、本番環境レベルで使えるCSSのフレームワークを紹介します。 完全なデザイントークンシステム、プリ […]",
+    "publishedAt": "2026-06-14T21:00:19.000Z",
+    "summary": "こんにちは、Webディレクターの永井（リコ）です。 「ふと思いついたアイデアを、商品として世に出してみたい」 そう思ったことがある人は少なくないはず。けれど、思いつきを商品企画書というかたちにまで仕上げ、メーカーで生産し […]",
     "categories": [
       "design",
-      "css",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-15T00:02:46.158Z",
+    "fetchedAt": "2026-06-16T00:24:05.436Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-15T00:02:45.508Z",
+    "fetchedAt": "2026-06-16T00:24:05.436Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,9 +114,29 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-15T00:02:45.508Z",
+    "fetchedAt": "2026-06-16T00:24:05.436Z",
     "region": "jp",
     "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "ccbbd59b16ecd4ae72323af8552dbc69",
+    "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
+    "url": "https://css-tricks.com/whats-important-13/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-15T13:15:33.000Z",
+    "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should real...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 29,
+    "fetchedAt": "2026-06-16T00:24:05.287Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-scaled.png?resize=2560%2C1539&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -133,8 +153,8 @@
       "frontend",
       "accessibility"
     ],
-    "score": 26,
-    "fetchedAt": "2026-06-15T00:02:45.612Z",
+    "score": 23,
+    "fetchedAt": "2026-06-16T00:24:04.665Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -155,31 +175,29 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-15T00:02:45.613Z",
+    "fetchedAt": "2026-06-16T00:24:04.665Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
     "isPickup": false
   },
   {
-    "id": "d26890a65797afcc5b1347de2637eb97",
-    "title": "How To Make Your Design System AI-Ready",
-    "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-    "source": "Smashing Magazine",
+    "id": "4ec06c7c62fa6b390f6de9d68990542a",
+    "title": "Why Isn’t My 3D View Transition Working?",
+    "url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-06-03T13:00:00.000Z",
-    "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
+    "publishedAt": "2026-06-12T15:09:00.000Z",
+    "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
-      "design",
-      "ux",
+      "css",
       "frontend",
-      "accessibility"
+      "ui"
     ],
-    "score": 21,
-    "fetchedAt": "2026-06-15T00:02:45.613Z",
+    "score": 22,
+    "fetchedAt": "2026-06-16T00:24:05.287Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
     "isPickup": false
   }
 ]
