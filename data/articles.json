@@ -1,5 +1,25 @@
 [
   {
+    "id": "6d6d08f179c57c6e5abc0d05c9193165",
+    "title": "レスポンシブの対応はメディアクエリとclamp()の使い分けが大事！ あらゆるプロパティに対応したclamp()の値を生成できる便利ツール -CSS Clamp Generator",
+    "url": "https://coliss.com/articles/build-websites/operation/css/css-clamp-generator.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-16T00:36:21.000Z",
+    "summary": "レスポンシブ対応の最近の実装方法は、メディアクエリとclamp()の使い分けが明確になってきました。メディアクエリは構造的なレイアウトを変更するとき、そしてclamp()はビューポートに対して比例的に変更するとき、といっ […]",
+    "categories": [
+      "css",
+      "design",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-17T00:10:10.971Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "f52605800bee4ee18e75c5cc1ef35f72",
     "title": "コリス限定の太っ腹プレゼント企画！ 先週発売された「3＋1の配色レシピ」🐖スウォッチデータをまさかの無料配布します🎉",
     "url": "https://coliss.com/articles/giveaway/coliss-presents-20260615.html",
@@ -13,11 +33,31 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-16T00:24:05.230Z",
+    "score": 40,
+    "fetchedAt": "2026-06-17T00:10:10.971Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
+  },
+  {
+    "id": "776bf4b27f0e6e4d02b0c2df254b2cbb",
+    "title": "セブで会ってきた！LIGブログをいつも支えてくれるエンジニア・ジョンソンの素顔",
+    "url": "https://liginc.co.jp/681509",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-16T21:00:50.000Z",
+    "summary": "こんにちは、デザイナーのまっつーです。 みなさんがふだん読んでくれているLIGブログ。実はその改修や運用を、海を越えたセブ拠点から支えてくれているエンジニアがいることをご存じでしょうか。 LIGのセブ拠点・CODYのエン […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-17T00:10:10.866Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "3da4967dc41296fac118a480240ecde4",
@@ -34,27 +74,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-16T00:24:05.230Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "a7b579d9eea0f634eedc569c704452ba",
-    "title": "これは便利すぎる！ Webページをコピペで、編集可能なFigma用に変換できる拡張機能「Copy to Figma」しかも完全無料",
-    "url": "https://coliss.com/articles/build-websites/operation/work/copy-to-figma-chrome-extension.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-11T00:36:52.000Z",
-    "summary": "Chromeに表示したWebページや特定のセクションをコピペで、Figmaの編集可能なレイヤーに変換できる拡張機能を紹介します。 以前紹介したhtml.to.designと似ていますが、html.to.designはサブ […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-06-16T00:24:05.230Z",
+    "fetchedAt": "2026-06-17T00:10:10.971Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +94,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-16T00:24:05.436Z",
+    "fetchedAt": "2026-06-17T00:10:10.866Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,29 +114,50 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-16T00:24:05.436Z",
+    "fetchedAt": "2026-06-17T00:10:10.866Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "0da3208ead4ddb3fbc1c8319c70ca594",
-    "title": "【LIGNEWS】Human Growth事業本部で合宿をしてきました！AI時代を生き抜くチームのつくり方",
-    "url": "https://liginc.co.jp/562030",
-    "source": "LIG blog",
+    "id": "1dd4f1ad4bd551dfe1d754afc4873634",
+    "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+    "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+    "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-06-11T21:00:13.000Z",
-    "summary": "LIG・Human Growth事業本部の天（@10TEN10TAN10）です！ 新年度が始まって少し経ちましたが、みなさんの組織では「チームの方向性」全員で揃ってますか？ 4月に部署メンバー全員で社内合宿へ行ってきまし […]",
+    "publishedAt": "2026-06-16T15:00:00.000Z",
+    "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
     "categories": [
       "design",
-      "web",
+      "product",
+      "ux",
       "frontend",
-      "ux"
+      "accessibility"
     ],
-    "score": 34,
-    "fetchedAt": "2026-06-16T00:24:05.436Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 29,
+    "fetchedAt": "2026-06-17T00:10:10.157Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "c78f4bd944900276985c56b0afca879f",
+    "title": "Prop For That",
+    "url": "https://css-tricks.com/prop-for-that/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-16T18:36:25.000Z",
+    "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 28,
+    "fetchedAt": "2026-06-17T00:10:10.633Z",
+    "region": "global",
+    "language": "en",
     "isPickup": false
   },
   {
@@ -132,8 +173,8 @@
       "frontend",
       "ui"
     ],
-    "score": 29,
-    "fetchedAt": "2026-06-16T00:24:05.287Z",
+    "score": 26,
+    "fetchedAt": "2026-06-17T00:10:10.633Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-scaled.png?resize=2560%2C1539&#038;ssl=1",
@@ -154,50 +195,10 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-16T00:24:04.665Z",
+    "fetchedAt": "2026-06-17T00:10:10.157Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "409e63692ec7520cf004e5927b4cc585",
-    "title": "The Benefits Of Cognitive Inclusion In UX Research",
-    "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-10T10:00:00.000Z",
-    "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-16T00:24:04.665Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "4ec06c7c62fa6b390f6de9d68990542a",
-    "title": "Why Isn’t My 3D View Transition Working?",
-    "url": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-12T15:09:00.000Z",
-    "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 22,
-    "fetchedAt": "2026-06-16T00:24:05.287Z",
-    "region": "global",
-    "language": "en",
     "isPickup": false
   }
 ]
