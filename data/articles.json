@@ -1,5 +1,25 @@
 [
   {
+    "id": "ff6736ec3128174bbe015d6aa1cb893e",
+    "title": "カワイイけど、可愛すぎないフリーフォント！ 可読性にも優れた、MPLUSのバリアブルのUDフォント -M PLUS U",
+    "url": "https://coliss.com/articles/freebies/google-fonts-m-plus-u.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-17T00:36:16.000Z",
+    "summary": "読みやすく、かわいいフォントを探している人にぴったりのフォントを紹介します。 M PLUS Uはカワイイけど、可愛すぎない、可読性に優れたUDフォントで、ウェイトはThinからBlackはで9種類、さらにバリアブルも揃っ […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-18T00:08:21.091Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "6d6d08f179c57c6e5abc0d05c9193165",
     "title": "レスポンシブの対応はメディアクエリとclamp()の使い分けが大事！ あらゆるプロパティに対応したclamp()の値を生成できる便利ツール -CSS Clamp Generator",
     "url": "https://coliss.com/articles/build-websites/operation/css/css-clamp-generator.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-17T00:10:10.971Z",
+    "score": 40,
+    "fetchedAt": "2026-06-18T00:08:21.091Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,10 +54,30 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-17T00:10:10.971Z",
+    "fetchedAt": "2026-06-18T00:08:21.091Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
+  },
+  {
+    "id": "b8723a9f279f892d4929c8b763c4b33f",
+    "title": "【2026年版】Webデザイナーの就職は厳しい？就職市場の現状と成功する5つの対策",
+    "url": "https://liginc.co.jp/674891",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-17T21:00:28.000Z",
+    "summary": "「Webデザイナーの就職は厳しい」という情報を目にして、不安を感じていませんか？ 確かに競争は激しいですが、正しい準備と戦略があれば、未経験からでも就職は十分可能です。 この記事では、Webデザイナーの就職市場の現状を分 […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-18T00:08:20.497Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "776bf4b27f0e6e4d02b0c2df254b2cbb",
@@ -53,28 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-17T00:10:10.866Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "3da4967dc41296fac118a480240ecde4",
-    "title": "デザインやイラストで配色のお悩みはこれ一冊で解決！ 実用性に加えて自由度も高い、新しい発想の配色本 -3＋1の配色レシピ",
-    "url": "https://coliss.com/articles/book-review/isbn-9784815641382.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-12T00:36:27.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 デザインで「3色配色」が人気の理由は、使用する色にベースカラー・サブカラー・アクセントカラーという明確な役割を担わせることで、色の関係性がコントロールしやすくなるからで […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
     "score": 37,
-    "fetchedAt": "2026-06-17T00:10:10.971Z",
+    "fetchedAt": "2026-06-18T00:08:20.498Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -93,30 +113,50 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-17T00:10:10.866Z",
+    "score": 34,
+    "fetchedAt": "2026-06-18T00:08:20.498Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "a46ab42086cc760af3bf5e6840f79c9a",
-    "title": "【7月開講】リスク回避から実務活用まで学ぶ、4日間の「生成AI実践講座」を開催します",
-    "url": "https://liginc.co.jp/681501",
-    "source": "LIG blog",
+    "id": "87114021d0e3219d4e5888c22e7c9152",
+    "title": "The Siren Song of  ariaNotify()",
+    "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-06-11T21:00:56.000Z",
-    "summary": "こんにちは、株式会社LIGの秋山です。 最近、ビジネスの現場で「生成AI」を耳にしない日はありませんよね。LIGでも社内での活用や、さまざまな企業様への研修を進めるなかで、生成AIがもたらす業務効率化の可能性を日々実感し […]",
+    "publishedAt": "2026-06-17T15:32:30.000Z",
+    "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of  ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter",
     "categories": [
-      "design",
-      "web",
+      "css",
       "frontend",
-      "ux"
+      "ui"
     ],
-    "score": 34,
-    "fetchedAt": "2026-06-17T00:10:10.866Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 29,
+    "fetchedAt": "2026-06-18T00:08:21.626Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_D001C67931903D7057449C5AC820101F7F153CB201332AFD0DF2BBB3E6313CC4_1779810124342_image.png?resize=876%2C608&#038;ssl=1",
+    "isPickup": false
+  },
+  {
+    "id": "ccbbd59b16ecd4ae72323af8552dbc69",
+    "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
+    "url": "https://css-tricks.com/whats-important-13/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-15T13:15:33.000Z",
+    "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should real...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 26,
+    "fetchedAt": "2026-06-18T00:08:21.626Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-scaled.png?resize=2560%2C1539&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -134,8 +174,8 @@
       "frontend",
       "accessibility"
     ],
-    "score": 29,
-    "fetchedAt": "2026-06-17T00:10:10.157Z",
+    "score": 26,
+    "fetchedAt": "2026-06-18T00:08:20.831Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -154,51 +194,10 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-06-17T00:10:10.633Z",
+    "score": 25,
+    "fetchedAt": "2026-06-18T00:08:21.626Z",
     "region": "global",
     "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "ccbbd59b16ecd4ae72323af8552dbc69",
-    "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-    "url": "https://css-tricks.com/whats-important-13/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-15T13:15:33.000Z",
-    "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should real...",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-06-17T00:10:10.633Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-scaled.png?resize=2560%2C1539&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "ece0d1b619fecc5e3fe6464e74273974",
-    "title": "The Impact Of Humanoid Robots On Humanity",
-    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-12T08:00:00.000Z",
-    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distin...",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-17T00:10:10.157Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
     "isPickup": false
   }
 ]
