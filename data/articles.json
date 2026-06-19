@@ -1,5 +1,25 @@
 [
   {
+    "id": "39e01dc600ebf3c74907eae971239062",
+    "title": "Kindle本 夏の特大セールが開催！ 人気のデザイン書、UIデザイン・Web制作の解説書、イラスト書も最安値でお買い得です",
+    "url": "https://coliss.com/articles/products/kindle-sales-20260618.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-18T00:36:47.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 7/7から開催されるAmazon プライムデー2026に先駆けて、Kindle本 夏の特大セール第1弾が開催しています。Webや紙のデザイン、HTML/CSSなどWeb […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-19T00:20:36.275Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "ff6736ec3128174bbe015d6aa1cb893e",
     "title": "カワイイけど、可愛すぎないフリーフォント！ 可読性にも優れた、MPLUSのバリアブルのUDフォント -M PLUS U",
     "url": "https://coliss.com/articles/freebies/google-fonts-m-plus-u.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-18T00:08:21.091Z",
+    "score": 40,
+    "fetchedAt": "2026-06-19T00:20:36.275Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,27 +54,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-18T00:08:21.091Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "f52605800bee4ee18e75c5cc1ef35f72",
-    "title": "コリス限定の太っ腹プレゼント企画！ 先週発売された「3＋1の配色レシピ」🐖スウォッチデータをまさかの無料配布します🎉",
-    "url": "https://coliss.com/articles/giveaway/coliss-presents-20260615.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-15T00:36:57.000Z",
-    "summary": "先週発売されたばかり、当ブログでも紹介した「3＋1の配色レシピ」のスウォッチデータを無料配布します！ 当ブログ限定のプレゼント企画で、ダウンロード期間は2026年6月21日まで。 今回の企画は、著者の桜井 輝子様、版元の […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-18T00:08:21.091Z",
+    "fetchedAt": "2026-06-19T00:20:36.275Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +73,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-18T00:08:20.497Z",
+    "score": 37,
+    "fetchedAt": "2026-06-19T00:20:36.879Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-18T00:08:20.498Z",
+    "fetchedAt": "2026-06-19T00:20:36.879Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,49 +114,29 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-18T00:08:20.498Z",
+    "fetchedAt": "2026-06-19T00:20:36.879Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "87114021d0e3219d4e5888c22e7c9152",
-    "title": "The Siren Song of  ariaNotify()",
+    "id": "54b76c6d1d72a98f1dea677312b4370b",
+    "title": "The Siren Song of ariaNotify()",
     "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
     "publishedAt": "2026-06-17T15:32:30.000Z",
-    "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of  ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 29,
-    "fetchedAt": "2026-06-18T00:08:21.626Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_D001C67931903D7057449C5AC820101F7F153CB201332AFD0DF2BBB3E6313CC4_1779810124342_image.png?resize=876%2C608&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "ccbbd59b16ecd4ae72323af8552dbc69",
-    "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-    "url": "https://css-tricks.com/whats-important-13/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-15T13:15:33.000Z",
-    "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should real...",
+    "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter a...",
     "categories": [
       "css",
       "frontend",
       "ui"
     ],
     "score": 26,
-    "fetchedAt": "2026-06-18T00:08:21.626Z",
+    "fetchedAt": "2026-06-19T00:20:36.787Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-scaled.png?resize=2560%2C1539&#038;ssl=1",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_D001C67931903D7057449C5AC820101F7F153CB201332AFD0DF2BBB3E6313CC4_1779810124342_image.png?resize=876%2C608&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -175,7 +155,7 @@
       "accessibility"
     ],
     "score": 26,
-    "fetchedAt": "2026-06-18T00:08:20.831Z",
+    "fetchedAt": "2026-06-19T00:20:35.986Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -195,9 +175,29 @@
       "ui"
     ],
     "score": 25,
-    "fetchedAt": "2026-06-18T00:08:21.626Z",
+    "fetchedAt": "2026-06-19T00:20:36.787Z",
     "region": "global",
     "language": "en",
+    "isPickup": false
+  },
+  {
+    "id": "ccbbd59b16ecd4ae72323af8552dbc69",
+    "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
+    "url": "https://css-tricks.com/whats-important-13/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-15T13:15:33.000Z",
+    "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should real...",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 23,
+    "fetchedAt": "2026-06-19T00:20:36.787Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-scaled.png?resize=2560%2C1539&#038;ssl=1",
     "isPickup": false
   }
 ]
