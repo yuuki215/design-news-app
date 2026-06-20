@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-20T00:01:35.411Z",
+    "score": 40,
+    "fetchedAt": "2026-06-20T23:59:38.198Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-20T00:01:35.411Z",
+    "fetchedAt": "2026-06-20T23:59:38.198Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -53,8 +53,8 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-20T00:01:35.411Z",
+    "score": 37,
+    "fetchedAt": "2026-06-20T23:59:38.198Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +73,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-20T00:01:34.508Z",
+    "score": 34,
+    "fetchedAt": "2026-06-20T23:59:37.650Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-20T00:01:34.508Z",
+    "fetchedAt": "2026-06-20T23:59:37.650Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,7 +114,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-20T00:01:34.508Z",
+    "fetchedAt": "2026-06-20T23:59:37.650Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -132,8 +132,8 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-06-20T00:01:35.225Z",
+    "score": 25,
+    "fetchedAt": "2026-06-20T23:59:38.646Z",
     "region": "global",
     "language": "en",
     "isPickup": false
@@ -151,8 +151,8 @@
       "frontend",
       "ui"
     ],
-    "score": 26,
-    "fetchedAt": "2026-06-20T00:01:35.225Z",
+    "score": 23,
+    "fetchedAt": "2026-06-20T23:59:38.646Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_D001C67931903D7057449C5AC820101F7F153CB201332AFD0DF2BBB3E6313CC4_1779810124342_image.png?resize=876%2C608&#038;ssl=1",
@@ -172,7 +172,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-20T00:01:35.226Z",
+    "fetchedAt": "2026-06-20T23:59:38.646Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-scaled.png?resize=2560%2C1539&#038;ssl=1",
@@ -194,7 +194,7 @@
       "accessibility"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-20T00:01:34.695Z",
+    "fetchedAt": "2026-06-20T23:59:38.164Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
