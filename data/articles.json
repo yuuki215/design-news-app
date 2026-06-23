@@ -1,5 +1,25 @@
 [
   {
+    "id": "3be1183441f3e589b97ae1c65c0c9369",
+    "title": "CSSに特化されているから使いやすい！ WebページのCSSを確認・編集できるスタンドアロンのCSSエディタ -InSpec",
+    "url": "https://coliss.com/articles/build-websites/operation/css/standalone-css-editor-inspec.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-23T00:36:09.000Z",
+    "summary": "CSSの検証やデバッグにデベロッパーツールを使用している人が多いと思います。しかし、デベロッパーツールではリロードするとその変更内容が消えてしまうという大きな弱点があります。 macOS用のインスペクター、CSSに特化さ […]",
+    "categories": [
+      "css",
+      "design",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-23T23:49:22.493Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "6a280f34739a69a602961d26b93dfee5",
     "title": "Kindleの特大セールで、マンガや小説、同人誌の創作に役立つ「感情類語辞典」「場面設定類語辞典」など類語辞典シリーズが超お買い得です！",
     "url": "https://coliss.com/articles/products/kindle-sales-202607-filmart.html",
@@ -13,20 +33,20 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-23T00:03:15.824Z",
+    "score": 40,
+    "fetchedAt": "2026-06-23T23:49:22.493Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
   },
   {
-    "id": "b5dd1e383977fa3b20656315084532fd",
-    "title": "語学力を活かす新しい働き方「ブリッジディレクター」とは？現役社員に聞いてみた",
-    "url": "https://liginc.co.jp/680267",
+    "id": "d31f242502500f53c8608d34c1eceb57",
+    "title": "専門学校とプロの現場、何が違う？入社3年目の先輩に聞く「技術より大切なこと」",
+    "url": "https://liginc.co.jp/679382",
     "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-22T21:00:09.000Z",
-    "summary": "はじめまして！ 新生活で日々右往左往している26卒のさがです。 「海外と関わる働き方がしたいけど、具体的にどんな職業があるのかわからない……」 「せっかく身につけた英語力を、どうにかして仕事に活かしたい！」 そんなふうに […]",
+    "publishedAt": "2026-06-23T21:00:18.000Z",
+    "summary": "はじめまして！ LIGで26新卒として入社した熊谷です！ 「学校で学んだコードの書き方だけで、プロとしてやっていけるんだろうか……」 「チーム開発って、学校でのチーム制作とどう違うんだろう？」 そんな疑問を持ちながら入社 […]",
     "categories": [
       "design",
       "web",
@@ -34,10 +54,10 @@
       "ux"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-23T00:03:14.776Z",
+    "fetchedAt": "2026-06-23T23:49:21.824Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "151c90e0431698802ab96595717b8b66",
@@ -54,27 +74,27 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-23T00:03:15.824Z",
+    "fetchedAt": "2026-06-23T23:49:22.493Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "39e01dc600ebf3c74907eae971239062",
-    "title": "Kindle本 夏の特大セールが開催！ 人気のデザイン書、UIデザイン・Web制作の解説書、イラスト書も最安値でお買い得です",
-    "url": "https://coliss.com/articles/products/kindle-sales-20260618.html",
-    "source": "コリス",
+    "id": "b5dd1e383977fa3b20656315084532fd",
+    "title": "語学力を活かす新しい働き方「ブリッジディレクター」とは？現役社員に聞いてみた",
+    "url": "https://liginc.co.jp/680267",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-18T00:36:47.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 7/7から開催されるAmazon プライムデー2026に先駆けて、Kindle本 夏の特大セール第1弾が開催しています。Webや紙のデザイン、HTML/CSSなどWeb […]",
+    "publishedAt": "2026-06-22T21:00:09.000Z",
+    "summary": "はじめまして！ 新生活で日々右往左往している26卒のさがです。 「海外と関わる働き方がしたいけど、具体的にどんな職業があるのかわからない……」 「せっかく身につけた英語力を、どうにかして仕事に活かしたい！」 そんなふうに […]",
     "categories": [
       "design",
-      "css",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-23T00:03:15.824Z",
+    "fetchedAt": "2026-06-23T23:49:21.824Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,27 +114,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-23T00:03:14.777Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "776bf4b27f0e6e4d02b0c2df254b2cbb",
-    "title": "セブで会ってきた！LIGブログをいつも支えてくれるエンジニア・ジョンソンの素顔",
-    "url": "https://liginc.co.jp/681509",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-16T21:00:50.000Z",
-    "summary": "こんにちは、デザイナーのまっつーです。 みなさんがふだん読んでくれているLIGブログ。実はその改修や運用を、海を越えたセブ拠点から支えてくれているエンジニアがいることをご存じでしょうか。 LIGのセブ拠点・CODYのエン […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 34,
-    "fetchedAt": "2026-06-23T00:03:14.777Z",
+    "fetchedAt": "2026-06-23T23:49:21.824Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -133,8 +133,8 @@
       "frontend",
       "ui"
     ],
-    "score": 31,
-    "fetchedAt": "2026-06-23T00:03:15.592Z",
+    "score": 28,
+    "fetchedAt": "2026-06-23T23:49:22.772Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1",
@@ -154,7 +154,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-23T00:03:15.592Z",
+    "fetchedAt": "2026-06-23T23:49:22.772Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_D001C67931903D7057449C5AC820101F7F153CB201332AFD0DF2BBB3E6313CC4_1779810124342_image.png?resize=876%2C608&#038;ssl=1",
@@ -175,8 +175,8 @@
       "frontend",
       "accessibility"
     ],
-    "score": 23,
-    "fetchedAt": "2026-06-23T00:03:15.111Z",
+    "score": 21,
+    "fetchedAt": "2026-06-23T23:49:21.985Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -197,7 +197,7 @@
       "accessibility"
     ],
     "score": 21,
-    "fetchedAt": "2026-06-23T00:03:15.111Z",
+    "fetchedAt": "2026-06-23T23:49:21.985Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
