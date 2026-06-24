@@ -1,5 +1,25 @@
 [
   {
+    "id": "30097890014812cf1cdf8217b466fe42",
+    "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
+    "url": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-24T00:36:02.000Z",
+    "summary": "アプリをインストールして困ることが、ショートカットキーが他のアプリと重複している場合です。いつもなら「Command + スペース」でスポットライトを呼び出せるのに、なぜか他のアプリが起動してしまったことはありませんか？ […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-24T23:59:28.392Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "3be1183441f3e589b97ae1c65c0c9369",
     "title": "CSSに特化されているから使いやすい！ WebページのCSSを確認・編集できるスタンドアロンのCSSエディタ -InSpec",
     "url": "https://coliss.com/articles/build-websites/operation/css/standalone-css-editor-inspec.html",
@@ -13,8 +33,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-23T23:49:22.493Z",
+    "score": 40,
+    "fetchedAt": "2026-06-24T23:59:28.392Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,10 +54,10 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-23T23:49:22.493Z",
+    "fetchedAt": "2026-06-24T23:59:28.392Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "d31f242502500f53c8608d34c1eceb57",
@@ -53,28 +73,8 @@
       "frontend",
       "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-23T23:49:21.824Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "151c90e0431698802ab96595717b8b66",
-    "title": "AI検索にも対応した改訂新版！ SEOの確かな知識をやさしく、そして詳しく学べる解説書 -10年つかえるSEOの基本",
-    "url": "https://coliss.com/articles/book-review/isbn-9784297156169.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-19T00:36:07.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 SEO解説書のロングセラー『10年つかえるSEOの基本』発売から10年が経ち、待望の改訂新版が発売されました！ SEOについて知りたいときに持っておきたい一冊です。すぐ […]",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
     "score": 37,
-    "fetchedAt": "2026-06-23T23:49:22.493Z",
+    "fetchedAt": "2026-06-24T23:59:27.780Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-23T23:49:21.824Z",
+    "fetchedAt": "2026-06-24T23:59:27.781Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -113,8 +113,8 @@
       "frontend",
       "ux"
     ],
-    "score": 34,
-    "fetchedAt": "2026-06-23T23:49:21.824Z",
+    "score": 32,
+    "fetchedAt": "2026-06-24T23:59:27.781Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -134,7 +134,7 @@
       "ui"
     ],
     "score": 28,
-    "fetchedAt": "2026-06-23T23:49:22.772Z",
+    "fetchedAt": "2026-06-24T23:59:28.464Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1",
@@ -153,8 +153,8 @@
       "frontend",
       "ui"
     ],
-    "score": 23,
-    "fetchedAt": "2026-06-23T23:49:22.772Z",
+    "score": 21,
+    "fetchedAt": "2026-06-24T23:59:28.464Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_D001C67931903D7057449C5AC820101F7F153CB201332AFD0DF2BBB3E6313CC4_1779810124342_image.png?resize=876%2C608&#038;ssl=1",
@@ -176,7 +176,7 @@
       "accessibility"
     ],
     "score": 21,
-    "fetchedAt": "2026-06-23T23:49:21.985Z",
+    "fetchedAt": "2026-06-24T23:59:27.996Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -197,7 +197,7 @@
       "accessibility"
     ],
     "score": 21,
-    "fetchedAt": "2026-06-23T23:49:21.985Z",
+    "fetchedAt": "2026-06-24T23:59:27.996Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
