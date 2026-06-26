@@ -1,5 +1,45 @@
 [
   {
+    "id": "e7d0b2bef654671b7f4b6defe56ddd39",
+    "title": "ちょっとしたことで写真が映える！ 日常の小物を魅力的に撮影する写真解説書 -世界観が伝わる静物写真のつくりかた",
+    "url": "https://coliss.com/articles/book-review/isbn-9784839987848.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-26T00:36:17.000Z",
+    "summary": "※本ページは、アフィリエイト広告を利用しています。 写真を撮るとき、もっと魅力的にしたい！ と思ったことはないですか？ 小物の置き方を工夫したり、小物ごとに異なる魅せる背景、構図や光の考え方、主役を引き立てる脇役の存在な […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-26T23:56:09.620Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "cd9006dec1890603e49f22d54d860d2f",
+    "title": "CSSのcolumn-ruleプロパティが便利！ 疑似要素やボーダーを使用せずに、コンテナ間に区切り線を装飾できるようになります",
+    "url": "https://coliss.com/articles/build-websites/operation/css/gap-decorations-used-css.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-25T00:36:45.000Z",
+    "summary": "この機能を待ち望んでいた人は、多いと思います！ 6月にアップデートされたChrome 149で、CSS GridやFlexboxのギャップをCSSで装飾できるようになりました。言い換えると、コンテナ間に区切り線をスタイル […]",
+    "categories": [
+      "css",
+      "design",
+      "frontend",
+      "ui"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-26T23:56:09.620Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "30097890014812cf1cdf8217b466fe42",
     "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
     "url": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
@@ -13,48 +53,28 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-24T23:59:28.392Z",
+    "score": 40,
+    "fetchedAt": "2026-06-26T23:56:09.620Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
-    "id": "3be1183441f3e589b97ae1c65c0c9369",
-    "title": "CSSに特化されているから使いやすい！ WebページのCSSを確認・編集できるスタンドアロンのCSSエディタ -InSpec",
-    "url": "https://coliss.com/articles/build-websites/operation/css/standalone-css-editor-inspec.html",
-    "source": "コリス",
+    "id": "5b33999b47ce4aa12035f4aac6e212e1",
+    "title": "エンジニア（というかまささん）って何してるの？1日の流れや開発環境を聞いてみた",
+    "url": "https://liginc.co.jp/679963",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-23T00:36:09.000Z",
-    "summary": "CSSの検証やデバッグにデベロッパーツールを使用している人が多いと思います。しかし、デベロッパーツールではリロードするとその変更内容が消えてしまうという大きな弱点があります。 macOS用のインスペクター、CSSに特化さ […]",
-    "categories": [
-      "css",
-      "design",
-      "frontend",
-      "ui"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-24T23:59:28.392Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "6a280f34739a69a602961d26b93dfee5",
-    "title": "Kindleの特大セールで、マンガや小説、同人誌の創作に役立つ「感情類語辞典」「場面設定類語辞典」など類語辞典シリーズが超お買い得です！",
-    "url": "https://coliss.com/articles/products/kindle-sales-202607-filmart.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-22T00:36:15.000Z",
-    "summary": "※本ページは、アフィリエイト広告を利用しています。 年に一度となるフィルムアート社の周年記念セールが、Kindleで開催です！ 期間は、2026/7/13まで。 当ブログでも好評だった創作向けの類語辞典シリーズがKind […]",
+    "publishedAt": "2026-06-25T21:00:43.000Z",
+    "summary": "26新卒のぱっちょです！ これからエンジニアを目指そうと思っている方いませんか？ 「エンジニアって、一日中コードを書いてるの？」 「リモートと出社、ぶっちゃけどう使い分けてるの？」 「働いている人ってどんな人？」 と多く […]",
     "categories": [
       "design",
-      "css",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-24T23:59:28.392Z",
+    "score": 37,
+    "fetchedAt": "2026-06-26T23:56:08.855Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,8 +93,8 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-24T23:59:27.780Z",
+    "score": 34,
+    "fetchedAt": "2026-06-26T23:56:08.855Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -93,71 +113,50 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-24T23:59:27.781Z",
+    "score": 34,
+    "fetchedAt": "2026-06-26T23:56:08.855Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "b8723a9f279f892d4929c8b763c4b33f",
-    "title": "【2026年版】Webデザイナーの就職は厳しい？就職市場の現状と成功する5つの対策",
-    "url": "https://liginc.co.jp/674891",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-17T21:00:28.000Z",
-    "summary": "「Webデザイナーの就職は厳しい」という情報を目にして、不安を感じていませんか？ 確かに競争は激しいですが、正しい準備と戦略があれば、未経験からでも就職は十分可能です。 この記事では、Webデザイナーの就職市場の現状を分 […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 32,
-    "fetchedAt": "2026-06-24T23:59:27.781Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "344bc6b65455d9da7bd0314073b99fb7",
-    "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-    "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+    "id": "6600a9886c871f5186d958c6608212b9",
+    "title": "translateZ()",
+    "url": "https://css-tricks.com/almanac/functions/t/translatez/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-06-22T12:39:13.000Z",
-    "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions",
-    "categories": [
-      "design",
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 28,
-    "fetchedAt": "2026-06-24T23:59:28.464Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "54b76c6d1d72a98f1dea677312b4370b",
-    "title": "The Siren Song of ariaNotify()",
-    "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-17T15:32:30.000Z",
-    "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter a...",
+    "publishedAt": "2026-06-25T13:18:56.000Z",
+    "summary": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
       "css",
       "frontend",
       "ui"
     ],
-    "score": 21,
-    "fetchedAt": "2026-06-24T23:59:28.464Z",
+    "score": 26,
+    "fetchedAt": "2026-06-26T23:56:09.535Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_D001C67931903D7057449C5AC820101F7F153CB201332AFD0DF2BBB3E6313CC4_1779810124342_image.png?resize=876%2C608&#038;ssl=1",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1",
+    "isPickup": false
+  },
+  {
+    "id": "c543a1e94355d9fb8822c08bad28de90",
+    "title": "translate()",
+    "url": "https://css-tricks.com/almanac/functions/t/translate/",
+    "source": "CSS-Tricks",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-25T13:15:05.000Z",
+    "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+    "categories": [
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 26,
+    "fetchedAt": "2026-06-26T23:56:09.535Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/a8e040142716a4b44d014d80fbcf99c635b1d8faabfe469b6954a8ef2f168595.jpg?resize=80%2C80&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -176,31 +175,32 @@
       "accessibility"
     ],
     "score": 21,
-    "fetchedAt": "2026-06-24T23:59:27.996Z",
+    "fetchedAt": "2026-06-26T23:56:09.305Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
     "isPickup": false
   },
   {
-    "id": "ece0d1b619fecc5e3fe6464e74273974",
-    "title": "The Impact Of Humanoid Robots On Humanity",
-    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+    "id": "3efda0c5b0969ce620bbf89101d63afe",
+    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
     "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-06-12T08:00:00.000Z",
-    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distin...",
+    "publishedAt": "2026-05-28T13:00:00.000Z",
+    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
     "categories": [
       "design",
-      "ux",
+      "css",
       "frontend",
-      "accessibility"
+      "accessibility",
+      "ux"
     ],
     "score": 21,
-    "fetchedAt": "2026-06-24T23:59:27.996Z",
+    "fetchedAt": "2026-06-26T23:56:09.305Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
+    "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
     "isPickup": false
   }
 ]
