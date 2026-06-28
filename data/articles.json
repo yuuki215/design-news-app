@@ -13,8 +13,8 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-26T23:56:09.620Z",
+    "score": 40,
+    "fetchedAt": "2026-06-27T23:55:31.504Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -34,7 +34,7 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-26T23:56:09.620Z",
+    "fetchedAt": "2026-06-27T23:55:31.504Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
@@ -53,8 +53,8 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-26T23:56:09.620Z",
+    "score": 37,
+    "fetchedAt": "2026-06-27T23:55:31.504Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,7 +74,7 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-26T23:56:08.855Z",
+    "fetchedAt": "2026-06-27T23:55:31.574Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -94,7 +94,7 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-26T23:56:08.855Z",
+    "fetchedAt": "2026-06-27T23:55:31.574Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,49 +114,9 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-26T23:56:08.855Z",
+    "fetchedAt": "2026-06-27T23:55:31.574Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": false
-  },
-  {
-    "id": "6600a9886c871f5186d958c6608212b9",
-    "title": "translateZ()",
-    "url": "https://css-tricks.com/almanac/functions/t/translatez/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-25T13:18:56.000Z",
-    "summary": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-06-26T23:56:09.535Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "c543a1e94355d9fb8822c08bad28de90",
-    "title": "translate()",
-    "url": "https://css-tricks.com/almanac/functions/t/translate/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-25T13:15:05.000Z",
-    "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 26,
-    "fetchedAt": "2026-06-26T23:56:09.535Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/a8e040142716a4b44d014d80fbcf99c635b1d8faabfe469b6954a8ef2f168595.jpg?resize=80%2C80&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -175,32 +135,52 @@
       "accessibility"
     ],
     "score": 21,
-    "fetchedAt": "2026-06-26T23:56:09.305Z",
+    "fetchedAt": "2026-06-27T23:55:30.968Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
     "isPickup": false
   },
   {
-    "id": "3efda0c5b0969ce620bbf89101d63afe",
-    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+    "id": "ece0d1b619fecc5e3fe6464e74273974",
+    "title": "The Impact Of Humanoid Robots On Humanity",
+    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
     "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-05-28T13:00:00.000Z",
-    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+    "publishedAt": "2026-06-12T08:00:00.000Z",
+    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distin...",
     "categories": [
       "design",
-      "css",
+      "ux",
       "frontend",
-      "accessibility",
-      "ux"
+      "accessibility"
     ],
-    "score": 21,
-    "fetchedAt": "2026-06-26T23:56:09.305Z",
+    "score": 19,
+    "fetchedAt": "2026-06-27T23:55:30.968Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
+    "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "409e63692ec7520cf004e5927b4cc585",
+    "title": "The Benefits Of Cognitive Inclusion In UX Research",
+    "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-10T10:00:00.000Z",
+    "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 19,
+    "fetchedAt": "2026-06-27T23:55:30.968Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
     "isPickup": false
   }
 ]
