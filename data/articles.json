@@ -1,5 +1,25 @@
 [
   {
+    "id": "5f94e1f749f2b8f02c0e7dfda82c7af4",
+    "title": "CSSはどんどん進化している！ border-shapeプロパティを使うとボーダーをあらゆる形状に実装できます",
+    "url": "https://coliss.com/articles/build-websites/operation/css/connecting-circles-with-border-shape.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-29T00:36:53.000Z",
+    "summary": "CSSで2つの円を線でつなぐボーダーを実装できると思いますか？ 可能になりました！ Chrome 147+のアップデートでサポートされたborder-shapeプロパティを使用すると、ボーダーにあらゆる形状（多角形・円な […]",
+    "categories": [
+      "css",
+      "design",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-29T23:54:56.317Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "e7d0b2bef654671b7f4b6defe56ddd39",
     "title": "ちょっとしたことで写真が映える！ 日常の小物を魅力的に撮影する写真解説書 -世界観が伝わる静物写真のつくりかた",
     "url": "https://coliss.com/articles/book-review/isbn-9784839987848.html",
@@ -13,51 +33,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-29T00:01:24.005Z",
+    "score": 37,
+    "fetchedAt": "2026-06-29T23:54:56.317Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
-  },
-  {
-    "id": "610cf1cad9f5d92325beeefe52519620",
-    "title": "アスリートの生き様と、スポーツへの情熱をサイトに込めて。「モメンタムスポーツ」リニューアル秘話",
-    "url": "https://liginc.co.jp/681878",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-28T21:00:36.000Z",
-    "summary": "こんにちは、Webディレクターの永井（リコ）です。 LIGはこのたび、モメンタムスポーツ株式会社様のコーポレートサイトリニューアルを担当しました。 ▲モメンタムスポーツ コーポレートサイト モメンタムスポーツ株式会社アス […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-29T00:01:23.878Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "1e9155aa6bace29ecc0980b73a058055",
-    "title": "【7/6(月)12時無料配信】AIを使って独自性の高い記事を作る方法",
-    "url": "https://liginc.co.jp/682132",
-    "source": "LIG blog",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-28T20:58:26.000Z",
-    "summary": "「AIでコンテンツ制作を効率化したいけど具体的な手法がわからない」 「オリジナリティのある記事をAIで作るのは難しいのでは？」 生成AIを記事制作に活用しようと試みる中で、このように感じたことがある方は多いと思います。  […]",
-    "categories": [
-      "design",
-      "web",
-      "frontend",
-      "ux"
-    ],
-    "score": 40,
-    "fetchedAt": "2026-06-29T00:01:23.878Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": false
   },
   {
     "id": "cd9006dec1890603e49f22d54d860d2f",
@@ -74,27 +54,47 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-29T00:01:24.005Z",
+    "fetchedAt": "2026-06-29T23:54:56.317Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "30097890014812cf1cdf8217b466fe42",
-    "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
-    "url": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
-    "source": "コリス",
+    "id": "610cf1cad9f5d92325beeefe52519620",
+    "title": "アスリートの生き様と、スポーツへの情熱をサイトに込めて。「モメンタムスポーツ」リニューアル秘話",
+    "url": "https://liginc.co.jp/681878",
+    "source": "LIG blog",
     "sourceType": "rss",
-    "publishedAt": "2026-06-24T00:36:02.000Z",
-    "summary": "アプリをインストールして困ることが、ショートカットキーが他のアプリと重複している場合です。いつもなら「Command + スペース」でスポットライトを呼び出せるのに、なぜか他のアプリが起動してしまったことはありませんか？ […]",
+    "publishedAt": "2026-06-28T21:00:36.000Z",
+    "summary": "こんにちは、Webディレクターの永井（リコ）です。 LIGはこのたび、モメンタムスポーツ株式会社様のコーポレートサイトリニューアルを担当しました。 ▲モメンタムスポーツ コーポレートサイト モメンタムスポーツ株式会社アス […]",
     "categories": [
       "design",
-      "css",
+      "web",
       "frontend",
-      "ui"
+      "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-29T00:01:24.005Z",
+    "fetchedAt": "2026-06-29T23:54:55.829Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "1e9155aa6bace29ecc0980b73a058055",
+    "title": "【7/6(月)12時無料配信】AIを使って独自性の高い記事を作る方法",
+    "url": "https://liginc.co.jp/682132",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-28T20:58:26.000Z",
+    "summary": "「AIでコンテンツ制作を効率化したいけど具体的な手法がわからない」 「オリジナリティのある記事をAIで作るのは難しいのでは？」 生成AIを記事制作に活用しようと試みる中で、このように感じたことがある方は多いと思います。  […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 37,
+    "fetchedAt": "2026-06-29T23:54:55.829Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -114,30 +114,28 @@
       "ux"
     ],
     "score": 34,
-    "fetchedAt": "2026-06-29T00:01:23.878Z",
+    "fetchedAt": "2026-06-29T23:54:55.829Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "344bc6b65455d9da7bd0314073b99fb7",
-    "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-    "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+    "id": "3742607c4fafb2de9c23acd3f706ac93",
+    "title": "The Shifting Line Between CSS States and JavaScript Events",
+    "url": "https://css-tricks.com/css-states-and-javascript-events/",
     "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-06-22T12:39:13.000Z",
-    "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions",
+    "publishedAt": "2026-06-29T13:03:32.000Z",
+    "summary": "CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events origin...",
     "categories": [
-      "design",
       "css",
       "frontend",
       "ui"
     ],
-    "score": 25,
-    "fetchedAt": "2026-06-29T00:01:23.657Z",
+    "score": 28,
+    "fetchedAt": "2026-06-29T23:54:56.908Z",
     "region": "global",
     "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -154,7 +152,7 @@
       "ui"
     ],
     "score": 23,
-    "fetchedAt": "2026-06-29T00:01:23.657Z",
+    "fetchedAt": "2026-06-29T23:54:56.908Z",
     "region": "global",
     "language": "en",
     "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1",
@@ -176,7 +174,7 @@
       "accessibility"
     ],
     "score": 21,
-    "fetchedAt": "2026-06-29T00:01:23.244Z",
+    "fetchedAt": "2026-06-29T23:54:55.937Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -197,7 +195,7 @@
       "accessibility"
     ],
     "score": 19,
-    "fetchedAt": "2026-06-29T00:01:23.244Z",
+    "fetchedAt": "2026-06-29T23:54:55.937Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
