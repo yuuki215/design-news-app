@@ -14,10 +14,50 @@
       "ui"
     ],
     "score": 40,
-    "fetchedAt": "2026-06-27T23:55:31.504Z",
+    "fetchedAt": "2026-06-29T00:01:24.005Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
+  },
+  {
+    "id": "610cf1cad9f5d92325beeefe52519620",
+    "title": "アスリートの生き様と、スポーツへの情熱をサイトに込めて。「モメンタムスポーツ」リニューアル秘話",
+    "url": "https://liginc.co.jp/681878",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-28T21:00:36.000Z",
+    "summary": "こんにちは、Webディレクターの永井（リコ）です。 LIGはこのたび、モメンタムスポーツ株式会社様のコーポレートサイトリニューアルを担当しました。 ▲モメンタムスポーツ コーポレートサイト モメンタムスポーツ株式会社アス […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-29T00:01:23.878Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
+    "id": "1e9155aa6bace29ecc0980b73a058055",
+    "title": "【7/6(月)12時無料配信】AIを使って独自性の高い記事を作る方法",
+    "url": "https://liginc.co.jp/682132",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-28T20:58:26.000Z",
+    "summary": "「AIでコンテンツ制作を効率化したいけど具体的な手法がわからない」 「オリジナリティのある記事をAIで作るのは難しいのでは？」 生成AIを記事制作に活用しようと試みる中で、このように感じたことがある方は多いと思います。  […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-29T00:01:23.878Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "cd9006dec1890603e49f22d54d860d2f",
@@ -33,11 +73,11 @@
       "frontend",
       "ui"
     ],
-    "score": 40,
-    "fetchedAt": "2026-06-27T23:55:31.504Z",
+    "score": 37,
+    "fetchedAt": "2026-06-29T00:01:24.005Z",
     "region": "jp",
     "language": "ja",
-    "isPickup": true
+    "isPickup": false
   },
   {
     "id": "30097890014812cf1cdf8217b466fe42",
@@ -54,7 +94,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-27T23:55:31.504Z",
+    "fetchedAt": "2026-06-29T00:01:24.005Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -73,50 +113,51 @@
       "frontend",
       "ux"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-27T23:55:31.574Z",
+    "score": 34,
+    "fetchedAt": "2026-06-29T00:01:23.878Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "d31f242502500f53c8608d34c1eceb57",
-    "title": "専門学校とプロの現場、何が違う？入社3年目の先輩に聞く「技術より大切なこと」",
-    "url": "https://liginc.co.jp/679382",
-    "source": "LIG blog",
+    "id": "344bc6b65455d9da7bd0314073b99fb7",
+    "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+    "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-06-23T21:00:18.000Z",
-    "summary": "はじめまして！ LIGで26新卒として入社した熊谷です！ 「学校で学んだコードの書き方だけで、プロとしてやっていけるんだろうか……」 「チーム開発って、学校でのチーム制作とどう違うんだろう？」 そんな疑問を持ちながら入社 […]",
+    "publishedAt": "2026-06-22T12:39:13.000Z",
+    "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions",
     "categories": [
       "design",
-      "web",
+      "css",
       "frontend",
-      "ux"
+      "ui"
     ],
-    "score": 34,
-    "fetchedAt": "2026-06-27T23:55:31.574Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 25,
+    "fetchedAt": "2026-06-29T00:01:23.657Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1",
     "isPickup": false
   },
   {
-    "id": "b5dd1e383977fa3b20656315084532fd",
-    "title": "語学力を活かす新しい働き方「ブリッジディレクター」とは？現役社員に聞いてみた",
-    "url": "https://liginc.co.jp/680267",
-    "source": "LIG blog",
+    "id": "6600a9886c871f5186d958c6608212b9",
+    "title": "translateZ()",
+    "url": "https://css-tricks.com/almanac/functions/t/translatez/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-06-22T21:00:09.000Z",
-    "summary": "はじめまして！ 新生活で日々右往左往している26卒のさがです。 「海外と関わる働き方がしたいけど、具体的にどんな職業があるのかわからない……」 「せっかく身につけた英語力を、どうにかして仕事に活かしたい！」 そんなふうに […]",
+    "publishedAt": "2026-06-25T13:18:56.000Z",
+    "summary": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
     "categories": [
-      "design",
-      "web",
+      "css",
       "frontend",
-      "ux"
+      "ui"
     ],
-    "score": 34,
-    "fetchedAt": "2026-06-27T23:55:31.574Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 23,
+    "fetchedAt": "2026-06-29T00:01:23.657Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1",
     "isPickup": false
   },
   {
@@ -135,7 +176,7 @@
       "accessibility"
     ],
     "score": 21,
-    "fetchedAt": "2026-06-27T23:55:30.968Z",
+    "fetchedAt": "2026-06-29T00:01:23.244Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -156,31 +197,10 @@
       "accessibility"
     ],
     "score": 19,
-    "fetchedAt": "2026-06-27T23:55:30.968Z",
+    "fetchedAt": "2026-06-29T00:01:23.244Z",
     "region": "global",
     "language": "en",
     "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "409e63692ec7520cf004e5927b4cc585",
-    "title": "The Benefits Of Cognitive Inclusion In UX Research",
-    "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-10T10:00:00.000Z",
-    "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 19,
-    "fetchedAt": "2026-06-27T23:55:30.968Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
     "isPickup": false
   }
 ]
