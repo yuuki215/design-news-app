@@ -1,5 +1,25 @@
 [
   {
+    "id": "2ae4ece1e005b90920d941e11fcd3514",
+    "title": "macOSでアプリごとの音量調整、スリープ解除、ウインドウ切り替えなど、複数のアプリが必要になる機能をまとめて使える無料アプリ -Vorssaint",
+    "url": "https://coliss.com/articles/build-websites/operation/work/vorssaint-for-mac-replaces-several-paid-utilities.html",
+    "source": "コリス",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-30T00:36:32.000Z",
+    "summary": "macOSでアプリごとの音量調整、スリープの解除、ウインドウの切り替え、リアルタイムのシステムモニター、キーボードのクリーニングモードなど、通常なら複数のアプリが必要になる機能をまとめて使えるオープンソースの無料アプリを […]",
+    "categories": [
+      "design",
+      "css",
+      "frontend",
+      "ui"
+    ],
+    "score": 43,
+    "fetchedAt": "2026-06-30T23:59:07.376Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": true
+  },
+  {
     "id": "5f94e1f749f2b8f02c0e7dfda82c7af4",
     "title": "CSSはどんどん進化している！ border-shapeプロパティを使うとボーダーをあらゆる形状に実装できます",
     "url": "https://coliss.com/articles/build-websites/operation/css/connecting-circles-with-border-shape.html",
@@ -13,11 +33,51 @@
       "frontend",
       "ui"
     ],
-    "score": 43,
-    "fetchedAt": "2026-06-29T23:54:56.317Z",
+    "score": 40,
+    "fetchedAt": "2026-06-30T23:59:07.376Z",
     "region": "jp",
     "language": "ja",
     "isPickup": true
+  },
+  {
+    "id": "f0d042f3352370a8a4b674ece683138b",
+    "title": "今月フロントエンドエンジニアが気になったWebサイト・ニュース26選【2026.6】",
+    "url": "https://liginc.co.jp/682154",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-30T21:02:35.000Z",
+    "summary": "LIGでフロントエンドエンジニアをしているいとしゅんです。 Slackのtimesに、日々気になったWebサイトやWeb関連ニュースをメモのように残しているのですが、社内でも「参考になる」と言ってもらえることが多いので、 […]",
+    "categories": [
+      "frontend",
+      "design",
+      "web",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-30T23:59:08.447Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
+  },
+  {
+    "id": "83802bb0a5bc7896fdf1d67e81374de0",
+    "title": "せきゆおうが語る「AIで平均点が量産される今、デザイナーの現在地とこれから」イベントレポート",
+    "url": "https://liginc.co.jp/681739",
+    "source": "LIG blog",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-30T21:00:40.000Z",
+    "summary": "「AIでデザイナーの仕事はなくなるんじゃないか……」 SNSを開けば、そんな不安を煽る投稿が飛び込んでくる。でも、実際のところ、現場はどう変わっているのか？ 自分はこれからどうすればいいのか？ そんなリアルな問いに正面か […]",
+    "categories": [
+      "design",
+      "web",
+      "frontend",
+      "ux"
+    ],
+    "score": 40,
+    "fetchedAt": "2026-06-30T23:59:08.447Z",
+    "region": "jp",
+    "language": "ja",
+    "isPickup": false
   },
   {
     "id": "e7d0b2bef654671b7f4b6defe56ddd39",
@@ -34,27 +94,7 @@
       "ui"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-29T23:54:56.317Z",
-    "region": "jp",
-    "language": "ja",
-    "isPickup": true
-  },
-  {
-    "id": "cd9006dec1890603e49f22d54d860d2f",
-    "title": "CSSのcolumn-ruleプロパティが便利！ 疑似要素やボーダーを使用せずに、コンテナ間に区切り線を装飾できるようになります",
-    "url": "https://coliss.com/articles/build-websites/operation/css/gap-decorations-used-css.html",
-    "source": "コリス",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-25T00:36:45.000Z",
-    "summary": "この機能を待ち望んでいた人は、多いと思います！ 6月にアップデートされたChrome 149で、CSS GridやFlexboxのギャップをCSSで装飾できるようになりました。言い換えると、コンテナ間に区切り線をスタイル […]",
-    "categories": [
-      "css",
-      "design",
-      "frontend",
-      "ui"
-    ],
-    "score": 37,
-    "fetchedAt": "2026-06-29T23:54:56.317Z",
+    "fetchedAt": "2026-06-30T23:59:07.376Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
@@ -74,49 +114,71 @@
       "ux"
     ],
     "score": 37,
-    "fetchedAt": "2026-06-29T23:54:55.829Z",
+    "fetchedAt": "2026-06-30T23:59:08.447Z",
     "region": "jp",
     "language": "ja",
     "isPickup": false
   },
   {
-    "id": "1e9155aa6bace29ecc0980b73a058055",
-    "title": "【7/6(月)12時無料配信】AIを使って独自性の高い記事を作る方法",
-    "url": "https://liginc.co.jp/682132",
-    "source": "LIG blog",
+    "id": "6abdc4e6e5bd7e601a9a3d932be1176d",
+    "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
+    "url": "https://css-tricks.com/whats-important-14/",
+    "source": "CSS-Tricks",
     "sourceType": "rss",
-    "publishedAt": "2026-06-28T20:58:26.000Z",
-    "summary": "「AIでコンテンツ制作を効率化したいけど具体的な手法がわからない」 「オリジナリティのある記事をAIで作るのは難しいのでは？」 生成AIを記事制作に活用しようと試みる中で、このように感じたことがある方は多いと思います。  […]",
+    "publishedAt": "2026-06-30T13:54:14.000Z",
+    "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally h...",
     "categories": [
-      "design",
-      "web",
+      "css",
       "frontend",
-      "ux"
+      "ui"
     ],
-    "score": 37,
-    "fetchedAt": "2026-06-29T23:54:55.829Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 29,
+    "fetchedAt": "2026-06-30T23:59:07.827Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-1.png?resize=1024%2C642&#038;ssl=1",
     "isPickup": false
   },
   {
-    "id": "5b33999b47ce4aa12035f4aac6e212e1",
-    "title": "エンジニア（というかまささん）って何してるの？1日の流れや開発環境を聞いてみた",
-    "url": "https://liginc.co.jp/679963",
-    "source": "LIG blog",
+    "id": "7b92def71e09ff99a8343b39145402c4",
+    "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+    "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+    "source": "Smashing Magazine",
     "sourceType": "rss",
-    "publishedAt": "2026-06-25T21:00:43.000Z",
-    "summary": "26新卒のぱっちょです！ これからエンジニアを目指そうと思っている方いませんか？ 「エンジニアって、一日中コードを書いてるの？」 「リモートと出社、ぶっちゃけどう使い分けてるの？」 「働いている人ってどんな人？」 と多く […]",
+    "publishedAt": "2026-06-30T12:00:00.000Z",
+    "summary": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
     "categories": [
       "design",
-      "web",
-      "frontend",
-      "ux"
+      "accessibility",
+      "ux",
+      "frontend"
     ],
-    "score": 34,
-    "fetchedAt": "2026-06-29T23:54:55.829Z",
-    "region": "jp",
-    "language": "ja",
+    "score": 29,
+    "fetchedAt": "2026-06-30T23:59:07.312Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg",
+    "isPickup": false
+  },
+  {
+    "id": "0073051b6cd800d18932ab2e7dd8f402",
+    "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+    "source": "Smashing Magazine",
+    "sourceType": "rss",
+    "publishedAt": "2026-06-30T11:00:00.000Z",
+    "summary": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
+    "categories": [
+      "design",
+      "ux",
+      "frontend",
+      "accessibility"
+    ],
+    "score": 29,
+    "fetchedAt": "2026-06-30T23:59:07.312Z",
+    "region": "global",
+    "language": "en",
+    "thumbnail": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
     "isPickup": false
   },
   {
@@ -132,73 +194,10 @@
       "frontend",
       "ui"
     ],
-    "score": 28,
-    "fetchedAt": "2026-06-29T23:54:56.908Z",
+    "score": 25,
+    "fetchedAt": "2026-06-30T23:59:07.827Z",
     "region": "global",
     "language": "en",
-    "isPickup": false
-  },
-  {
-    "id": "6600a9886c871f5186d958c6608212b9",
-    "title": "translateZ()",
-    "url": "https://css-tricks.com/almanac/functions/t/translatez/",
-    "source": "CSS-Tricks",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-25T13:18:56.000Z",
-    "summary": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-    "categories": [
-      "css",
-      "frontend",
-      "ui"
-    ],
-    "score": 23,
-    "fetchedAt": "2026-06-29T23:54:56.908Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1",
-    "isPickup": false
-  },
-  {
-    "id": "1dd4f1ad4bd551dfe1d754afc4873634",
-    "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-    "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-16T15:00:00.000Z",
-    "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
-    "categories": [
-      "design",
-      "product",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 21,
-    "fetchedAt": "2026-06-29T23:54:55.937Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
-    "isPickup": false
-  },
-  {
-    "id": "ece0d1b619fecc5e3fe6464e74273974",
-    "title": "The Impact Of Humanoid Robots On Humanity",
-    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-    "source": "Smashing Magazine",
-    "sourceType": "rss",
-    "publishedAt": "2026-06-12T08:00:00.000Z",
-    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distin...",
-    "categories": [
-      "design",
-      "ux",
-      "frontend",
-      "accessibility"
-    ],
-    "score": 19,
-    "fetchedAt": "2026-06-29T23:54:55.937Z",
-    "region": "global",
-    "language": "en",
-    "thumbnail": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
     "isPickup": false
   }
 ]
